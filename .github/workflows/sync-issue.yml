@@ -1,0 +1,30 @@
+name: Sync Issue to Tracker
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync issue to tasks.json + rebuild site
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python3 .github/sync_issue.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "tracker-bot"
+          git config user.email "tracker-bot@users.noreply.github.com"
+          git add tasks.json index.html
+          git diff --cached --quiet || git commit -m "Add task from issue #${{ github.event.issue.number }}"
+          git push
