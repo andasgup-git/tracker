@@ -1,0 +1,29 @@
+{
+  "tracks": [
+    {"id": "job", "name": "Job", "emoji": "💼", "color": "#4F8EF7", "description": "Google work items"},
+    {"id": "dc", "name": "DC Closing", "emoji": "🎬", "color": "#9B59B6", "description": "Devi Chowdhurani - release, festivals, distribution, Zee"},
+    {"id": "studio", "name": "Studio Work", "emoji": "🏢", "color": "#E67E22", "description": "ADited / Confluence 2027 / BASAFF / Aparna Hollywood positioning"},
+    {"id": "finance", "name": "Finance & Legal", "emoji": "💰", "color": "#27AE60", "description": "Lovleen/BASAF, Universal Organic, Wyoming/Swyft/Buffalo, taxes"},
+    {"id": "home", "name": "Home & Family", "emoji": "🏠", "color": "#E74C3C", "description": "FasTrak, health, household, Aparna & Ariana"},
+    {"id": "miku", "name": "Miku", "emoji": "🐾", "color": "#F39C12", "description": "Miku-related items"}
+  ],
+  "tasks": [
+    {"id": "t01", "track": "dc", "title": "Send DC booking emails (Cinemark/Regal/AMC)", "status": "pending", "priority": "high", "due": "2026-08-14", "notes": "Release locked Fri Sep 4, 2026. Emails ready in inbox (3 separate). Verify: Scott Landes still at AMC, Brandon Corrier at Regal, Mirzapur US count, Demonte Colony 3 US dates."},
+    {"id": "t02", "track": "dc", "title": "Reply to Lovleen - 4 BASAF clarifications", "status": "pending", "priority": "high", "due": "2026-08-11", "notes": "Draft in inbox (Word). Answers: film acq Jul 2024 + Jan 2025; $12K fee source unknown - ask Lovleen; no 1099s; transport = vehicle + delivery."},
+    {"id": "t03", "track": "dc", "title": "IMDbPro title claim - check status in portal", "status": "pending", "priority": "medium", "due": "2026-08-14", "notes": "No email confirmations from IMDb - normal. Check pro.imdb.com/title/tt27794798 Manage Title. Escalate at 4 weeks if pending."},
+    {"id": "t04", "track": "dc", "title": "Review-bombing report - post to Sprinklr community", "status": "pending", "priority": "low", "due": "2026-08-17", "notes": "imdblegal@amazon.com silent 12+ days. Use community-imdb.sprinklr.com (Data Issues) with copy-paste report. Trackable case ID."},
+    {"id": "t05", "track": "dc", "title": "Zee Music - delivery schedule + payment follow-up", "status": "pending", "priority": "high", "due": "2026-08-14", "notes": "Aug 7 ultimatum passed. Reply draft v2 emailed. Deliverables buckets Aug 14/21/31. Hold Clause 11.2 + BGM-videos-not-required as leverage."},
+    {"id": "t06", "track": "dc", "title": "Festival campaign - submit 4 diaspora festivals", "status": "pending", "priority": "medium", "due": "2026-08-21", "notes": "CSAFF Chicago, Dharamshala IFF, Tasveer Seattle, DC South Asian FF. 2026 windows closing. Tracker: DC_Festival_Master_Tracker.xlsx (172 festivals)."},
+    {"id": "t07", "track": "dc", "title": "Film Bazaar Nov 2026 - accreditation + meetings", "status": "pending", "priority": "medium", "due": "2026-09-15", "notes": "NFDC Film Bazaar Goa. Sales agents, OTT buyers, distributors. Budget ~$1,300 (flights + stay)."},
+    {"id": "t08", "track": "studio", "title": "Confluence Media vertical - submit proposal to Bitan/Sudipto", "status": "pending", "priority": "high", "due": "2026-08-14", "notes": "Deck: Confluence_Media_Proposal_Deck.pptx (17 slides). Pitch to Bitan Nandi Biswas (CEO) + Sudipto Mukhopadhyay (Co-Chair). Ask: architect + operating partner."},
+    {"id": "t09", "track": "studio", "title": "Aparna Hollywood - execute Day 1-7 (WIF/WIFTI apps)", "status": "pending", "priority": "medium", "due": "2026-08-21", "notes": "8-doc package delivered. WIF membership open (not credit-gated) - apply this week. PGA: needs 2 US-qualifying credits."},
+    {"id": "t10", "track": "finance", "title": "Swyft - reply v2 + dispute Aug 5 charge", "status": "pending", "priority": "high", "due": "2026-08-12", "notes": "Charged $19.99 Aug 5 AFTER cancellation request + dissolution. Reply v2 in inbox. Call (877) 777-0450. Dispute with Visa 5018 if no resolution in 5 days."},
+    {"id": "t11", "track": "finance", "title": "FasTrak - pay $35.50 + update card", "status": "pending", "priority": "high", "due": "2026-08-11", "notes": "Account 222832058. Card (MC 7245) declined Jul 17. Deadline ~Aug 11 passed - may be in closure window. bayareafastrak.org or 1-877-BAY-TOLL."},
+    {"id": "t12", "track": "finance", "title": "Buffalo RA - follow up cancellation", "status": "pending", "priority": "medium", "due": "2026-08-14", "notes": "Aug 2 cancellation + settlement draft sent. Service Change Confirmation received Aug 4 - READ IT. Fair settlement $12 vs $381 billed."},
+    {"id": "t13", "track": "finance", "title": "Universal Organic - Delaware $300 + BOI filing", "status": "pending", "priority": "medium", "due": "2026-08-31", "notes": "Delaware annual tax $300 + late fee ($200) + 1.5%/mo. BOI free at boiefiling.fincen.gov. Schedule C via CPA ($50-150 incremental)."},
+    {"id": "t14", "track": "home", "title": "Miji invoices - music, gym, table tennis", "status": "pending", "priority": "high", "due": "2026-08-14", "notes": "Email to payments@mijicare.com ready (3 invoices: piano $245, gym $2,510 due, TT $1,890). Case manager email for monthly music auth + TT status. Attachments sent."},
+    {"id": "t15", "track": "home", "title": "Ariana social story - fill caregiver name", "status": "pending", "priority": "low", "due": "2026-08-15", "notes": "Ariana_Evening_Social_Story.html complete. Replace [CARE PROVIDER NAME]; optionally send photo for Helper character."},
+    {"id": "t16", "track": "job", "title": "Check Google AOP (Leon Chien) item", "status": "pending", "priority": "medium", "due": "2026-08-14", "notes": "2027 Annual Operating Planning - TI Dev Discretion. Verify if still pending in work calendar."},
+    {"id": "t17", "track": "miku", "title": "Miku - [placeholder - add item when mentioned]", "status": "pending", "priority": "low", "due": null, "notes": "Track created. User will mention Miku tasks randomly."}
+  ]
+}
