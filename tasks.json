@@ -48,7 +48,7 @@
       "id": "t01",
       "track": "dc",
       "title": "Send DC booking emails (Cinemark/Regal/AMC)",
-      "status": "pending",
+      "status": "done",
       "priority": "high",
       "due": "2026-08-14",
       "notes": "Release locked Fri Sep 4, 2026. Emails ready in inbox (3 separate). Verify: Scott Landes still at AMC, Brandon Corrier at Regal, Mirzapur US count, Demonte Colony 3 US dates."
