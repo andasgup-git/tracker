@@ -15,6 +15,9 @@
   .add-btn { display:inline-block; background:#F5B041; color:#1A2335; font-weight:700; font-size:14px;
     text-decoration:none; padding:9px 16px; border-radius:10px; margin-top:8px; }
   .add-btn:hover { background:#F7C35F; }
+  .done-btn { display:inline-block; background:#1D3A2C; color:#6FE3A1; font-weight:700; font-size:12px;
+    text-decoration:none; padding:4px 12px; border-radius:8px; border:1px solid #2E5C43; }
+  .done-btn:hover { background:#2E5C43; }
   .hint { font-size:11px; color:var(--muted); margin-top:6px; max-width:320px; }
   .stats { display:flex; gap:10px; flex-wrap:wrap; }
   .stat { background:var(--card); border:1px solid #2A3A5C; border-radius:10px; padding:6px 12px; font-size:12px; }
@@ -115,7 +118,7 @@ const DATA = {
    "id": "t02",
    "track": "dc",
    "title": "Reply to Lovleen - 4 BASAF clarifications",
-   "status": "pending",
+   "status": "done",
    "priority": "high",
    "due": "2026-08-11",
    "notes": "Draft in inbox (Word). Answers: film acq Jul 2024 + Jan 2025; $12K fee source unknown - ask Lovleen; no 1099s; transport = vehicle + delivery."
@@ -345,12 +348,16 @@ function render() {
     tasks.forEach(t => {
       const el = document.createElement("div");
       el.className = "task s-" + t.status;
+      const doneBtn = t.status === "pending" || t.status === "in_progress"
+        ? `<a class="done-btn" href="https://github.com/andasgup-git/tracker/issues/new?title=resolve%20${encodeURIComponent(t.id)}%20${encodeURIComponent(t.title)}&body=Mark%20as%20done%20via%20mobile.">✅ Done</a>`
+        : "";
       el.innerHTML = `
         <div class="title">${t.title}</div>
         <div class="meta">
           <span class="tag p-${t.priority}">${t.priority}</span>
           <span class="tag" style="background:#2A3A5C;color:var(--muted)">${STATUS_LABEL[t.status]||t.status}</span>
           ${t.due?`<span class="due ${dueClass(t.due)}">📅 ${fmtDue(t.due)}</span>`:""}
+          ${doneBtn}
         </div>
         ${t.notes?`<div class="notes">${t.notes}</div>`:""}`;
       body.appendChild(el);
