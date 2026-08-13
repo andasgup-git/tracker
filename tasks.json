@@ -241,6 +241,33 @@
       "priority": "high",
       "due": "2026-08-13",
       "notes": "Draft: /home/aniru/CPA_Investments_Email.docx. Subject: 'Review of Upcoming Investments & BASAF Capital'. Covers $700K background, $200-300K new investments, $150K into BASAF, UO pending items."
+    },
+    {
+      "id": "t22",
+      "track": "finance",
+      "title": "Call WY SOS (307) 777-7311 - confirm admin-dissolved LLC can file dissolution",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-14",
+      "notes": "Key question: can administratively-dissolved LLC file Articles of Dissolution WITHOUT reinstatement? This is Swyft's upsell trap - SOS phone answer is ground truth."
+    },
+    {
+      "id": "t23",
+      "track": "finance",
+      "title": "Mail Wyoming Articles of Dissolution + $60 check",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-15",
+      "notes": "Form pre-filled: /home/aniru/Wyoming_Dissolution_Form_PREFILLED.pdf. Sign, print, $60 check payable to 'Wyoming Secretary of State'. Mail: Herschler Building East, Suite 101, 122 W 25th St, Cheyenne, WY 82002-0020. 15 business days processing."
+    },
+    {
+      "id": "t24",
+      "track": "finance",
+      "title": "Send Swyft cancellation demand with dissolution evidence",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-09-10",
+      "notes": "After filing evidence arrives (15 biz days): email info@swyftfilings.com demanding RA cancel effective dissolution + no further charges. Then if they still charge after 5 biz days - card dispute."
     }
   ]
 }
