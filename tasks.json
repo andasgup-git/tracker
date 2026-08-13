@@ -87,7 +87,7 @@
       "status": "pending",
       "priority": "high",
       "due": "2026-08-14",
-      "notes": "Aug 7 ultimatum passed. Reply draft v2 emailed. Deliverables buckets Aug 14/21/31. Hold Clause 11.2 + BGM-videos-not-required as leverage."
+      "notes": "Aug 13 QC updates (Shivam Pandey): Durgamo Giri Kantar Moru audio IT OK but Revised Stems REJECTED (distorted); videos REJECTED - Dhonno Moder (cinemascope 03:23), Profullo-Debi Chowdhurani (black frame 02:23:15), Bhabani Pathak Theme (top side 01:55), East India Company Theme (cinemascope + dissolve 01:06), Chamunda Stotram BGM (right side 00:24). Training Theme MUKTOKESHI OK. QC for remaining 6 videos promised by Fri EOD/Mon AM. Tanmoy re-delivering via Gdrive. Hold Clause 11.2 + BGM-videos-not-required as leverage."
     },
     {
       "id": "t06",
@@ -159,7 +159,7 @@
       "status": "pending",
       "priority": "high",
       "due": "2026-08-14",
-      "notes": "Email to payments@mijicare.com ready (3 invoices: piano $245, gym $2,510 due, TT $1,890). Case manager email for monthly music auth + TT status. Attachments sent."
+      "notes": "Email to payments@mijicare.com ready (3 invoices: piano $245, gym $2,510 due, TT $1,890). UPDATE Aug 13: RCEB/Miji (Alexa Justo) confirmed Table Tennis was reimbursed via direct deposit on 07/01/2026 (Aricka thanked Alexa; Aparna cc'd). Case manager email for monthly music auth + TT status. Attachments sent."
     },
     {
       "id": "t15",
@@ -285,7 +285,7 @@
       "status": "pending",
       "priority": "high",
       "due": "2026-08-19",
-      "notes": "WioBusiness asked for more info on application (forwarded by Soumyajit Aug 12). Log in to business.wio.io questionnaire (questionnaireInstanceId=4ccd0f66-66b6-436d-b703-b6e021a40a35) and upload requested docs. Support 600 500 946."
+      "notes": "WioBusiness asked for more info on application (forwarded by Soumyajit Aug 12). Aug 13 reminder 'Action Needed to Keep Your Application Open': application will be CLOSED in 45 days if no action. Log in to business.wio.io questionnaire (questionnaireInstanceId=4ccd0f66-66b6-436d-b703-b6e021a40a35) and upload requested docs. Support 600 500 946."
     },
     {
       "id": "t27",
@@ -313,6 +313,33 @@
       "priority": "high",
       "due": "2026-08-19",
       "notes": "Aparna emailed Seven Bridges Aug 12: Blue Cross (Anthem) out of network, Lisa doesn't accept Medi-Cal; requested switch to a therapist accepting Medi-Cal/Santa Clara Family Health Plan. Ariana already missed therapy. Follow up if no response in a few days (Scheduling@sevenbridgestherapy.com, 925-222-5353)."
+    },
+    {
+      "id": "t30",
+      "track": "home",
+      "title": "ICAN - confirm Fakhira coverage for Aug 13-14 sessions",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-13",
+      "notes": "ICAN Scheduling (schedule@icanautism.com) Aug 13: Meliza unavailable today/tomorrow, staff Fakhira will cover clinic sessions 4-7pm. Asked to confirm. Reply draft ready: /home/aniru/ICAN_Staff_Coverage_Confirm_Reply.docx - send confirmation."
+    },
+    {
+      "id": "t31",
+      "track": "home",
+      "title": "Pacific Homecare - sign timesheet #602300 (24h window)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-14",
+      "notes": "Pacific Homecare Services (accounting@pacifichomecare.com) Aug 13: pending timesheet requires signature to be valid; sign within 24 hours or compliance violation. Sign document #602300 via emailed link. Contact (209) 956-2532 opt 5."
+    },
+    {
+      "id": "t32",
+      "track": "home",
+      "title": "Villa Sport - verify Ariana removal credits applied",
+      "status": "done",
+      "priority": "medium",
+      "due": "2026-08-13",
+      "notes": "Resolved Aug 13: Mikayla Cornejo + Erika Balce confirmed Ariana's 7-day cancellation honored, membership removal processed EOD, $58.84 credit (Jul+Aug dues) + prorated refunds + late fee waived ($25). Remaining $18.58 prorated July dues credit applied to future billing. Receipts 5306075/5306077/5306084."
     }
   ]
 }
