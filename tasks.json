@@ -87,7 +87,7 @@
       "status": "pending",
       "priority": "high",
       "due": "2026-08-17",
-      "notes": "Aug 14 VIDEO QC (Shivam Pandey, full 9-song list): Jago Maa #OK, Joy Debi #OK, Rangoraj Nishi #OK; Durgamo Giri Kantar Moru #REJECTED (top/bottom cinemascope 01:20, 01:46 + grains 04:50, 05:26); De Maa #REJECTED (video jerk 04:17); Jaage Jaage #REJECTED (top/bottom cinemascope 01:45, 02:02). AUDIO: Durgamo IT OK, Revised Stems REJECTED (distorted). Tanmoy re-delivering revised links via Gdrive Aug 14 (Dhonno Moder, Profullo, Bhabani Pathak, East India Company, Chamunda Stotram revised links sent). Hold Clause 11.2 + BGM-videos-not-required as leverage. Payment follow-up still pending."
+      "notes": "Aug 14 VIDEO QC (Shivam Pandey, full 9-song list): Jago Maa #OK, Joy Debi #OK, Rangoraj Nishi #OK; Durgamo Giri Kantar Moru #REJECTED (top/bottom cinemascope 01:20, 01:46 + grains 04:50, 05:26); De Maa #REJECTED (video jerk 04:17); Jaage Jaage #REJECTED (top/bottom cinemascope 01:45, 02:02). AUDIO: Durgamo IT OK, Revised Stems REJECTED (distorted). Tanmoy re-delivering revised links via Gdrive Aug 14 (Dhonno Moder, Profullo, Bhabani Pathak, East India Company, Chamunda Stotram revised links sent). UPDATE Aug 15 (genuine Tanmoy email): revised versions uploaded for the 3 rejected videos - Durgamo Giri Kantar Moru (cinemascope 01:20/01:46 + grains 04:50/05:26 fixed), De Maa (video jerk 04:17 fixed), Jaage Jaage (cinemascope 01:45/02:02 fixed). Still awaiting Zee feedback on stems of remaining songs. Hold Clause 11.2 + BGM-videos-not-required as leverage. Payment follow-up still pending."
     },
     {
       "id": "t06",
@@ -430,6 +430,24 @@
       "priority": "low",
       "due": "2026-09-15",
       "notes": "Aug 14 email from Megan Foster (Principal, Tom Kitayama Elementary, New Haven USD, mefoster@nhusd.k12.ca.us): regular Room 15 teacher returns mid-September; Ms. Shamily Latha-Ramadoss (slatharamadoss@nhusd.k12.ca.us) covering full-time until then; long-term sub paraprofessional starts next week; Ms. Kunitz + principal monitoring. Broadcast to families - NO reply needed (FYI for Ariana's classroom). Follow-up only if Ariana's support is disrupted during transition."
+    },
+    {
+      "id": "t43",
+      "track": "dc",
+      "title": "DC USA creatives - decision: remove India distribution credit + approve Path B (T-20 to Sep 4)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-21",
+      "notes": "Aug 15 status (self-note, PERSONAL INBOX 345630): Path A designer spec (DC_USA_Poster_Spec.docx - layer-by-layer Photoshop instructions) + Path B 14 USA creatives generated: US_Master_Poster_4x7, Social_Square_1x1, Story_9x16, Countdown 7/5/3/2/1 days, Now_Playing, US_Theatre_List (8 Cinemark locations), city posters NY/NJ + SF Bay Area + LA, US_Banner_16x9. Master PSDs (2.5GB) downloaded to /home/aniru/DC_Creatives/. DECISION NEEDED: (1) remove 'Distribution SSR Cinemas Pvt Ltd & Reliance Entertainment' India distribution credit from 2-char 2sheet + 20x10 banner (US self-distributed via Space-Time) - keep NFDC/film-in-india logos; (2) send Path A spec to designer (Bengali text) OR approve Path B (English text) for campaign use. Path B zip ready for FB Event + campaign kickoff."
+    },
+    {
+      "id": "t44",
+      "track": "home",
+      "title": "Pacific Homecare - follow up 'Waiting for services to resume' (Esmeralda back Mon Aug 17)",
+      "status": "pending",
+      "priority": "low",
+      "due": "2026-08-17",
+      "notes": "Aug 15 auto-reply from Esmeralda Soto (esoto@pacifichomecare.com): OOO until Mon Aug 17 8am. Urgent contacts before then: Full-Service families/providers -> Natalie Eaton (neaton@pacifichomecare.com), Ana Soto (asoto@), Kelly Derr (kderr@); EOR -> eor@pacifichomecare.com; timesheets/payroll -> accounting@pacifichomecare.com. Pending thread: 'Waiting for services to resume' sent Aug 15 - expect response after she returns Aug 17; ping accounting@ if timesheet signatures (t31/t36) are affected."
     }
   ]
 }
