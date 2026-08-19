@@ -3,42 +3,42 @@
     {
       "id": "job",
       "name": "Job",
-      "emoji": "\ud83d\udcbc",
+      "emoji": "💼",
       "color": "#4F8EF7",
       "description": "Google work items"
     },
     {
       "id": "dc",
       "name": "DC Closing",
-      "emoji": "\ud83c\udfac",
+      "emoji": "🎬",
       "color": "#9B59B6",
       "description": "Devi Chowdhurani - release, festivals, distribution, Zee"
     },
     {
       "id": "studio",
       "name": "Studio Work",
-      "emoji": "\ud83c\udfe2",
+      "emoji": "🏢",
       "color": "#E67E22",
       "description": "ADited / Confluence 2027 / BASAFF / Aparna Hollywood positioning"
     },
     {
       "id": "finance",
       "name": "Finance & Legal",
-      "emoji": "\ud83d\udcb0",
+      "emoji": "💰",
       "color": "#27AE60",
       "description": "Lovleen/BASAF, Universal Organic, Wyoming/Swyft/Buffalo, taxes"
     },
     {
       "id": "home",
       "name": "Home & Family",
-      "emoji": "\ud83c\udfe0",
+      "emoji": "🏠",
       "color": "#E74C3C",
       "description": "FasTrak, health, household, Aparna & Ariana"
     },
     {
       "id": "miku",
       "name": "Miku",
-      "emoji": "\ud83d\udc3e",
+      "emoji": "🐾",
       "color": "#F39C12",
       "description": "Miku-related items"
     }
@@ -92,10 +92,10 @@
     {
       "id": "t06",
       "track": "dc",
-      "title": "Festival campaign - submit 4 diaspora festivals",
+      "title": "Submit DC to DIFF 2027 (Dhaka, free, deadline Sep 30) + confirm Tasveer deadline",
       "status": "pending",
       "priority": "medium",
-      "due": "2026-08-21",
+      "due": "2026-09-30",
       "notes": "CSAFF Chicago, Dharamshala IFF, Tasveer Seattle, DC South Asian FF. 2026 windows closing. Tracker: DC_Festival_Master_Tracker.xlsx (172 festivals)."
     },
     {
