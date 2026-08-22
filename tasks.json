@@ -650,11 +650,11 @@
     {
       "id": "t67",
       "track": "health",
-      "title": "Upload Ariana's out-of-network speech + OT bills to Aetna insurance portal",
+      "title": "Upload Ariana's out-of-network speech + OT bills to ANTHEM insurance portal",
       "status": "pending",
       "priority": "high",
       "due": "2026-08-31",
-      "notes": "Upload out-of-network bills for Ariana's speech therapy + occupational therapy to the Aetna member portal (claims submission). Gather: therapy invoices (Seven Bridges speech; OT provider), itemized statements, dates of service. NOTE: user profile says Anthem Blue Cross - confirm whether Aetna is a separate plan (e.g., Google work insurance) or if portal should be Anthem."
+      "notes": "Upload out-of-network bills for Ariana's speech therapy + occupational therapy to the ANTHEM Blue Cross member portal (claims submission). Gather: therapy invoices (Seven Bridges speech; OT provider), itemized statements, dates of service. Anthem is the family plan (user-confirmed Aug 2026, not Aetna). Note: Ariana's speech therapy was previously identified as NOT covered by Anthem (Aparna was switching to Medi-Cal/Santa Clara Family Health Plan therapist) - verify coverage before/while submitting OON claims."
     }
   ]
 }
