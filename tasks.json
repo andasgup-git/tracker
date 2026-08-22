@@ -601,6 +601,15 @@
       "priority": "medium",
       "due": "2026-08-24",
       "notes": "Aug 20 (ADITED inbox 21543, no_reply@post.applecard.apple): virtual card transaction attempt of $2.12 at 'Deepseek' on Aug 20, 2026 was DECLINED as suspicious; not charged; virtual card spending temporarily RESTRICTED until user takes action. Action: open Apple Card in Wallet and confirm whether the transaction was attempted (if recognized, re-attempt purchase; if unauthorized, virtual card gets replaced). No email reply possible (no-reply sender). Specialist: 1-877-255-5923. NOTE: likely the user's own Deepseek API usage - confirm and un-restrict."
+    },
+    {
+      "id": "t62",
+      "track": "finance",
+      "title": "SEND IFZA waiver reply to renewals@ifza.com (MBRJ MEDIA - FZCO, ticket ## 5863817 ##)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-24",
+      "notes": "Aug 21 user self-note (PERSONAL INBOX 346253, sent to own Gmail 23:01 PDT): 'Reply SEND to email it from your Gmail, or send manually from the company mailbox'. Draft READY: /home/aniru/IFZA_MBRJ_Waiver_Reply.md/.docx. Content: (1) accepts license penalty waiver offer; (2) requests ESTABLISHMENT CARD penalty waived on same terms; (3) asks final amount breakdown (license fee + establishment card + govt fees); (4) asks written confirmation that AED 18,000 late penalty (and accruing) is waived in full; (5) asks payment instructions - commits to settling ASAP. Grounded in IFZA Aug 10 email (AED 18,000 figure, ticket ## 5863817 ##). '4 Days to Renew Without Penalty' window (Aug 10) likely passed - June waiver offer should still hold. Send from aniruddha@aditedmotionpictures.com (thread mailbox) or personal Gmail. Related: t27 (UAE CT filing, MBRJ MEDIA TRN 104862644200001)."
     }
   ]
 }
