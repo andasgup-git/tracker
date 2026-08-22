@@ -614,10 +614,11 @@
     {
       "id": "t63",
       "track": "finance",
-      "title": "Visa Fidelity Pension fund withdrawal",
+      "title": "Visa Fidelity Pension/401(k) withdrawal - initiate with Fidelity",
       "status": "pending",
       "priority": "high",
-      "due": "2026-08-31"
+      "due": "2026-08-31",
+      "notes": "Fidelity pension/401(k) from Visa employment days. Target end date Aug 31, 2026. KEY FACTS TO CONFIRM (not tax advice - confirm with Lovleen/CPA): 1) Distribution type: rollover to IRA (no tax/penalty) vs direct cash withdrawal (20% mandatory federal withholding + 10% early-withdrawal penalty if under 59.5 + income tax). 2) Fidelity process: online at fidelity.com or call 800-835-5095; may require spousal consent + notarized forms. 3) Check plan rules: some Visa plans allow partial withdrawals, some only full. 4) If rollover: direct rollover (trustee-to-trustee) avoids the 60-day indirect rollover trap. 5) Get the exact balance + vesting status first. Draft Fidelity inquiry email ready on request."
     }
   ]
 }
