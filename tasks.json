@@ -619,6 +619,42 @@
       "priority": "high",
       "due": "2026-08-31",
       "notes": "DECISION MADE (Aug 21): DIRECT ROLLOVER to Merrill Lynch IRA (trustee-to-trustee) - avoids 20% mandatory withholding + 10% early-withdrawal penalty + income tax. STEPS: 1) Merrill side: confirm/open receiving Traditional IRA at ML, get rollover account details (call MyMerrill 1-800-MERRILL or your ML advisor; Merrill provides Letter of Acceptance/rollover kit). 2) Fidelity side: call Fidelity 800-835-5095 (401(k) rollover line) or online - request DIRECT rollover of the Visa 401(k)/pension to 'Merrill Lynch FBO [Aniruddha Dasgupta]' - trustee-to-trustee (never take the check yourself - 60-day indirect rollover trap). 3) Confirm plan allows full distribution (Visa plan, former employee). 4) Track: no cash touches your hands; ML confirms receipt; 5) Verify vesting 100% (former employee, likely fully vested). Drafts: Fidelity rollover request + Merrill inquiry emails ready on request. NOT tax advice - confirm with Lovleen."
+    },
+    {
+      "id": "t64",
+      "track": "finance",
+      "title": "Research Google (work) insurance + FSA benefit options",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Research Google employer health insurance coverage + FSA (Flexible Spending Account) benefit: plan options, enrollment window (likely annual open enrollment ~Oct/Nov), FSA contribution limits (2026: $3,300 standard), whether FSA covers therapy/OT/speech, HSA eligibility. Compare against current Anthem Blue Cross plan. Confirm with Google benefits portal/HR."
+    },
+    {
+      "id": "t65",
+      "track": "health",
+      "title": "MyChart (Sutter) - outstanding payments + start payment plan (all 3: Aniruddha, Aparna, Ariana)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Log into Sutter MyChart: review outstanding balances for Aniruddha, Aparna, Ariana; set up payment plans (Sutter offers interest-free payment plans); confirm any bills are in-network vs out-of-network; request itemized statements if unclear."
+    },
+    {
+      "id": "t66",
+      "track": "health",
+      "title": "MyHealthOnline (Sutter) - outstanding payments + start payment plan (all 3)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Log into Sutter My Health Online: review outstanding balances for all 3 family members; set up payment plans; check for duplicate bills with MyChart (Sutter migrated to MyChart - some legacy MyHealthOnline balances may need reconciliation)."
+    },
+    {
+      "id": "t67",
+      "track": "health",
+      "title": "Upload Ariana's out-of-network speech + OT bills to Aetna insurance portal",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Upload out-of-network bills for Ariana's speech therapy + occupational therapy to the Aetna member portal (claims submission). Gather: therapy invoices (Seven Bridges speech; OT provider), itemized statements, dates of service. NOTE: user profile says Anthem Blue Cross - confirm whether Aetna is a separate plan (e.g., Google work insurance) or if portal should be Anthem."
     }
   ]
 }
