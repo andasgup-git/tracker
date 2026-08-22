@@ -3,42 +3,42 @@
     {
       "id": "job",
       "name": "Job",
-      "emoji": "💼",
+      "emoji": "\ud83d\udcbc",
       "color": "#4F8EF7",
       "description": "Google work items"
     },
     {
       "id": "dc",
       "name": "DC Closing",
-      "emoji": "🎬",
+      "emoji": "\ud83c\udfac",
       "color": "#9B59B6",
       "description": "Devi Chowdhurani - release, festivals, distribution, Zee"
     },
     {
       "id": "studio",
       "name": "Studio Work",
-      "emoji": "🏢",
+      "emoji": "\ud83c\udfe2",
       "color": "#E67E22",
       "description": "ADited / Confluence 2027 / BASAFF / Aparna Hollywood positioning"
     },
     {
       "id": "finance",
       "name": "Finance & Legal",
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "color": "#27AE60",
       "description": "Lovleen/BASAF, Universal Organic, Wyoming/Swyft/Buffalo, taxes"
     },
     {
       "id": "home",
       "name": "Home & Family",
-      "emoji": "🏠",
+      "emoji": "\ud83c\udfe0",
       "color": "#E74C3C",
       "description": "FasTrak, health, household, Aparna & Ariana"
     },
     {
       "id": "miku",
       "name": "Miku",
-      "emoji": "🐾",
+      "emoji": "\ud83d\udc3e",
       "color": "#F39C12",
       "description": "Miku-related items"
     }
@@ -582,7 +582,7 @@
       "status": "pending",
       "priority": "high",
       "due": "2026-08-19",
-      "notes": "Aug 18 scan: apu.dg1@gmail.com IMAP login FAILED (AUTHENTICATIONFAILED, tried spaced/unspaced/dashed forms of yheu ovwl fcva aqzj). Google security alerts in PERSONAL mailbox explain it: Aug 18 14:04 GMT 'App password created to sign in' (labeled 'Hermes new') then 14:07 GMT 'App password used to sign in was removed' - the password was revoked ~3 min after creation. Generate a NEW app password at myaccount.google.com > Security > 2-Step Verification > App passwords (label e.g. 'Hermes'), update the cron job config. APARNA mailbox (INBOX + Sent) was NOT scanned this run; next run will resume normally once password is updated. UPDATE Aug 21: STILL FAILING - same app password (yheu ovwl fcva aqzj) rejected with AUTHENTICATIONFAILED on Aug 21 scan. New app password still required."
+      "notes": "Aug 18 scan: apu.dg1@gmail.com IMAP login FAILED (AUTHENTICATIONFAILED, tried spaced/unspaced/dashed forms of yheu ovwl fcva aqzj). Google security alerts in PERSONAL mailbox explain it: Aug 18 14:04 GMT 'App password created to sign in' (labeled 'Hermes new') then 14:07 GMT 'App password used to sign in was removed' - the password was revoked ~3 min after creation. Generate a NEW app password at myaccount.google.com > Security > 2-Step Verification > App passwords (label e.g. 'Hermes'), update the cron job config. APARNA mailbox (INBOX + Sent) was NOT scanned this run; next run will resume normally once password is updated. UPDATE Aug 21: STILL FAILING - same app password (yheu ovwl fcva aqzj) rejected with AUTHENTICATIONFAILED on Aug 21 scan. New app password still required. UPDATE Aug 22: STILL FAILING on Aug 22 scan (AUTHENTICATIONFAILED). APARNA INBOX + Sent unscanned since Aug 17."
     },
     {
       "id": "t60",
@@ -606,19 +606,19 @@
       "id": "t62",
       "track": "finance",
       "title": "SEND IFZA waiver reply to renewals@ifza.com (MBRJ MEDIA - FZCO, ticket ## 5863817 ##)",
-      "status": "pending",
+      "status": "done",
       "priority": "high",
       "due": "2026-08-24",
-      "notes": "Aug 21 user self-note (PERSONAL INBOX 346253, sent to own Gmail 23:01 PDT): 'Reply SEND to email it from your Gmail, or send manually from the company mailbox'. Draft READY: /home/aniru/IFZA_MBRJ_Waiver_Reply.md/.docx. Content: (1) accepts license penalty waiver offer; (2) requests ESTABLISHMENT CARD penalty waived on same terms; (3) asks final amount breakdown (license fee + establishment card + govt fees); (4) asks written confirmation that AED 18,000 late penalty (and accruing) is waived in full; (5) asks payment instructions - commits to settling ASAP. Grounded in IFZA Aug 10 email (AED 18,000 figure, ticket ## 5863817 ##). '4 Days to Renew Without Penalty' window (Aug 10) likely passed - June waiver offer should still hold. Send from aniruddha@aditedmotionpictures.com (thread mailbox) or personal Gmail. Related: t27 (UAE CT filing, MBRJ MEDIA TRN 104862644200001)."
+      "notes": "Aug 21 user self-note (PERSONAL INBOX 346253, sent to own Gmail 23:01 PDT): 'Reply SEND to email it from your Gmail, or send manually from the company mailbox'. Draft READY: /home/aniru/IFZA_MBRJ_Waiver_Reply.md/.docx. Content: (1) accepts license penalty waiver offer; (2) requests ESTABLISHMENT CARD penalty waived on same terms; (3) asks final amount breakdown (license fee + establishment card + govt fees); (4) asks written confirmation that AED 18,000 late penalty (and accruing) is waived in full; (5) asks payment instructions - commits to settling ASAP. Grounded in IFZA Aug 10 email (AED 18,000 figure, ticket ## 5863817 ##). '4 Days to Renew Without Penalty' window (Aug 10) likely passed - June waiver offer should still hold. Send from aniruddha@aditedmotionpictures.com (thread mailbox) or personal Gmail. Related: t27 (UAE CT filing, MBRJ MEDIA TRN 104862644200001). UPDATE Aug 22: CONFIRMED SENT - ADITED Sent Mail 827 (Aug 21, 23:xx PDT) 'Re: [## 5863817 ##] MBRJ MEDIA - FZCO ll LICENSE PENALTY WAIVER' sent from aniruddha@aditedmotionpictures.com. Await IFZA response re: license + establishment card penalty waiver + final amount breakdown."
     },
     {
       "id": "t63",
       "track": "finance",
-      "title": "Visa Fidelity Pension → Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
+      "title": "Visa Fidelity Pension \u2192 Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
       "status": "pending",
       "priority": "high",
       "due": "2026-08-31",
-      "notes": "DECISION MADE (Aug 21): DIRECT ROLLOVER to Merrill Lynch IRA (trustee-to-trustee) - avoids 20% mandatory withholding + 10% early-withdrawal penalty + income tax. STEPS: 1) Merrill side: confirm/open receiving Traditional IRA at ML, get rollover account details (call MyMerrill 1-800-MERRILL or your ML advisor; Merrill provides Letter of Acceptance/rollover kit). 2) Fidelity side: call Fidelity 800-835-5095 (401(k) rollover line) or online - request DIRECT rollover of the Visa 401(k)/pension to 'Merrill Lynch FBO [Aniruddha Dasgupta]' - trustee-to-trustee (never take the check yourself - 60-day indirect rollover trap). 3) Confirm plan allows full distribution (Visa plan, former employee). 4) Track: no cash touches your hands; ML confirms receipt; 5) Verify vesting 100% (former employee, likely fully vested). Drafts: Fidelity rollover request + Merrill inquiry emails ready on request. NOT tax advice - confirm with Lovleen."
+      "notes": "DECISION MADE (Aug 21): DIRECT ROLLOVER to Merrill Lynch IRA (trustee-to-trustee) - avoids 20% mandatory withholding + 10% early-withdrawal penalty + income tax. STEPS: 1) Merrill side: confirm/open receiving Traditional IRA at ML, get rollover account details (call MyMerrill 1-800-MERRILL or your ML advisor; Merrill provides Letter of Acceptance/rollover kit). 2) Fidelity side: call Fidelity 800-835-5095 (401(k) rollover line) or online - request DIRECT rollover of the Visa 401(k)/pension to 'Merrill Lynch FBO [Aniruddha Dasgupta]' - trustee-to-trustee (never take the check yourself - 60-day indirect rollover trap). 3) Confirm plan allows full distribution (Visa plan, former employee). 4) Track: no cash touches your hands; ML confirms receipt; 5) Verify vesting 100% (former employee, likely fully vested). Drafts: Fidelity rollover request + Merrill inquiry emails ready on request. NOT tax advice - confirm with Lovleen. UPDATE Aug 22: self-note (PERSONAL INBOX 346254, Aug 21 23:16 PDT) confirms rollover package ready (Word + MD) with 2 email drafts attached: (1) Merrill inquiry (open/confirm Traditional IRA + Letter of Acceptance + payee line 'Merrill Lynch FBO Aniruddha Dasgupta'), (2) Fidelity rollover request (DIRECT, full balance, no withholding). Phone: MyMerrill 1-800-637-7455, Fidelity 800-835-5095. Code G 1099-R expected. Target Aug 31 - START THIS WEEK."
     },
     {
       "id": "t64",
@@ -655,6 +655,15 @@
       "priority": "high",
       "due": "2026-08-31",
       "notes": "Upload out-of-network bills for Ariana's speech therapy + occupational therapy to the ANTHEM Blue Cross member portal (claims submission). Gather: therapy invoices (Seven Bridges speech; OT provider), itemized statements, dates of service. Anthem is the family plan (user-confirmed Aug 2026, not Aetna). Note: Ariana's speech therapy was previously identified as NOT covered by Anthem (Aparna was switching to Medi-Cal/Santa Clara Family Health Plan therapist) - verify coverage before/while submitting OON claims."
+    },
+    {
+      "id": "t68",
+      "track": "home",
+      "title": "IHSS SOC 295 application for Ariana - complete pre-filled PDF + submit (Alameda County)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-09-01",
+      "notes": "Aug 22 self-note (PERSONAL INBOX 346256, sent to own Gmail 00:00 PDT): SOC 295 pre-filled PDF + completion guide ready (attachments: SOC295_Ariana_DRAFT.pdf + guide). Pre-filled: Ariana Dasgupta, 2437 Balmoral St, Union City, CA 94587, 650-645-0822, aniruddha.dg1@gmail.com, Female, Asian Indian, English. MUST COMPLETE: (1) SSN + DOB (left blank); (2) Section 4: SSI answer (likely No) + services requested; (3) Section 6: household - both parents' names/DOB/SSN; (4) Section 10: parent signs as Representative (minor child) - Aniruddha or Aparna Dasgupta. SUBMIT: online via BenefitsCal (benefitscal.com) recommended, or mail/drop to Alameda County SSA Adult & Aging Services. After: county social worker in-home assessment + Medi-Cal check. 2 FLAGS: (a) Ariana lives in ALAMEDA County (Union City) but Medi-Cal/RCEB links are Santa Clara - IHSS files in county of residence; 5-min call to Alameda IHSS intake to confirm jurisdiction recommended; (b) minor-child IHSS assessed vs typical child of same age - prepare examples of extra care needs (RCEB records) for home assessment."
     }
   ]
 }
