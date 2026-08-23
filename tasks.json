@@ -3,42 +3,42 @@
     {
       "id": "job",
       "name": "Job",
-      "emoji": "\ud83d\udcbc",
+      "emoji": "💼",
       "color": "#4F8EF7",
       "description": "Google work items"
     },
     {
       "id": "dc",
       "name": "DC Closing",
-      "emoji": "\ud83c\udfac",
+      "emoji": "🎬",
       "color": "#9B59B6",
       "description": "Devi Chowdhurani - release, festivals, distribution, Zee"
     },
     {
       "id": "studio",
       "name": "Studio Work",
-      "emoji": "\ud83c\udfe2",
+      "emoji": "🏢",
       "color": "#E67E22",
       "description": "ADited / Confluence 2027 / BASAFF / Aparna Hollywood positioning"
     },
     {
       "id": "finance",
       "name": "Finance & Legal",
-      "emoji": "\ud83d\udcb0",
+      "emoji": "💰",
       "color": "#27AE60",
       "description": "Lovleen/BASAF, Universal Organic, Wyoming/Swyft/Buffalo, taxes"
     },
     {
       "id": "home",
       "name": "Home & Family",
-      "emoji": "\ud83c\udfe0",
+      "emoji": "🏠",
       "color": "#E74C3C",
       "description": "FasTrak, health, household, Aparna & Ariana"
     },
     {
       "id": "miku",
       "name": "Miku",
-      "emoji": "\ud83d\udc3e",
+      "emoji": "🐾",
       "color": "#F39C12",
       "description": "Miku-related items"
     }
@@ -614,7 +614,7 @@
     {
       "id": "t63",
       "track": "finance",
-      "title": "Visa Fidelity Pension \u2192 Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
+      "title": "Visa Fidelity Pension → Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
       "status": "pending",
       "priority": "high",
       "due": "2026-08-31",
@@ -700,6 +700,159 @@
       "priority": "low",
       "due": "2026-08-30",
       "notes": "Aug 22 (PERSONAL inbox 346259, JPMorganChase Human Resources via Oracle workflow, eino.fa.sender@workflow.mail.us2.cloud.oracle.com): 'Your job application status' for Job 210730322. Body empty/image-based - open the portal link in the email to view status. No email reply possible."
+    },
+    {
+      "id": "t73",
+      "track": "finance",
+      "title": "Transfer: ADited Sole Prop (HDFC) -> ICICI -> USA (repatriation)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Send money from ADited sole-prop HDFC acct (50200079740827, IFSC HDFC0000018) to ICICI India, then repatriate to USA. Repatriation route: confirm with ICICI RM (Jasmeet Kaur thread) - NRE/NRO vs RBI LRS vs business remittance. Docs: Form A2 if outward remittance. Confirm USD rate."
+    },
+    {
+      "id": "t74",
+      "track": "dc-release",
+      "title": "Book DCP for USA release (Sep 4)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-28",
+      "notes": "Book DCP delivery for Sep 4 US release: Qube Wire to confirmed theatres (Cinemark 8 + AMC Houston First Colony 24; Regal pending). Coordinate with EditFX (Kushal Chirimar - IFFI DCP thread Aug 20-21) or DCP vendor. Need: final DCP with English subs (2h14m), KDMs per theatre, trailer package. IFFI submission DCP also in flight (Soumyajit)."
+    },
+    {
+      "id": "t75",
+      "track": "family",
+      "title": "Sign + send Ariana's IHSS application (SOC 295)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Pre-filled PDF at /home/aniru/SOC295_Ariana_DRAFT.pdf - complete remaining fields (SSN, DOB, household parents, services requested), parent signs as Representative, submit via BenefitsCal or Alameda County SSA. Guide: /home/aniru/SOC295_Ariana_Guide.md. Confirm Alameda jurisdiction (Union City) vs Santa Clara Medi-Cal linkage."
+    },
+    {
+      "id": "t76",
+      "track": "family",
+      "title": "Order Miku table from Amazon",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-08-31",
+      "notes": "Order the Miku table from Amazon."
+    },
+    {
+      "id": "t77",
+      "track": "finance",
+      "title": "Settlement with Anand Bhai (Anand Desai - ITR) before Aug 31",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Anand Desai (anand@ymdnco.com) - Aparna Dasgupta AY 25-26 ITR thread (Jun 10). Settle his fees before Aug 31. Confirm amount + payment method (India transfer via HDFC/ICICI?)."
+    },
+    {
+      "id": "t78",
+      "track": "finance",
+      "title": "Follow up BASAF Corp + personal tax returns (Bhatia & Co)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Follow up BASAF Corp tax return + personal returns with Lovleen Banga / Bhatia & Co (Zoom with Mr Bhatia was Aug 18). BASAF: film acquisition costs, no 1099s, $12K 2023 consulting fee question. Personal: confirm filed/extended."
+    },
+    {
+      "id": "t79",
+      "track": "dc-release",
+      "title": "Zee Music content delivery - resolve thread (Shivam/Tanmoy)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Active thread 'Content Deliveries - Devi Chowdharani' (Aug 14-20): Shivam Pandey (Zee) + Tanmoy. This is the ₹10L + GST settlement pipeline - complete ALL delivery materials to trigger 40-day payment clock. BGM videos not required per earlier research."
+    },
+    {
+      "id": "t80",
+      "track": "dc-release",
+      "title": "Resolve 'pending agreements before international release' (Tanmoy/Ritisha)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-28",
+      "notes": "Thread Aug 14-18: Tanmoy + Ritisha Mukherjee (legal) on pending agreements before international release. Must clear BEFORE Sep 4 US release. Review what's outstanding (likely rights/clearances/contracts)."
+    },
+    {
+      "id": "t81",
+      "track": "finance",
+      "title": "UAE Corporate Tax return - MBRJ/IFZA (tax.gov.ae reminders)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-09-15",
+      "notes": "Reminders from Haroon Khan (Aug 20) + Ali Saifo (Aug 21) at tax.gov.ae re Corporate Tax return submission. Ties to MBRJ MEDIA-FZCO license renewal (AED 18k penalties). File CT return - deadline Sep 15 (matches tracker t07-era item)."
+    },
+    {
+      "id": "t82",
+      "track": "admin",
+      "title": "Update Otter.ai payment method (expired card)",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-08-31",
+      "notes": "'Action Required: Please update your payment method' from Otter.ai Payments (Aug 19). Update card in Otter.ai billing."
+    },
+    {
+      "id": "t83",
+      "track": "finance",
+      "title": "Universal Organic DE annual tax + BOI (Legalinc/Stripe Atlas reminder)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Legalinc/Stripe Atlas reminder Aug 14: Pay Annual Delaware LLC Tax (due Jun 1, overdue). Also BOI report missed (~Oct 2025). Zero-revenue year unfiled. Lovleen question: ~$20,600 transfer to UOP Ltd treatment."
+    },
+    {
+      "id": "t84",
+      "track": "finance",
+      "title": "Apple Card dispute outcome - review (Bebe $260.01)",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-09-30",
+      "notes": "Apple Card transaction dispute emails Aug 19-22 (outcome + virtual card number restricted notices). Verify dispute resolution + card status."
+    },
+    {
+      "id": "t85",
+      "track": "admin",
+      "title": "Fix Adobe payment failure (subscription billing)",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-08-31",
+      "notes": "'Your payment failed' from Adobe (Aug 18). Update billing method or confirm card on file to avoid service interruption."
+    },
+    {
+      "id": "t86",
+      "track": "admin",
+      "title": "Swyft Filings annual report notice - WY LLC dissolution context",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-09-10",
+      "notes": "Swyft 'Annual Report due soon' (Aug 19) for Aniruddha Dasgupta LLC (WY). Context: dissolution in progress (forms mailed, $60 check, filing ID 2023-001343451). Confirm annual report obligation ends with dissolution; Swyft cancellation demand Sep 10 (t24)."
+    },
+    {
+      "id": "t87",
+      "track": "admin",
+      "title": "Activate Chase Freedom card",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-08-31",
+      "notes": "'Attn: Aniruddha, your activation is required' - Chase Freedom (Aug 19). Activate new card."
+    },
+    {
+      "id": "t88",
+      "track": "family",
+      "title": "Check HealthEquity FSA claim (new claim received)",
+      "status": "pending",
+      "priority": "low",
+      "due": "2026-09-15",
+      "notes": "'New Claim Received' from HealthEquity (Aug 20) - HSA/FSA claim processing. Verify claim + reimbursement status."
+    },
+    {
+      "id": "t89",
+      "track": "family",
+      "title": "Review Google security alerts for apu.dg1@gmail.com (Aparna)",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-08-31",
+      "notes": "Security alert for Aparna's account (Aug 18, x2). Confirm with Aparna it was her login; if not, secure account immediately."
     }
   ]
 }
