@@ -880,6 +880,42 @@
       "priority": "medium",
       "due": "2026-08-26",
       "notes": "Aug 24 13:14 PDT (PERSONAL inbox 367489, security@facebookmail.com): 'Did you just log in near Sunnyvale on a new device?' - login near Sunnyvale, CA, United States on Facebook for iPhone. If this was NOT the user: click 'This wasn't me' in the email and secure the account (change password, review sessions). If it was the user (e.g. phone/tablet login), ignore. No email reply possible."
+    },
+    {
+      "id": "t93",
+      "track": "admin",
+      "title": "CreditWise dark web alert (Aug 25) - review details in app",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-28",
+      "notes": "5th alert since Jan 2026 (Jan 23, Jan 31, May 5, Jun 1, Aug 25). Log into CreditWise app/capitalone.com -> Alerts -> review what was found (email/SSN/address + source). Email has NO details - must check in app."
+    },
+    {
+      "id": "t94",
+      "track": "admin",
+      "title": "Pull all 3 credit reports + scan for anomalies (annualcreditreport.com)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Free weekly pulls at annualcreditreport.com (Equifax/Experian/TransUnion). Scan for: unknown accounts, hard inquiries, address changes, name variations. Context: Capital One 'total credit limit decreased' notice Jul 21 - verify."
+    },
+    {
+      "id": "t95",
+      "track": "admin",
+      "title": "Freeze credit at all 3 bureaus (Equifax, Experian, TransUnion)",
+      "status": "pending",
+      "priority": "high",
+      "due": "2026-08-31",
+      "notes": "Free credit freeze blocks new-account fraud. Do all 3: equifax.com, experian.com, transunion.com. Save PINs securely. Can unfreeze anytime. Single most effective protection against dark-web SSN exposure."
+    },
+    {
+      "id": "t96",
+      "track": "admin",
+      "title": "Change passwords + enable 2FA on exposed emails",
+      "status": "pending",
+      "priority": "medium",
+      "due": "2026-08-31",
+      "notes": "If CreditWise shows email in a breach dump: change passwords (unique strong), enable 2FA. Related: Google security alert for apu.dg1@gmail.com (Aug 18) - verify with Aparna."
     }
   ]
 }
