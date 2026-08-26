@@ -1,957 +1,966 @@
 {
-  "tracks": [
-    {
-      "id": "job",
-      "name": "Job",
-      "emoji": "\ud83d\udcbc",
-      "color": "#4F8EF7",
-      "description": "Google work items"
-    },
-    {
-      "id": "dc",
-      "name": "DC Closing",
-      "emoji": "\ud83c\udfac",
-      "color": "#9B59B6",
-      "description": "Devi Chowdhurani - release, festivals, distribution, Zee"
-    },
-    {
-      "id": "studio",
-      "name": "Studio Work",
-      "emoji": "\ud83c\udfe2",
-      "color": "#E67E22",
-      "description": "ADited / Confluence 2027 / BASAFF / Aparna Hollywood positioning"
-    },
-    {
-      "id": "finance",
-      "name": "Finance & Legal",
-      "emoji": "\ud83d\udcb0",
-      "color": "#27AE60",
-      "description": "Lovleen/BASAF, Universal Organic, Wyoming/Swyft/Buffalo, taxes"
-    },
-    {
-      "id": "home",
-      "name": "Home & Family",
-      "emoji": "\ud83c\udfe0",
-      "color": "#E74C3C",
-      "description": "FasTrak, health, household, Aparna & Ariana"
-    },
-    {
-      "id": "miku",
-      "name": "Miku",
-      "emoji": "\ud83d\udc3e",
-      "color": "#F39C12",
-      "description": "Miku-related items"
-    }
-  ],
-  "tasks": [
-    {
-      "id": "t01",
-      "track": "dc",
-      "title": "Send DC booking emails (Cinemark/Regal/AMC)",
-      "status": "in-progress",
-      "priority": "high",
-      "due": "2026-08-21",
-      "notes": "Release locked Fri Sep 4, 2026. Cinemark confirmed. AMC: Scott Landes replied Aug 14 - request came after weekly deadline, goes to team next week, early confirmations next Friday (Aug 21). Regal: Brandon Corrier replied Aug 14 - NO LONGER handles Indian films since April 2026; Josh Pollard (Joshua.Pollard@regalcinemas.com) has taken over (Brandon cc'd him). Reply draft ready: /home/aniru/Regal_Booking_Josh_Pollard_Reply.md/.docx - send to Josh with 11-location form attached. UPDATE Aug 14: Josh replied 'Thank you; I'll take a look' - acknowledge + flag his OOO Aug 21-Sep 7 vs Sep 4 release; ack reply draft ready: /home/aniru/Regal_Booking_Ack_Josh_Reply.md/.docx. Aim to lock Regal confirmations BEFORE Aug 21. UPDATE Aug 17: Comscore title feed - Cary Tusan (ctusan@comscore.com) created the title this morning; goes out in next feed to AMC. Noah Arteberry (narteberry@comscore.com) sent the title-checklist instructions. Future title announcements -> releaseschedule@comscore.com with completed checklist. Ack/thank-you draft ready: /home/aniru/Comscore_Cary_Tusan_Reply.md/.docx. UPDATE Aug 23: AMC EARLY CONFIRMATIONS RECEIVED (PERSONAL inbox 346215, Scott Landes <SLandes@amctheatres.com>, Fri Aug 21 19:10 UTC, 'Emailing: Devi Chowdhurani') - attachment: /home/aniru/mailscan_dump/AMC_346215_Devi Chowdhurani.xlsx = First Colony 24 (Houston, TX), buyer James Douglas (AMC), dist BASAF CORP (BSF), film 'Devi Chowdhurani - Bandit Queen of Bengal', booking window Sep 4 - Sep 9, 2026 (release Sep 4). AMC = 3rd exhibitor locked (Cinemark + Regal + AMC). Ack reply draft READY: /home/aniru/AMC_Early_Confirmations_Ack_Reply.md/.docx - send from aniruddha.dg1@gmail.com. UPDATE Aug 23 (2nd scan): Josh Pollard OOO AUTO-REPLY received (PERSONAL 346350, real, Aug 23 14:49 UTC): OOO Aug 21 - Sep 7, returning Sep 8; urgent INDIAN RELEASES -> Brandon Corrier + Russell Deaver; urgent Alternative Content -> Jack Grimes (Jack.Grimes@regalcinemas.com) + James Wallace. Escalation to RUSSELL DEAVER (cc Brandon + Josh) draft READY: /home/aniru/Regal_Escalation_Russell_Deaver.md/.docx (created Aug 23 08:21 PDT from self-note 346355). Fallback if no reply by Tue Aug 25: phone Russell (Regal Master Buyer List) or Brandon (865) 925-9509."
-    },
-    {
-      "id": "t02",
-      "track": "dc",
-      "title": "Reply to Lovleen - 4 BASAF clarifications",
-      "status": "done",
-      "priority": "high",
-      "due": "2026-08-11",
-      "notes": "Draft in inbox (Word). Answers: film acq Jul 2024 + Jan 2025; $12K fee source unknown - ask Lovleen; no 1099s; transport = vehicle + delivery."
-    },
-    {
-      "id": "t03",
-      "track": "dc",
-      "title": "IMDbPro title claim - check status in portal",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-14",
-      "notes": "No email confirmations from IMDb - normal. Check pro.imdb.com/title/tt27794798 Manage Title. Escalate at 4 weeks if pending."
-    },
-    {
-      "id": "t04",
-      "track": "dc",
-      "title": "Review-bombing report - post to Sprinklr community",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-08-17",
-      "notes": "imdblegal@amazon.com silent 12+ days. Use community-imdb.sprinklr.com (Data Issues) with copy-paste report. Trackable case ID."
-    },
-    {
-      "id": "t05",
-      "track": "dc",
-      "title": "Zee Music - delivery schedule + payment follow-up",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-17",
-      "notes": "Aug 14 VIDEO QC (Shivam Pandey, full 9-song list): Jago Maa #OK, Joy Debi #OK, Rangoraj Nishi #OK; Durgamo Giri Kantar Moru #REJECTED (top/bottom cinemascope 01:20, 01:46 + grains 04:50, 05:26); De Maa #REJECTED (video jerk 04:17); Jaage Jaage #REJECTED (top/bottom cinemascope 01:45, 02:02). AUDIO: Durgamo IT OK, Revised Stems REJECTED (distorted). Tanmoy re-delivering revised links via Gdrive Aug 14 (Dhonno Moder, Profullo, Bhabani Pathak, East India Company, Chamunda Stotram revised links sent). UPDATE Aug 15 (genuine Tanmoy email): revised versions uploaded for the 3 rejected videos - Durgamo Giri Kantar Moru (cinemascope 01:20/01:46 + grains 04:50/05:26 fixed), De Maa (video jerk 04:17 fixed), Jaage Jaage (cinemascope 01:45/02:02 fixed). Still awaiting Zee feedback on stems of remaining songs. Hold Clause 11.2 + BGM-videos-not-required as leverage. Payment follow-up still pending. UPDATE Aug 17 (GENUINE thread, verified real QC content - 21481/21483/21484/21488): Shivam flagged the Durgamo Giri Kantar Moru revised link as EMPTY; Tanmoy re-checked and re-uploaded to the same link Aug 17; Shivam acked 'Sure, thanks'. No reply needed - await next QC feedback on revised videos + stems. UPDATE Aug 20-21 (21531/21532 genuine): Shivam confirmed ALL content 'good to go' EXCEPT the Unmix Vocal & Backing Vocal Stems for Durgamo Giri Kantar Moru (still clubbed in one) - only pending delivery; Tanmoy confirmed sharing the Unmix Vocal Stems ASAP. Once stems delivered, Zee shares final content-delivery update - then payment follow-up can be pushed. UPDATE Aug 25 (ADITED 21628/21630 genuine): Shivam sent a 'gentle reminder on the pending delivery' (12:06 UTC); Tanmoy replied 'I am sending you the pending deliverable Durgamo Giri Kantar Moru at the earliest' (12:38 UTC). No reply needed from us - Tanmoy handling; once the stems land, push Zee for the final delivery update, then payment follow-up. UPDATE Aug 25 (2nd scan, CORRECTED UIDs): the Aug 25 Zee emails are ADITED 22897 (Shivam reminder, 12:06 UTC) + 22899 (Tanmoy 'sending the pending deliverable at the earliest', 12:38 UTC) - the earlier note's '21628/21630' were sequence numbers, not UIDs. Also ADITED 22900 (Tanmoy -> Ritisha Mukherjee/ANM Global, CC us): 'We are executing this document with the required details' re the pending-agreements doc (Fourth Dimension/Jigsaw/Nirvana/Nanna) - no reply needed from us, Tanmoy handling. UPDATE Aug 26 (ADITED 21647, Tanmoy -> Shivam, 11:57 IST): MILESTONE - Tanmoy shared the pending deliverable 'Durgamo Giri Kantar Moru' via Google Drive link (https://drive.google.com/file/d/1aoDOWH3vVpEzckKB6UYLxGXwwBd1zGB_/view) - the last pending Zee item (Unmix Vocal Stems) is now delivered. No reply needed from us. Next: once Shivam confirms receipt/QC, push Zee for the final content-delivery update, then the payment follow-up can be pushed (payment clock)."
-    },
-    {
-      "id": "t06",
-      "track": "dc",
-      "title": "Submit DC to DIFF 2027 (Dhaka, free, deadline Sep 30) + confirm Tasveer deadline",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-30",
-      "notes": "CSAFF Chicago, Dharamshala IFF, Tasveer Seattle, DC South Asian FF. 2026 windows closing. Tracker: DC_Festival_Master_Tracker.xlsx (172 festivals)."
-    },
-    {
-      "id": "t07",
-      "track": "dc",
-      "title": "Film Bazaar Nov 2026 - accreditation + meetings",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-15",
-      "notes": "NFDC Film Bazaar Goa. Sales agents, OTT buyers, distributors. Budget ~$1,300 (flights + stay). Aug 14: Co-Production Market (Feature & Documentary) call-for-entries email received but sender address spoofed - verify real deadlines/eligibility on nfdcindia.com before acting. UPDATE Aug 25 (ADITED 22898, genuine sender coproduction@nfdcindia.com): legit 'Call for Entries: Co-Production Market | Waves Film Bazaar 2026' received (Tue Aug 25 17:52 IST) - confirms the earlier spoofed notice was based on a real program; check films.wavesbazaar.com/programme/co-production-market for deadlines/eligibility and consider entering DC or the next project."
-    },
-    {
-      "id": "t08",
-      "track": "studio",
-      "title": "Confluence Media vertical - submit proposal to Bitan/Sudipto",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-14",
-      "notes": "Deck: Confluence_Media_Proposal_Deck.pptx (17 slides). Pitch to Bitan Nandi Biswas (CEO) + Sudipto Mukhopadhyay (Co-Chair). Ask: architect + operating partner."
-    },
-    {
-      "id": "t09",
-      "track": "studio",
-      "title": "Aparna Hollywood - execute Day 1-7 (WIF/WIFTI apps)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-21",
-      "notes": "8-doc package delivered. WIF membership open (not credit-gated) - apply this week. PGA: needs 2 US-qualifying credits."
-    },
-    {
-      "id": "t10",
-      "track": "finance",
-      "title": "Swyft - reply v2 + dispute Aug 5 charge",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-12",
-      "notes": "Charged $19.99 Aug 5 AFTER cancellation request + dissolution. Reply v2 in inbox. Call (877) 777-0450. Dispute with Visa 5018 if no resolution in 5 days."
-    },
-    {
-      "id": "t11",
-      "track": "finance",
-      "title": "FasTrak - pay $35.50 + update card",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-11",
-      "notes": "Account 222832058. Card (MC 7245) declined Jul 17. Deadline ~Aug 11 passed - may be in closure window. bayareafastrak.org or 1-877-BAY-TOLL."
-    },
-    {
-      "id": "t12",
-      "track": "finance",
-      "title": "Buffalo RA - follow up cancellation",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-14",
-      "notes": "Aug 2 cancellation + settlement draft sent. Service Change Confirmation received Aug 4 - READ IT. Fair settlement $12 vs $381 billed."
-    },
-    {
-      "id": "t14",
-      "track": "home",
-      "title": "Miji invoices - music, gym, table tennis",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-14",
-      "notes": "Email to payments@mijicare.com ready (3 invoices: piano $245, gym $2,510 due, TT $1,890). UPDATE Aug 13: RCEB/Miji (Alexa Justo) confirmed Table Tennis was reimbursed via direct deposit on 07/01/2026 (Aricka thanked Alexa; Aparna cc'd). Case manager email for monthly music auth + TT status. Attachments sent."
-    },
-    {
-      "id": "t15",
-      "track": "home",
-      "title": "Ariana social story - fill caregiver name",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-08-15",
-      "notes": "Ariana_Evening_Social_Story.html complete. Replace [CARE PROVIDER NAME]; optionally send photo for Helper character."
-    },
-    {
-      "id": "t16",
-      "track": "job",
-      "title": "Check Google AOP (Leon Chien) item",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-14",
-      "notes": "2027 Annual Operating Planning - TI Dev Discretion. Verify if still pending in work calendar."
-    },
-    {
-      "id": "t17",
-      "track": "miku",
-      "title": "Miku - [placeholder - add item when mentioned]",
-      "status": "pending",
-      "priority": "low",
-      "due": null,
-      "notes": "Track created. User will mention Miku tasks randomly."
-    },
-    {
-      "id": "t-issue-1",
-      "track": "miku",
-      "title": "Miku vet appointment Friday due 2026-08-14 high",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-14",
-      "notes": "Take Miku to the vet - test of one-line task input"
-    },
-    {
-      "id": "t-issue-2",
-      "track": "dc",
-      "title": "Confirm DCP master with subtitles due 2026-08-20 high",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-20",
-      "notes": "Added from issue #2."
-    },
-    {
-      "id": "t18",
-      "track": "finance",
-      "title": "Universal Organic - Delaware $300 annual tax (overdue Jun 1) + late fees",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "DE annual tax $300 + $200 late fee + 1.5%/mo interest. Flagged to CPA in investments email. EIN 39-3405271. Aug 14 (ADITED inbox): Legalinc/Stripe Atlas reminder - 2025 annual LLC tax $300 due Jun 1 2026 for Universal Organic Products and Brokerage, LLC; past + current year tax must be paid before DE dissolution can complete (relevant to t22/t23 dissolution path)."
-    },
-    {
-      "id": "t19",
-      "track": "finance",
-      "title": "Universal Organic - BOI report (missed ~Oct 2025)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Beneficial Ownership Information filing at boiefiling.fincen.gov. Free. Single-member LLC - report beneficial owner (Aniruddha)."
-    },
-    {
-      "id": "t20",
-      "track": "finance",
-      "title": "Universal Organic - zero-revenue year returns + $20,600 transfer treatment",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-30",
-      "notes": "Schedule C via CPA (zero-revenue). $20,600 wires to UOP LTD (Sujoy Sen) = member distribution, NOT deducted (user's choice). Awaiting Lovleen guidance via investments email."
-    },
-    {
-      "id": "t21",
-      "track": "finance",
-      "title": "Send CPA investments email to Lovleen (incl. Universal Organic items)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-13",
-      "notes": "Draft: /home/aniru/CPA_Investments_Email.docx. Subject: 'Review of Upcoming Investments & BASAF Capital'. Covers $700K background, $200-300K new investments, $150K into BASAF, UO pending items."
-    },
-    {
-      "id": "t22",
-      "track": "finance",
-      "title": "Call WY SOS (307) 777-7311 - confirm admin-dissolved LLC can file dissolution",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-14",
-      "notes": "Key question: can administratively-dissolved LLC file Articles of Dissolution WITHOUT reinstatement? This is Swyft's upsell trap - SOS phone answer is ground truth."
-    },
-    {
-      "id": "t23",
-      "track": "finance",
-      "title": "Mail Wyoming Articles of Dissolution + $60 check",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-15",
-      "notes": "Form pre-filled: /home/aniru/Wyoming_Dissolution_Form_PREFILLED.pdf. Sign, print, $60 check payable to 'Wyoming Secretary of State'. Mail: Herschler Building East, Suite 101, 122 W 25th St, Cheyenne, WY 82002-0020. 15 business days processing."
-    },
-    {
-      "id": "t24",
-      "track": "finance",
-      "title": "Send Swyft cancellation demand with dissolution evidence",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-10",
-      "notes": "After filing evidence arrives (15 biz days): email info@swyftfilings.com demanding RA cancel effective dissolution + no further charges. Then if they still charge after 5 biz days - card dispute."
-    },
-    {
-      "id": "t25",
-      "track": "finance",
-      "title": "Apple Card dispute D-25032639 (Bebe $260.01) - RESOLVED Aug 20: charges removed, credit permanent",
-      "status": "done",
-      "priority": "medium",
-      "due": "2026-09-30",
-      "notes": "Dispute case D-25032639, Bebe transaction Jun 27 2026 $260.01, temp credit applied. RESOLVED Aug 20 (ADITED inbox 21535, no_reply@post.applecard.apple): Goldman Sachs investigated and concluded the merchant charge will be REMOVED; dispute status Completed; temporary credit (incl. interest) now permanent. If Bebe also issues a credit, permanent credit may be reversed. No action needed."
-    },
-    {
-      "id": "t26",
-      "track": "finance",
-      "title": "Wio Business - provide additional info for Wide Angle International FZCO application",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-19",
-      "notes": "WioBusiness asked for more info on application (forwarded by Soumyajit Aug 12). Aug 13 reminder 'Action Needed to Keep Your Application Open': application will be CLOSED in 45 days if no action. Log in to business.wio.io questionnaire (questionnaireInstanceId=4ccd0f66-66b6-436d-b703-b6e021a40a35) and upload requested docs. Support 600 500 946. UPDATE Aug 17: Soumyajit forwarded NEW Wio 'Additional information required' email (communications@wio.io, 12:53 pm): log in to Wio Business to provide requested details + upload documents for WIDE ANGLE INTERNATIONAL - FZCO. NEW questionnaire link: business.wio.io/mobile/sme/questionnaire?questionnaireInstanceId=339eaac5-91fc-4749-846d-bf397214bf92 (differs from earlier instance id). Portal action - no email reply. 45-day window from Aug 13 reminder."
-    },
-    {
-      "id": "t27",
-      "track": "finance",
-      "title": "UAE Corporate Tax filing due 30 Sep - initiate with iLLimite",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-09-15",
-      "notes": "iLLimite (Shivani Goyal, illimitebiz@gmail.com) reminder Aug 12: CT filing due 30 Sep 2026 where applicable. Reply draft ready: /home/aniru/UAE_CT_Filing_Reply.docx - confirm which entities on file are due, get requirements. +971 50 451 6872. UPDATE Aug 20-21 (GENUINE FTA reminders, tax.gov.ae): (a) Aug 20 Haroon Khan (Haroon.Khan@tax.gov.ae, DIR +971 4 777 6113) - WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001, CT filing pending; (b) Aug 21 Ali Haitham Saifo (Ali.Saifo@tax.gov.ae, DIR +971 4 777 6171) - MBRJ MEDIA - FZCO, TRN 104862644200001, CT filing pending. Both ask for updated contact number if changed. Reply drafts ready: /home/aniru/UAE_FTA_WideAngle_Reply.md/.docx + /home/aniru/UAE_FTA_MBRJ_Reply.md/.docx - confirm filing in progress via tax agent, contact unchanged (+1 650-645-0822). Ensure iLLimite covers BOTH entities in the Sep 30 filing. UPDATE Aug 24: SECOND FTA reminder from Haroon Khan (ADITED 22892, 21:07 PDT, 'Reminder: Submission of Corporate Tax Return') for WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001 - 'deadline is fast approaching', asks to submit ASAP and share new contact number if changed. UAE_FTA_WideAngle_Reply draft STILL UNSENT (checked ADITED Sent Mail) - SEND IT now: confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822). UPDATE Aug 25 (ADITED 21625, Ali Haitham Saifo, tax.gov.ae, 10:07 UTC): THIRD FTA reminder for MBRJ MEDIA - FZCO (TRN 104862644200001) - 'deadline is fast approaching', submit ASAP. UAE_FTA_MBRJ_Reply.md/.docx STILL UNSENT as of this scan - send it now from aniruddha@aditedmotionpictures.com; also confirm iLLimite covers BOTH MBRJ MEDIA + WIDE ANGLE INTERNATIONAL in the Sep 30 filing. UPDATE Aug 25 (2nd scan, CORRECTED UID): THIRD FTA reminder = ADITED 22894 (Ali Haitham Saifo, tax.gov.ae, Tue Aug 25 10:07 UTC; earlier noted as '21625' which was a sequence number, not a UID). UAE_FTA_MBRJ_Reply.md/.docx (already prepared) STILL UNSENT as of this scan - SEND it now from aniruddha@aditedmotionpictures.com. UPDATE Aug 26 (ADITED 21643, Haroon Khan, tax.gov.ae, 05:18 UTC): FOURTH FTA reminder for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001) - 'deadline is fast approaching', submit ASAP + share new contact number if changed. UAE_FTA_WideAngle_Reply.md/.docx REFRESHED (notes updated for the Aug 24 + Aug 26 reminders) but STILL UNSENT - SEND NOW from aniruddha@aditedmotionpictures.com; confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822)."
-    },
-    {
-      "id": "t28",
-      "track": "home",
-      "title": "Ariana music - contact Sky Castle Music + provide Aricka's info (RCEB)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-19",
-      "notes": "RCEB case manager Aricka (atasabia@rceb.org, 510-618-6405): June/July music reimbursements are ONE TIME; vendor change to Sky Castle Music (skycastlemusics.com). Contact them, say Ariana is RCEB client, then share Aricka's info. 2-3 week authorization wait. Reply draft: /home/aniru/Ariana_RCEB_Reimbursement_Reply.docx"
-    },
-    {
-      "id": "t29",
-      "track": "home",
-      "title": "Ariana speech therapy - switch to Medi-Cal accepting therapist at Seven Bridges",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-19",
-      "notes": "Aparna emailed Seven Bridges Aug 12: Blue Cross (Anthem) out of network, Lisa doesn't accept Medi-Cal; requested switch to a therapist accepting Medi-Cal/Santa Clara Family Health Plan. Ariana already missed therapy. Follow up if no response in a few days (Scheduling@sevenbridgestherapy.com, 925-222-5353)."
-    },
-    {
-      "id": "t30",
-      "track": "home",
-      "title": "ICAN - confirm Fakhira coverage for Aug 13-14 sessions",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-13",
-      "notes": "ICAN Scheduling (schedule@icanautism.com) Aug 13: Meliza unavailable today/tomorrow, staff Fakhira will cover clinic sessions 4-7pm. Asked to confirm. Reply draft ready: /home/aniru/ICAN_Staff_Coverage_Confirm_Reply.docx - send confirmation."
-    },
-    {
-      "id": "t31",
-      "track": "home",
-      "title": "Pacific Homecare - sign timesheet #602300 (24h window)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-14",
-      "notes": "Pacific Homecare Services (accounting@pacifichomecare.com) Aug 13: pending timesheet requires signature to be valid; sign within 24 hours or compliance violation. Sign document #602300 via emailed link. Contact (209) 956-2532 opt 5."
-    },
-    {
-      "id": "t32",
-      "track": "home",
-      "title": "Villa Sport - verify Ariana removal credits applied",
-      "status": "done",
-      "priority": "medium",
-      "due": "2026-08-13",
-      "notes": "Resolved Aug 13: Mikayla Cornejo + Erika Balce confirmed Ariana's 7-day cancellation honored, membership removal processed EOD, $58.84 credit (Jul+Aug dues) + prorated refunds + late fee waived ($25). Remaining $18.58 prorated July dues credit applied to future billing. Receipts 5306075/5306077/5306084."
-    },
-    {
-      "id": "t33",
-      "track": "studio",
-      "title": "ADITED inbox spoofed-sender spam campaign - verify real threads out-of-band",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-17",
-      "notes": "Aug 13-14: ADITED inbox hit with spam forging known contacts & thread subjects - 'Tanmoy' (Temu/Dropbox/Winning Pitches spam on 'Content Deliveries - Devi Chowdharani' + 'pending agreements' threads), 'SHIVAM PANDEY zee.com' (Rice Rocket/Ludon Lee pitch body), 'NFDC' (Temu body on Film Bazaar Co-Production Market subject), 'Legalinc' (UAE tax body on Delaware LLC tax subject), 'Akasa Air' (Eventbrite/MPTS bodies on QP 1125 flight subjects), 'Info Waves'. DO NOT reply to any - confirm real status of Zee QC deliveries, agreements, DE tax with Tanmoy/Shivam/Legalinc via known phone/portal channels. Do not click links in these emails. UPDATE Aug 14-15: ANOTHER Ludon Lee/Rice Rocket pitch arrived (ludonlee@gmail.com, self-addressed TO himself, 'The $1 Trillion Pivot: Why the Next Disney Is Being Built in a San Francisco Loft' - same Rice Rocket Entertainment investment pitch). Confirmed same campaign - do not reply, delete/mark spam. UPDATE Aug 15 scan: wave continues through Aug 15 - 'Tanmoy' re: Content Deliveries x3 (Temu/Winning Pitches/Dropbox bodies 21441/21443/21448), 'Tanmoy' re: pending agreements x3 (Temu/Winning Pitches 21442/21449/21450), 'SHIVAM PANDEY' (Rice Rocket body 21446), 'NFDC' (Temu 21451), 'Legalinc' (UAE-tax 21455), 'Akasa Air' Aug 14 x2 (Eventbrite/MPTS 21453/21454), 'Info Waves' (Temu 21431), Ludon Lee x4 (21439/21440/21456/21462/21464). NOTE: GENUINE Akasa QP 1125 emails also arrived Aug 15 (21466/21467 - Soumyajit, PNR P5TD4P, BOM-CCU 16 Aug, real Akasa content) - body-check future Akasa emails to separate real from spoofed; genuine ones are FYI only. UPDATE Aug 17: Ludon Lee wave continues - 21480 'Offering RZA Silicon Valley Board Seat Rice Rocket Entertainment' + 21494 '$10 Billion Nasdaq IPO Money Pitch' (self-addressed). Zee 'Content Deliveries' emails Aug 17 (21481/21483/21484/21488) VERIFIED GENUINE (real Shivam/Tanmoy QC exchange re: Durgamo link) - keep body-checking each new email. UPDATE Aug 19-21: Ludon Lee/Rice Rocket wave continues - 21529 (GrappleMusic x Kylie Minogue), 21541 (Invest Rice Rocket Unicorn Lottery Ticket), 21545 (Chloe Bennet power couple), 21546 (Chinatown Dai Lo billionaire rap), 21555 (Video Game Mafia seed SAFE $500K raise), 21557 (Hi-Yah Action Friday Drunken Master 2) - all self-addressed to ludonlee@gmail.com, no reply, mark spam. UPDATE Aug 22 (4th scan): Ludon Lee wave continues - 21557 'Hi-Yah Action Friday Drunken Master 2' event spam + 21570 'What da Fuck? 50% Discount New Tech Hollywood Creator Program' (both self-addressed pitch spam, skip). Emirates do-not-reply emails 21572-21574 (H6ESSF: payment-details check / booking confirmed / changes confirmed) - do-not-reply senders, likely genuine booking notifications for the H6ESSF booking; FYI only, no reply. UPDATE Aug 23: Ludon Lee wave continues (ADITED 21591 'Rice Rocket Drops $4.5 Million Creative Work Penthouse' + 21592 'Julian Phillips San Francisco Mission Real Estate', both ludonlee@gmail.com) - do not reply, same campaign. UPDATE Aug 26: NEW phishing in PERSONAL inbox - 'Chase' reward email (chase@mcmap.chase.com, PERSONAL INBOX 346624, 'we want to reward you with an up to $900 offer') - NOT a real Chase domain (mcmap.chase.com); delete, do not click. ADITED noise this scan: WeTransfer welcome (21642), FTA no-reply messages (21646/21648) - ignore."
-    },
-    {
-      "id": "t34",
-      "track": "studio",
-      "title": "Google Workspace aditedmotionpictures.com - verify storage at 88% pooled",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-08-21",
-      "notes": "Storage-limit warning content seen Aug 14 (embedded in spoofed email, verify independently in admin console). If real: free up Drive space or expand storage before hitting limit -> 14-day grace, then read-only for users. UPDATE Aug 17: GENUINE 'Approaching pooled storage limit' notification received from workspace-noreply@google.com (21489) - verify in Google Admin console and free up Drive space (14-day grace, then read-only for users)."
-    },
-    {
-      "id": "t35",
-      "track": "studio",
-      "title": "Fourth Dimension agreement (ANM Global) - track drafting + payments by Dec 15 2026",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-09-15",
-      "notes": "Aug 14: Tanmoy answered lawyer Ritisha Mukherjee's (ANM Global) questions: (i) NO prior agreement between Adited and Fourth Dimension; (ii) effective retroactively Aug 8, 2025; (iii) yes, separate side letters for Jigsaw/Nirvana/Nanna; (iv) partial set-off paid simultaneously by ratio of remaining amount. Amounts: Fourth Dimension Rs 8L + GST (reduced from Rs 18L/10L after final cut, decided mutually Nov 10, 2025), Jigsaw Rs 60K, Nirvana Rs 5L, Nanna Rs 3L - all payable by Dec 15, 2026. ANM Global preparing agreement; also needs exclusive-service-preference clause (point 21) + next-3-films engagement (point 11). UPDATE Aug 24: Ritisha sent the FURTHER-UPDATED draft addressing the parked clauses (ADITED inbox 22876, 00:49 PDT, 'Re: Devi Chowdhurani pending agreements before international release', to Tanmoy, Aniruddha cc'd) - attachment saved: /home/aniru/mailscan_dump/FourthDimension_Agreement_Draft_24.08.2026_ANM_Global.docx. She invited clarifications. ACK/REVIEW draft READY: /home/aniru/Fourth_Dimension_Agreement_Ack_Reply.md/.docx - review the draft agreement, then send (from aniruddha@aditedmotionpictures.com, cc Tanmoy + Soumyajit + ANM team). Close before Sep 4 US release (t80 critical path)."
-    },
-    {
-      "id": "t36",
-      "track": "home",
-      "title": "Pacific Homecare - sign timesheet #609585 (24h window)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-15",
-      "notes": "Aug 14 email (accounting@pacifichomecare.com): NEW timesheet document #609585 pending signature (different from #602300 in t31). Sign within 24 hours via emailed link or compliance violation. Contact (209) 956-2532 opt 5."
-    },
-    {
-      "id": "t37",
-      "track": "home",
-      "title": "Brooks San Jose - update payment info (card declined $69)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-18",
-      "notes": "Aug 14 (support@brookspest.com): payment method on file failed - $69.00 transaction 8/14/26 7:27am PDT, account 226203 (Aparna Dasgupta), card ending ****0683, remaining balance $69.00. Update via Customer Portal link in email or call (833) 369-1242."
-    },
-    {
-      "id": "t38",
-      "track": "home",
-      "title": "Aeries/New Haven - optional Meet & Greet Special Services Director",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-08-17",
-      "notes": "Aug 14 email via Aeries Communications: Meet & Greet with New Haven USD Special Services Director Mon Aug 17, 6:00-7:30pm, 34200 Alvarado-Niles Rd, Union City. Learn about special ed services/support. Optional but relevant for Ariana."
-    },
-    {
-      "id": "t39",
-      "track": "finance",
-      "title": "Bhatia & Co investments call - await Neeraj ji availability confirmation",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-17",
-      "notes": "Follow-up to t21 (CPA investments email). Neeraj ji replied DIRECTLY Aug 13 (PERSONAL INBOX 345478): can schedule Monday afternoon (Aug 17), not available Aug 14. User replied Aug 14 asking Lovleen to coordinate a Monday slot. Lovleen Aug 15 (345570): still hasn't heard back from Neeraj ji, he's not available today; she will confirm the call time as soon as she gets an update, OR Neeraj ji may reach out directly to coordinate. No reply needed - wait for confirmation. If no word by Mon Aug 17 EOD, ping Lovleen. RESOLVED Aug 17: Bhatia & Co sent the Zoom invite directly (Ankita, info@bhatiaco.com) - Mr. Bhatia meeting Tue Aug 18, 2026 4:30 PM PST. Zoom: https://us02web.zoom.us/j/4088459411?omn=85355279499 | Meeting ID 408 845 9411 | Passcode 1234. Confirmation reply draft ready: /home/aniru/Bhatia_Zoom_Meeting_Confirm_Reply.md/.docx (see t57)."
-    },
-    {
-      "id": "t46",
-      "track": "home",
-      "title": "CHADIS - complete 2 questionnaires for Ariana (Foster City Pediatrics)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-12",
-      "notes": "Aug 13 reminder (support@chadis.com, APARNA inbox 202736): 2 questionnaires waiting for Ariana requested by Foster City Pediatrics. Must REGISTER first: chadis.com registration link with resetCode (in email, dumped: /home/aniru/mailscan_dump/APARNA_INBOX_202736_body.txt) - link expires 9/12/2026 12:13 PM EDT. Username: APU.DG1@GMAIL.COM. Support: 1-888-4-CHADIS. Portal action, no email reply possible."
-    },
-    {
-      "id": "t47",
-      "track": "home",
-      "title": "Arabesque Conservatory - no in-home teacher in Ariana's area yet; on priority placement",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-09-01",
-      "notes": "Aug 13 (APARNA inbox 202730, assignment@arabesqueconservatory.com, cc Cristal Galvan): after Aparna's inquiry (missed call from (650) 534-4502), Arabesque says NO teacher currently available in this student's area; actively onboarding teachers; family placed on PRIORITY placement - will be notified and assigned teacher will reach out to schedule. No reply needed. If no word after ~2 weeks, follow up: srodriguez@arabesqueconservatory.com or (805) 328-4659 (Enrollment Mgr Joey Povinelli jpovinelli@arabesqueconservatory.com)."
-    },
-    {
-      "id": "t40",
-      "track": "dc",
-      "title": "Harkins Theatres ebor file received - add to DC distribution bookings",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-17",
-      "notes": "Aug 14 (APARNA inbox, ebor@harkins.com): 'Harkins Theatres ebor file' - attachment Harkins_Theatres.Aparna_Dasgupta_DBA_Basaf_Corp.20260814.csv (header only: FilmID/StudioName/TheatreID/TheatreName/FilmName/Date/TicketType/TicketPrice/TicketsSold/NetTotal/TaxAmount/TicketsCanceled; no ticket rows yet - no sales). BASAF Corp DBA = distribution entity. Harkins now in the booking mix alongside Cinemark/Regal/AMC - add to DC distribution contacts. CSV saved: /home/aniru/mailscan_dump/Harkins_Theatres.Aparna_Dasgupta_DBA_Basaf_Corp.20260814.csv. Monitor for future ebor files with ticket data."
-    },
-    {
-      "id": "t41",
-      "track": "home",
-      "title": "Apple billing problem - Keiki World Premium $9.99/wk (Aparna's Apple account)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-17",
-      "notes": "Aug 14 (no_reply@email.apple.com, apu.dg1@gmail.com): Billing Problem on Keiki Learning games for Kids - Keiki World Full Access / Keiki World Premium (1 week) $9.99/week. Payment info failed. To avoid service interruption: update Apple payment information or add funds (appleid.apple.com / Settings > Apple Account). No reply possible (no-reply sender)."
-    },
-    {
-      "id": "t42",
-      "track": "home",
-      "title": "Ariana SDC Room 15 - teacher transition (Ms. Shamily covering until mid-Sept)",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-09-15",
-      "notes": "Aug 14 email from Megan Foster (Principal, Tom Kitayama Elementary, New Haven USD, mefoster@nhusd.k12.ca.us): regular Room 15 teacher returns mid-September; Ms. Shamily Latha-Ramadoss (slatharamadoss@nhusd.k12.ca.us) covering full-time until then; long-term sub paraprofessional starts next week; Ms. Kunitz + principal monitoring. Broadcast to families - NO reply needed (FYI for Ariana's classroom). Follow-up only if Ariana's support is disrupted during transition."
-    },
-    {
-      "id": "t43",
-      "track": "dc",
-      "title": "DC USA creatives - decision: remove India distribution credit + approve Path B (T-20 to Sep 4)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-21",
-      "notes": "Aug 15 status (self-note, PERSONAL INBOX 345630): Path A designer spec (DC_USA_Poster_Spec.docx - layer-by-layer Photoshop instructions) + Path B 14 USA creatives generated: US_Master_Poster_4x7, Social_Square_1x1, Story_9x16, Countdown 7/5/3/2/1 days, Now_Playing, US_Theatre_List (8 Cinemark locations), city posters NY/NJ + SF Bay Area + LA, US_Banner_16x9. Master PSDs (2.5GB) downloaded to /home/aniru/DC_Creatives/. DECISION NEEDED: (1) remove 'Distribution SSR Cinemas Pvt Ltd & Reliance Entertainment' India distribution credit from 2-char 2sheet + 20x10 banner (US self-distributed via Space-Time) - keep NFDC/film-in-india logos; (2) send Path A spec to designer (Bengali text) OR approve Path B (English text) for campaign use. Path B zip ready for FB Event + campaign kickoff."
-    },
-    {
-      "id": "t44",
-      "track": "home",
-      "title": "Pacific Homecare - follow up 'Waiting for services to resume' (Esmeralda back Mon Aug 17)",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-08-17",
-      "notes": "Aug 15 auto-reply from Esmeralda Soto (esoto@pacifichomecare.com): OOO until Mon Aug 17 8am. Urgent contacts before then: Full-Service families/providers -> Natalie Eaton (neaton@pacifichomecare.com), Ana Soto (asoto@), Kelly Derr (kderr@); EOR -> eor@pacifichomecare.com; timesheets/payroll -> accounting@pacifichomecare.com. Pending thread: 'Waiting for services to resume' sent Aug 15 - expect response after she returns Aug 17; ping accounting@ if timesheet signatures (t31/t36) are affected. UPDATE Aug 17: Esmeralda replied (after OOO) - Pacific Homecare still ACTIVELY RECRUITING for the family; if no provider identified in 90 days, they will reach out to Ariana's case manager for other options. No reply needed."
-    },
-    {
-      "id": "t45",
-      "track": "home",
-      "title": "FDS (Fantasy Dance School) - confirm Ariana's rescheduled lesson Mon Aug 17 3:00-3:30 PM",
-      "status": "in-progress",
-      "priority": "medium",
-      "due": "2026-08-17",
-      "notes": "Aug 15 (APARNA inbox, info@fantasydance.us): Nicole Chatham (Director of FDS Programs) confirmed rescheduling Ariana's private lesson to Monday Aug 17, 3:00-3:30 PM (per Aparna's request for Monday after 12:30 PM) and asked the family to confirm the time works. REPLY DRAFT READY: /home/aniru/FDS_Ariana_Dance_Schedule_Confirm_Reply.md/.docx - send from apu.dg1@gmail.com. FDS: 2500 Old Middlefield Way Unit B, Mountain View 94043 | (650) 965-4135. UPDATE Aug 17: Aparna cancelled today's lesson - Ariana got hurt at school (no class Aug 17; FDS sent best wishes). Nicole Chatham shared Special Needs Program tuition rates effective Aug 17: 30-min $90 / 45-min $125 / 60-min $160 (fantasydance.us/special-needs). Reschedule once Ariana recovers."
-    },
-    {
-      "id": "t48",
-      "track": "finance",
-      "title": "ICICI Bank - activate dormant savings accounts XX1416, XX3407",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-15",
-      "notes": "Aug 16 email (information@custcomm.icici.bank.in, PERSONAL INBOX 345681): savings accounts XX1416 and XX3407 are inoperative/dormant (no customer-induced transactions for 24 months); ATM/cheque issuance etc. discontinued until activated. Activate via: (1) Net Banking > Customer Service > Service Requests > Bank Accounts > Account Modification Related > Activation of Dormant Account; (2) email duly filled Customer Information Updation Form + passport copy + address proof + NRI status proof to nri@icicibank.com from registered email ID; or (3) visit any ICICI branch with KYC docs. No email reply needed - portal/form/branch action. UPDATE Aug 17: ICICI e-Relationship Manager Jasmeet Kaur (myrm@icici.bank.in - new @icici.bank.in domain, update records) tried to call (ref E095988282) but got voicemail; asked for callback availability; shift 9:15 PM-5:15 AM IST (Mon-Sat except 2nd/4th Sat). Availability reply draft ready: /home/aniru/ICICI_Callback_Availability_Reply.md/.docx - propose 9 AM-noon PDT (= 9:30 PM-12:30 AM IST) window."
-    },
-    {
-      "id": "t49",
-      "track": "home",
-      "title": "ICC JOOLA Summer Open (Aug 22-23) - entry deadline TODAY Aug 16 - decide if Ariana registers",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-16",
-      "notes": "Aug 16 broadcast from ICC Table Tennis Center (rajul@iccttcenter.ccsend.com, Constant Contact; PERSONAL INBOX 345730 + APARNA INBOX 202931): entry deadline TODAY Sun Aug 16; tournament Aug 22-23 at India Community Center, Milpitas; $6K+ cash prizes; spot confirmed only after full entry fees paid, first-come-first-served. Also flagged: new league quarter starts Aug 29 (register online save 60%; members $65/8wks, non-members $90), and Talented Kids Program just opened 2 spots. Promotional email - no reply needed; family decision only. Register via icctt.org or call (408) 945-9556."
-    },
-    {
-      "id": "t50",
-      "track": "dc",
-      "title": "Comscore - send ack to Cary Tusan + adopt releaseschedule@comscore.com process",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-18",
-      "notes": "Cary Tusan created the Devi Chowdhurani title in the Comscore feed Aug 17; next feed to AMC clears AMC bookings. Ack draft: /home/aniru/Comscore_Cary_Tusan_Reply.md/.docx. Also fill & return the title checklist (from Noah Arteberry) for future titles - send to releaseschedule@comscore.com."
-    },
-    {
-      "id": "t51",
-      "track": "home",
-      "title": "ICAN schedule change - reply with choice: pause Thursday until Monday therapist found",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-18",
-      "notes": "ICAN Scheduling (schedule@icanautism.com) Aug 17 asked Aparna to choose: (a) pause Thursday session until a Monday therapist is available (keep Fri/Sat/Sun) or (b) keep Thursday until replacement found. Draft chooses (a) per family preference that Monday works much better: /home/aniru/ICAN_Schedule_Change_Choice_Reply.md/.docx - send from apu.dg1@gmail.com. UPDATE Aug 25 (PERSONAL 346543, Aparna, 06:13 PDT, empty subject): Aparna confirmed the choice in her reply to Aniruddha - keep Friday/Saturday/Sunday, start MONDAY sessions ASAP preferably 4:00-7:00 PM, DO NOT pause therapy (regression risk); concerned about 4 different BIs over 4 days; wants maximum BI consistency (Kelly's situation acknowledged). Reply draft to Aparna READY: /home/aniru/Ariana_BI_Schedule_Aparna_Reply.md/.docx. Send the ICAN choice reply (option a: pause Thursday, keep Fri/Sat/Sun, add Mon) from apu.dg1@gmail.com and confirm Mon 4-7 PM start with schedule@icanautism.com."
-    },
-    {
-      "id": "t52",
-      "track": "home",
-      "title": "Megan Foster (New Haven USD) - confirm phone call time, discuss Room 15 plan + 1:1 support",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-18",
-      "notes": "Ms. Foster asked for a call (after 3:30 PM Aug 17, or anytime Aug 18) to fully address Aparna's questions/concerns re: \"Urgent Safety Concerns and Request for 1:1 Support for Ariana\" (sent Aug 17, cc RCEB). Draft proposes Tue Aug 18 after 3:30 PM: /home/aniru/Foster_SDC_Call_Schedule_Reply.md/.docx - send from apu.dg1@gmail.com."
-    },
-    {
-      "id": "t53",
-      "track": "home",
-      "title": "Miji/Libertana - verify direct deposit account on file (last 4 digits) for Ariana reimbursements",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-21",
-      "notes": "Alexa Justo (a.justo@libertana.com) Aug 17: onboarding instructions sent to APU.DG1@GMAIL.COM 06/23/2026, family onboarded same day, payments team has account details (TT reimbursement 07/01/2026). Family does NOT recall providing bank info - ask payments team to confirm account last 4 digits + exact payment date. Reply draft: /home/aniru/Alexa_Justo_Direct_Deposit_Verify_Reply.md/.docx (cc Aricka Tasabia/Payments@mijicare.com when sending)."
-    },
-    {
-      "id": "t54",
-      "track": "home",
-      "title": "ICAN - review, sign & return Release of Information form for Ariana (Malakai Strinden)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-21",
-      "notes": "Malakai Strinden (malakai@icanautism.com) sent the Release of Information form Aug 17 (APARNA inbox 202988) - needed for info sharing (IEP/school coordination, relates to Aparna's \"Ariana - IEP\" email). Review, sign, return to Malakai."
-    },
-    {
-      "id": "t55",
-      "track": "home",
-      "title": "Pacific Homecare - sign NEW timesheet signature request (Aug 17 email)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-18",
-      "notes": "accounting@pacifichomecare.com sent another \"Timesheets Signature Request\" Aug 17 18:23 UTC (third one, after #602300 in t31 and #609585 in t36). Sign within 24 hours via the emailed link or compliance violation. Contact (209) 956-2532 opt 5."
-    },
-    {
-      "id": "t56",
-      "track": "finance",
-      "title": "ICICI Bank callback - send availability window to Jasmeet Kaur",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-19",
-      "notes": "Reply draft ready: /home/aniru/ICICI_Callback_Availability_Reply.md/.docx - propose 9 AM-noon PDT (= 9:30 PM-12:30 AM IST) window within her shift (9:15 PM-5:15 AM IST). Ref E095988282, likely re: dormant accounts XX1416/XX3407 (t48). Call: +1 650-645-0822."
-    },
-    {
-      "id": "t57",
-      "track": "finance",
-      "title": "Bhatia & Co - confirm Zoom meeting Aug 18 4:30 PM PST (Mr. Bhatia investments call)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-18",
-      "notes": "Invite from Ankita (info@bhatiaco.com): Aug 18, 2026 04:30 PM Pacific, https://us02web.zoom.us/j/4088459411?omn=85355279499, Meeting ID 408 845 9411, Passcode 1234. Confirmation draft: /home/aniru/Bhatia_Zoom_Meeting_Confirm_Reply.md/.docx. Agenda: Review of Upcoming Investments & BASAF Capital (t21). UPDATE Aug 18 (PERSONAL INBOX 345942, 4:44 PM PDT): Ankita follow-up 'Neeraj ji is joining in 5 minutes, I tried to call you as well' - pre-meeting heads-up right before the 4:30 PM PDT call. No reply needed; meeting proceeded. If user missed the call, follow up with Ankita directly."
-    },
-    {
-      "id": "t58",
-      "track": "finance",
-      "title": "ICICI Auto Loan XX7922 - lien debit Rs 9,154 from savings XX272 (Aug 18); verify dues/auto-pay",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-25",
-      "notes": "Aug 18 system email (lienad@icici.bank.in, PERSONAL INBOX 345872, Ref 003518082602, do-not-reply): outstanding dues on Automobile Loan XX7922 were unpaid despite reminders; ICICI debited savings account XX272 Rs 9,154.00 and credited it to the auto loan. No reply possible. Action: check why auto-pay lapsed, confirm remaining balance/EMI schedule via Net Banking or ICICI RM (Jasmeet Kaur callback pending t48/t56)."
-    },
-    {
-      "id": "t59",
-      "track": "home",
-      "title": "APARNA Gmail app password revoked - regenerate for mailbox scan",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-19",
-      "notes": "Aug 18 scan: apu.dg1@gmail.com IMAP login FAILED (AUTHENTICATIONFAILED, tried spaced/unspaced/dashed forms of yheu ovwl fcva aqzj). Google security alerts in PERSONAL mailbox explain it: Aug 18 14:04 GMT 'App password created to sign in' (labeled 'Hermes new') then 14:07 GMT 'App password used to sign in was removed' - the password was revoked ~3 min after creation. Generate a NEW app password at myaccount.google.com > Security > 2-Step Verification > App passwords (label e.g. 'Hermes'), update the cron job config. APARNA mailbox (INBOX + Sent) was NOT scanned this run; next run will resume normally once password is updated. UPDATE Aug 21: STILL FAILING - same app password (yheu ovwl fcva aqzj) rejected with AUTHENTICATIONFAILED on Aug 21 scan. New app password still required. UPDATE Aug 22: STILL FAILING on Aug 22 scan (AUTHENTICATIONFAILED). APARNA INBOX + Sent unscanned since Aug 17. UPDATE Aug 22 (2nd scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent remain unscanned since Aug 17. UPDATE Aug 22 (3rd scan): STILL AUTHENTICATIONFAILED with same app password. APARNA INBOX + Sent remain unscanned since Aug 17. NOTE: ADITED Google security alert (ADITED inbox 21556, no-reply@accounts.google.com, Aug 22 00:31 GMT) confirms a NEW app password labeled 'Hermes new' was created for aniruddha@aditedmotionpictures.com - ADITED IMAP login works fine with the current password; no action needed there. UPDATE Aug 22 (4th scan): STILL AUTHENTICATIONFAILED with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent remain unscanned since Aug 17. UPDATE Aug 23: STILL AUTHENTICATIONFAILED on Aug 23 scan (yheu ovwl fcva aqzj rejected). APARNA INBOX + Sent remain unscanned since Aug 17. New app password still required. UPDATE Aug 23 (2nd scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent still unscanned since Aug 17. UPDATE Aug 24: AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj) on the Aug 24 scan. APARNA INBOX + Sent remain unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED - generate at myaccount.google.com > Security > 2-Step Verification > App passwords and update the cron config. UPDATE Aug 25: AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj) on the Aug 25 scan. APARNA INBOX + Sent remain unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED. UPDATE Aug 25 (2nd scan): AUTHENTICATIONFAILED again (yheu ovwl fcva aqzj) - APARNA INBOX + Sent still unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED (generate at myaccount.google.com > Security > 2-Step Verification > App passwords, update cron config). UPDATE Aug 25 (4th scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent still unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED (generate at myaccount.google.com > Security > 2-Step Verification > App passwords, update cron config). UPDATE Aug 25 (5th scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj) on the Aug 25 evening scan. APARNA INBOX + Sent remain unscanned since Aug 17 - 8 days. NEW APP PASSWORD STILL REQUIRED; without it the APARNA leg of the mailbox scan cannot run. UPDATE Aug 26 (6th scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent remain unscanned since Aug 17 - 9 days. NEW APP PASSWORD STILL REQUIRED (generate at myaccount.google.com > Security > 2-Step Verification > App passwords, label e.g. 'Hermes', update cron config)."
-    },
-    {
-      "id": "t60",
-      "track": "dc",
-      "title": "IFFI submission DCP - confirm Rs 40,000+taxes to Kushal (EditFX) + timeline",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-24",
-      "notes": "Aug 20-21 IFFI DCP thread (21536/21550/21552, all cc'd to ADITED): Soumyajit asked EditFX to give Dibyendu/Tanmoy time for DCP making of Devi Chowdhurani (patch grading for 1-2 opening-credit slides, end credits being updated). Tanmoy listed needs: studio time for opening/end credit update, patch grading, MP4 + MOV out, DCP of the film. Kushal Chirimar (kushal@editfxstudios.com) replied Aug 21: will check grading part (incorporate if possible); for other updates & work will charge Rs 40,000 plus taxes - 'Please confirm'. REPLY DRAFT READY: /home/aniru/IFFI_DCP_Kushal_Confirm_Reply.md/.docx - confirm the charge, request timeline for IFFI submission. Send from aniruddha@aditedmotionpictures.com, cc Soumyajit + Tanmoy. UPDATE Aug 24: Kushal confirm reply was SENT (ADITED Sent 844, Mon Aug 24 00:20 PDT 'Re: IFFI submission DCP Devi Chowdhurani'). Also received IFFI 2026 broadcast 'Last Date to Fill Your Application | IFFI 2026' (ADITED 22875, digital@nfdcindia.com, image-only body) - verify the actual application deadline on iffigoa.org; DCP work with EditFX continues."
-    },
-    {
-      "id": "t61",
-      "track": "finance",
-      "title": "Apple Card - virtual card restricted after $2.12 Deepseek attempt; confirm in Wallet",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-24",
-      "notes": "Aug 20 (ADITED inbox 21543, no_reply@post.applecard.apple): virtual card transaction attempt of $2.12 at 'Deepseek' on Aug 20, 2026 was DECLINED as suspicious; not charged; virtual card spending temporarily RESTRICTED until user takes action. Action: open Apple Card in Wallet and confirm whether the transaction was attempted (if recognized, re-attempt purchase; if unauthorized, virtual card gets replaced). No email reply possible (no-reply sender). Specialist: 1-877-255-5923. NOTE: likely the user's own Deepseek API usage - confirm and un-restrict. UPDATE Aug 22 (2nd scan, ADITED inbox 21558-21567): (a) 21558 'Your payment has been received' 07:40 UTC - FYI, payment applied; (b) NINE duplicate 'Your virtual card number is restricted - action needed' notices 07:42-07:47 UTC (21559-21567) - same restriction, repeated per attempted transaction. Still no email reply possible; action remains: open Apple Card in Wallet, confirm the Deepseek $2.12 attempt, re-attempt/un-restrict. NOTE: DeepSeek also sent a billing-rules announcement Aug 22 (PERSONAL 346277, support@sc.mail.deepseek.com): new peak/off-peak API pricing for DeepSeek V4 - FYI re: the Deepseek charge context. UPDATE Aug 22 (3rd scan, ADITED inbox 21568, info_noreply@post.applecard.apple, 07:48 UTC): 'Advanced Fraud Protection is now disabled' notice - indicates action was taken in Wallet (AFP turned off, likely while resolving the virtual card restriction); no reply possible (no-reply sender). Confirm in Wallet that the virtual card is un-restricted and the Deepseek $2.12 attempt was recognized."
-    },
-    {
-      "id": "t62",
-      "track": "finance",
-      "title": "IFZA renewal - penalty DISCOUNT via CSP (waiver campaign ended Aug 24) - reply draft ready",
-      "status": "in-progress",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Aug 21 user self-note (PERSONAL INBOX 346253, sent to own Gmail 23:01 PDT): 'Reply SEND to email it from your Gmail, or send manually from the company mailbox'. Draft READY: /home/aniru/IFZA_MBRJ_Waiver_Reply.md/.docx. Content: (1) accepts license penalty waiver offer; (2) requests ESTABLISHMENT CARD penalty waived on same terms; (3) asks final amount breakdown (license fee + establishment card + govt fees); (4) asks written confirmation that AED 18,000 late penalty (and accruing) is waived in full; (5) asks payment instructions - commits to settling ASAP. Grounded in IFZA Aug 10 email (AED 18,000 figure, ticket ## 5863817 ##). '4 Days to Renew Without Penalty' window (Aug 10) likely passed - June waiver offer should still hold. Send from aniruddha@aditedmotionpictures.com (thread mailbox) or personal Gmail. Related: t27 (UAE CT filing, MBRJ MEDIA TRN 104862644200001). UPDATE Aug 22: CONFIRMED SENT - ADITED Sent Mail 827 (Aug 21, 23:xx PDT) 'Re: [## 5863817 ##] MBRJ MEDIA - FZCO ll LICENSE PENALTY WAIVER' sent from aniruddha@aditedmotionpictures.com. Await IFZA response re: license + establishment card penalty waiver + final amount breakdown. UPDATE Aug 24 (ADITED 22882, renewals@ifza.com, 06:53 PDT): IFZA REPLIED - penalty WAIVER CAMPAIGN HAS ENDED, can no longer waive the outstanding license fines; however a DISCOUNT on applicable penalties MAY still be offered; asks us to contact the corporate service provider (CSP) that assisted with company establishment (B2B model) to coordinate the renewal offer. NEW REPLY DRAFT READY: /home/aniru/IFZA_Renewal_Discount_Reply.md/.docx - ask IFZA to confirm the CSP on record for MBRJ MEDIA - FZCO + the discounted penalty/final renewal amount (license + establishment card + govt fees) + payment instructions; commit to settling promptly. See t91."
-    },
-    {
-      "id": "t63",
-      "track": "finance",
-      "title": "Visa Fidelity Pension \u2192 Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "DECISION MADE (Aug 21): DIRECT ROLLOVER to Merrill Lynch IRA (trustee-to-trustee) - avoids 20% mandatory withholding + 10% early-withdrawal penalty + income tax. STEPS: 1) Merrill side: confirm/open receiving Traditional IRA at ML, get rollover account details (call MyMerrill 1-800-MERRILL or your ML advisor; Merrill provides Letter of Acceptance/rollover kit). 2) Fidelity side: call Fidelity 800-835-5095 (401(k) rollover line) or online - request DIRECT rollover of the Visa 401(k)/pension to 'Merrill Lynch FBO [Aniruddha Dasgupta]' - trustee-to-trustee (never take the check yourself - 60-day indirect rollover trap). 3) Confirm plan allows full distribution (Visa plan, former employee). 4) Track: no cash touches your hands; ML confirms receipt; 5) Verify vesting 100% (former employee, likely fully vested). Drafts: Fidelity rollover request + Merrill inquiry emails ready on request. NOT tax advice - confirm with Lovleen. UPDATE Aug 22: self-note (PERSONAL INBOX 346254, Aug 21 23:16 PDT) confirms rollover package ready (Word + MD) with 2 email drafts attached: (1) Merrill inquiry (open/confirm Traditional IRA + Letter of Acceptance + payee line 'Merrill Lynch FBO Aniruddha Dasgupta'), (2) Fidelity rollover request (DIRECT, full balance, no withholding). Phone: MyMerrill 1-800-637-7455, Fidelity 800-835-5095. Code G 1099-R expected. Target Aug 31 - START THIS WEEK. UPDATE Aug 23: MyMerrill (my_merrill@ml.com) 'You have a new trade confirmation' notices Aug 21 (PERSONAL 346170) + Aug 22 (346258) - confirmations available online/in app; mailbox unmonitored, no reply needed. Likely rollover/account activity - verify in MyMerrill portal."
-    },
-    {
-      "id": "t64",
-      "track": "finance",
-      "title": "Research Google (work) insurance + FSA benefit options",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Research Google employer health insurance coverage + FSA (Flexible Spending Account) benefit: plan options, enrollment window (likely annual open enrollment ~Oct/Nov), FSA contribution limits (2026: $3,300 standard), whether FSA covers therapy/OT/speech, HSA eligibility. Compare against current Anthem Blue Cross plan. Confirm with Google benefits portal/HR."
-    },
-    {
-      "id": "t65",
-      "track": "health",
-      "title": "MyChart (Sutter) - outstanding payments + start payment plan (all 3: Aniruddha, Aparna, Ariana)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Log into Sutter MyChart: review outstanding balances for Aniruddha, Aparna, Ariana; set up payment plans (Sutter offers interest-free payment plans); confirm any bills are in-network vs out-of-network; request itemized statements if unclear."
-    },
-    {
-      "id": "t66",
-      "track": "health",
-      "title": "MyHealthOnline (Sutter) - outstanding payments + start payment plan (all 3)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Log into Sutter My Health Online: review outstanding balances for all 3 family members; set up payment plans; check for duplicate bills with MyChart (Sutter migrated to MyChart - some legacy MyHealthOnline balances may need reconciliation)."
-    },
-    {
-      "id": "t67",
-      "track": "health",
-      "title": "Upload Ariana's out-of-network speech + OT bills to ANTHEM insurance portal",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Upload out-of-network bills for Ariana's speech therapy + occupational therapy to the ANTHEM Blue Cross member portal (claims submission). Gather: therapy invoices (Seven Bridges speech; OT provider), itemized statements, dates of service. Anthem is the family plan (user-confirmed Aug 2026, not Aetna). Note: Ariana's speech therapy was previously identified as NOT covered by Anthem (Aparna was switching to Medi-Cal/Santa Clara Family Health Plan therapist) - verify coverage before/while submitting OON claims."
-    },
-    {
-      "id": "t68",
-      "track": "home",
-      "title": "IHSS SOC 295 application for Ariana - complete pre-filled PDF + submit (Alameda County)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-09-01",
-      "notes": "Aug 22 self-note (PERSONAL INBOX 346256, sent to own Gmail 00:00 PDT): SOC 295 pre-filled PDF + completion guide ready (attachments: SOC295_Ariana_DRAFT.pdf + guide). Pre-filled: Ariana Dasgupta, 2437 Balmoral St, Union City, CA 94587, 650-645-0822, aniruddha.dg1@gmail.com, Female, Asian Indian, English. MUST COMPLETE: (1) SSN + DOB (left blank); (2) Section 4: SSI answer (likely No) + services requested; (3) Section 6: household - both parents' names/DOB/SSN; (4) Section 10: parent signs as Representative (minor child) - Aniruddha or Aparna Dasgupta. SUBMIT: online via BenefitsCal (benefitscal.com) recommended, or mail/drop to Alameda County SSA Adult & Aging Services. After: county social worker in-home assessment + Medi-Cal check. 2 FLAGS: (a) Ariana lives in ALAMEDA County (Union City) but Medi-Cal/RCEB links are Santa Clara - IHSS files in county of residence; 5-min call to Alameda IHSS intake to confirm jurisdiction recommended; (b) minor-child IHSS assessed vs typical child of same age - prepare examples of extra care needs (RCEB records) for home assessment."
-    },
-    {
-      "id": "t69",
-      "track": "studio",
-      "title": "Dulal Dey - review VIJAY PPT+budget, schedule video meeting with SANI (line production)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-23",
-      "notes": "Aug 22 (ADITED inbox 21585, deydulal@gmail.com, 'Fwd: VIJAY', Sun Aug 23 00:52 IST): Dulal Dey sent the PPT and budget for the film 'VIJAY' (as discussed) and proposes a video meeting Saturday or Sunday; the owner of line production company 'SANI' will be present to brief on the project. REPLY DRAFT READY: /home/aniru/Dulal_VIJAY_Meeting_Reply.md/.docx - proposes Sunday Aug 23 8:00 PM IST (7:30 AM PDT), fallback Monday options. Attachments saved: /home/aniru/VIJAY_docs/CASTING.pdf + Bengali Film VIJAY.xls (budget). Send from aniruddha@aditedmotionpictures.com."
-    },
-    {
-      "id": "t70",
-      "track": "studio",
-      "title": "Mumbai talent network entry - provide 4 inputs to activate (exec name, 2 IPs, budget level, trip timing)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-31",
-      "notes": "Aug 22 self-note (PERSONAL INBOX 346302, own Gmail, '[STRATEGY] Mumbai talent network entry + Hindi market plan (DC leverage)'): plan ready (Word + MD). DC credentials = first Indo-UK co-production in Bengali cinema, US theatrical Sep 4, UK/LBFF closing film, NABC win, India Puja release. 90-day plan: Phase 1 (Aug-Sep) CRM + DC one-pager + 30-contact list + lock Mumbai exec meeting; Phase 2 (Oct-Nov) Mumbai trip + Film Bazaar + IFFI; Phase 3 (Dec-Feb) follow-ups + decks. SELF-ASKED INPUTS to provide: (1) Mumbai executive's name/company, (2) the two IPs (film + web show) titles/concepts, (3) budget/ambition level, (4) Mumbai trip timing (tied to Film Bazaar Nov?). Companion KPI framework self-note: PERSONAL INBOX 346304 (BD funnel SOURCE->RELATE->CONVERT->COMMIT->REVENUE; funding/sales/studio/IP/network pillars; $500K-1M equity 12-mo, $200K+ presales, 1 first-look deal by Dec 2027). No email reply needed (self-send); respond to own note with the 4 inputs to activate execution."
-    },
-    {
-      "id": "t71",
-      "track": "finance",
-      "title": "Capital One VentureOne - virtual card ...8348 deactivated; APPLE.COM/BILL purchase declined Aug 23",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-26",
-      "notes": "Aug 23 (PERSONAL inbox 346328, capitalone@notification.capitalone.com, 'Purchase declined: Your virtual card is deactivated'): APPLE.COM/BILL purchase declined because virtual card ending 8348 has been deactivated. Options: use another virtual card, create a new virtual card, or use physical card. If purchase NOT authorized: call 800-227-4825. Likely Apple subscription billing (e.g., iCloud/Keiki). Portal action - no email reply possible. Related: t61 (Apple Card virtual card restriction) - two separate issuers."
-    },
-    {
-      "id": "t72",
-      "track": "job",
-      "title": "JPMorganChase - check job application status (Job number 210730322)",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-08-30",
-      "notes": "Aug 22 (PERSONAL inbox 346259, JPMorganChase Human Resources via Oracle workflow, eino.fa.sender@workflow.mail.us2.cloud.oracle.com): 'Your job application status' for Job 210730322. Body empty/image-based - open the portal link in the email to view status. No email reply possible."
-    },
-    {
-      "id": "t73",
-      "track": "finance",
-      "title": "Transfer: ADited Sole Prop (HDFC) -> ICICI -> USA (repatriation)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Send money from ADited sole-prop HDFC acct (50200079740827, IFSC HDFC0000018) to ICICI India, then repatriate to USA. Repatriation route: confirm with ICICI RM (Jasmeet Kaur thread) - NRE/NRO vs RBI LRS vs business remittance. Docs: Form A2 if outward remittance. Confirm USD rate. UPDATE Aug 24: HDFC InstaAlert (ADITED 22889, alerts@hdfcbank.bank.in) - available balance in account ending XX9924 is Rs 2,07,73,492.32 (~Rs 2.08 Cr) as of 24-Aug-26 - funds confirmed available for the transfer leg. UPDATE Aug 26: two HDFC 'View: Account update' image-based alerts (ADITED 21644/21645, alerts@hdfcbank.bank.in, 05:22 UTC) - standard view-notifications, no plain-text detail; FYI only, no action."
-    },
-    {
-      "id": "t74",
-      "track": "dc-release",
-      "title": "Book DCP for USA release (Sep 4)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-28",
-      "notes": "Book DCP delivery for Sep 4 US release: Qube Wire to confirmed theatres (Cinemark 8 + AMC Houston First Colony 24; Regal pending). Coordinate with EditFX (Kushal Chirimar - IFFI DCP thread Aug 20-21) or DCP vendor. Need: final DCP with English subs (2h14m), KDMs per theatre, trailer package. IFFI submission DCP also in flight (Soumyajit)."
-    },
-    {
-      "id": "t75",
-      "track": "family",
-      "title": "Sign + send Ariana's IHSS application (SOC 295)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Pre-filled PDF at /home/aniru/SOC295_Ariana_DRAFT.pdf - complete remaining fields (SSN, DOB, household parents, services requested), parent signs as Representative, submit via BenefitsCal or Alameda County SSA. Guide: /home/aniru/SOC295_Ariana_Guide.md. Confirm Alameda jurisdiction (Union City) vs Santa Clara Medi-Cal linkage."
-    },
-    {
-      "id": "t76",
-      "track": "family",
-      "title": "Order Miku table from Amazon",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-31",
-      "notes": "Order the Miku table from Amazon."
-    },
-    {
-      "id": "t77",
-      "track": "finance",
-      "title": "Settlement with Anand Bhai (Anand Desai - ITR) before Aug 31",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Anand Desai (anand@ymdnco.com) - Aparna Dasgupta AY 25-26 ITR thread (Jun 10). Settle his fees before Aug 31. Confirm amount + payment method (India transfer via HDFC/ICICI?)."
-    },
-    {
-      "id": "t78",
-      "track": "finance",
-      "title": "Follow up BASAF Corp + personal tax returns (Bhatia & Co)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Follow up BASAF Corp tax return + personal returns with Lovleen Banga / Bhatia & Co (Zoom with Mr Bhatia was Aug 18). BASAF: film acquisition costs, no 1099s, $12K 2023 consulting fee question. Personal: confirm filed/extended. UPDATE Aug 24: user sent 'Re: Aniruddha - Personal & BASAF - Statement' to Lovleen Banga (PERSONAL Sent 10133, Mon Aug 24 09:53 PDT) - statement thread active; await her reply."
-    },
-    {
-      "id": "t79",
-      "track": "dc-release",
-      "title": "Zee Music content delivery - resolve thread (Shivam/Tanmoy)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Active thread 'Content Deliveries - Devi Chowdharani' (Aug 14-20): Shivam Pandey (Zee) + Tanmoy. This is the \u20b910L + GST settlement pipeline - complete ALL delivery materials to trigger 40-day payment clock. BGM videos not required per earlier research. UPDATE Aug 26: ALL delivery materials now shared - Tanmoy sent the final pending item (Durgamo Giri Kantar Moru stems link, ADITED 21647) to Shivam Aug 26. Await Shivam's confirmation + Zee final content-delivery update; then push the payment follow-up (see t05)."
-    },
-    {
-      "id": "t80",
-      "track": "dc-release",
-      "title": "Resolve 'pending agreements before international release' (Tanmoy/Ritisha)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-28",
-      "notes": "Thread Aug 14-18: Tanmoy + Ritisha Mukherjee (legal) on pending agreements before international release. Must clear BEFORE Sep 4 US release. Review what's outstanding (likely rights/clearances/contracts). UPDATE Aug 24: Ritisha sent the FURTHER-UPDATED Fourth Dimension agreement draft addressing the parked clauses (ADITED 22876; attachment saved /home/aniru/mailscan_dump/FourthDimension_Agreement_Draft_24.08.2026_ANM_Global.docx) - ack/review draft READY: /home/aniru/Fourth_Dimension_Agreement_Ack_Reply.md/.docx (see t35). Review the draft and confirm back to close this item before Sep 4. UPDATE Aug 25 (ADITED 21631, Tanmoy -> Ritisha, 12:39 UTC): Tanmoy replied 'We are executing this document with the required details' - execution of the updated Fourth Dimension agreement is IN PROGRESS (retrospective date being filled). No ack needed from our side; track execution completion + Dec 15 2026 payment obligations (see t35)."
-    },
-    {
-      "id": "t81",
-      "track": "finance",
-      "title": "UAE Corporate Tax return - MBRJ/IFZA (tax.gov.ae reminders)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-09-15",
-      "notes": "Reminders from Haroon Khan (Aug 20) + Ali Saifo (Aug 21) at tax.gov.ae re Corporate Tax return submission. Ties to MBRJ MEDIA-FZCO license renewal (AED 18k penalties). File CT return - deadline Sep 15 (matches tracker t07-era item)."
-    },
-    {
-      "id": "t82",
-      "track": "admin",
-      "title": "Update Otter.ai payment method (expired card)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-31",
-      "notes": "'Action Required: Please update your payment method' from Otter.ai Payments (Aug 19). Update card in Otter.ai billing."
-    },
-    {
-      "id": "t83",
-      "track": "finance",
-      "title": "Universal Organic DE annual tax + BOI (Legalinc/Stripe Atlas reminder)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Legalinc/Stripe Atlas reminder Aug 14: Pay Annual Delaware LLC Tax (due Jun 1, overdue). Also BOI report missed (~Oct 2025). Zero-revenue year unfiled. Lovleen question: ~$20,600 transfer to UOP Ltd treatment."
-    },
-    {
-      "id": "t84",
-      "track": "finance",
-      "title": "Apple Card dispute outcome - review (Bebe $260.01)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-30",
-      "notes": "Apple Card transaction dispute emails Aug 19-22 (outcome + virtual card number restricted notices). Verify dispute resolution + card status."
-    },
-    {
-      "id": "t85",
-      "track": "admin",
-      "title": "Fix Adobe payment failure (subscription billing)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-31",
-      "notes": "'Your payment failed' from Adobe (Aug 18). Update billing method or confirm card on file to avoid service interruption."
-    },
-    {
-      "id": "t86",
-      "track": "admin",
-      "title": "Swyft Filings annual report notice - WY LLC dissolution context",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-09-10",
-      "notes": "Swyft 'Annual Report due soon' (Aug 19) for Aniruddha Dasgupta LLC (WY). Context: dissolution in progress (forms mailed, $60 check, filing ID 2023-001343451). Confirm annual report obligation ends with dissolution; Swyft cancellation demand Sep 10 (t24)."
-    },
-    {
-      "id": "t87",
-      "track": "admin",
-      "title": "Activate Chase Freedom card",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-31",
-      "notes": "'Attn: Aniruddha, your activation is required' - Chase Freedom (Aug 19). Activate new card."
-    },
-    {
-      "id": "t88",
-      "track": "family",
-      "title": "Check HealthEquity FSA claim (new claim received)",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-09-15",
-      "notes": "'New Claim Received' from HealthEquity (Aug 20) - HSA/FSA claim processing. Verify claim + reimbursement status."
-    },
-    {
-      "id": "t89",
-      "track": "family",
-      "title": "Review Google security alerts for apu.dg1@gmail.com (Aparna)",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-31",
-      "notes": "Security alert for Aparna's account (Aug 18, x2). Confirm with Aparna it was her login; if not, secure account immediately."
-    },
-    {
-      "id": "t90",
-      "track": "dc",
-      "title": "Regal escalation to Russell Deaver - SENT Aug 23; awaiting reply (fallback phone Tue Aug 25)",
-      "status": "in-progress",
-      "priority": "high",
-      "due": "2026-08-25",
-      "notes": "Josh Pollard OOO auto-reply Aug 23 (PERSONAL 346350) routes urgent Indian releases to Brandon Corrier + Russell Deaver - Russell is the Indian film booker. Escalation draft READY: /home/aniru/Regal_Escalation_Russell_Deaver.md/.docx (To: Russell.Deaver@regalcinemas.com, Cc: Brandon.Corrier@regalcinemas.com + Joshua.Pollard@regalcinemas.com, subject 'URGENT - Booking Request for Devi Chowdhurani (Bengali) - 9/4/2026 - Indian release'). Content: Sep 4 release 12 days out, Cinemark 8 + AMC Houston confirmed, 11 Regal locations pending since Aug 11, NY/NJ zero-screen gap (Union Square/Kaufman Astoria/Commerce Center), W-9 on file (BASAF Corp), DCP via Qube Wire ready on confirmation. ATTACH DC_Regal_Booking_Request.xlsx. Fallback if no reply by Tue Aug 25: phone Russell (Regal Master Buyer List) or Brandon (865) 925-9509. UPDATE Aug 24 (sent-mail check): escalation WAS SENT to Russell Deaver Sun Aug 23 08:29 PDT (PERSONAL Sent 10129); earlier version also sent to Josh Pollard (10126, 07:49 PDT); user also replied to Brandon Corrier Aug 23 22:43 PDT (Sent 10130, 'Re: URGENT - Booking Request...'). Awaiting confirmations - release Sep 4 is ~11 days out; phone fallback Tue Aug 25 if no reply."
-    },
-    {
-      "id": "t91",
-      "track": "finance",
-      "title": "IFZA - coordinate MBRJ MEDIA renewal penalty discount via CSP (draft ready)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "IFZA (renewals@ifza.com) replied Aug 24 (ADITED 22882) to our Aug 22 waiver-acceptance: waiver campaign ENDED - no full waiver of license fines; a DISCOUNT on applicable penalties may still be offered; per their B2B model we must contact the corporate service provider (CSP) that set up the company to coordinate. REPLY DRAFT READY: /home/aniru/IFZA_Renewal_Discount_Reply.md/.docx - asks IFZA to confirm: (1) CSP on record for MBRJ MEDIA - FZCO, (2) discounted penalty + final renewal amount (license fee + establishment card + govt fees), (3) payment instructions. Commit to settling promptly. If the user knows the CSP (agent who incorporated MBRJ), contact them directly in parallel. Send from aniruddha@aditedmotionpictures.com. Related: t62 (waiver thread), t27 (UAE CT filing MBRJ TRN 104862644200001)."
-    },
-    {
-      "id": "t92",
-      "track": "home",
-      "title": "Facebook login alert Aug 24 (Sunnyvale, Facebook for iPhone) - verify it was you",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-26",
-      "notes": "Aug 24 13:14 PDT (PERSONAL inbox 367489, security@facebookmail.com): 'Did you just log in near Sunnyvale on a new device?' - login near Sunnyvale, CA, United States on Facebook for iPhone. If this was NOT the user: click 'This wasn't me' in the email and secure the account (change password, review sessions). If it was the user (e.g. phone/tablet login), ignore. No email reply possible."
-    },
-    {
-      "id": "t93",
-      "track": "admin",
-      "title": "CreditWise dark web alert (Aug 25) - review details in app",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-28",
-      "notes": "5th alert since Jan 2026 (Jan 23, Jan 31, May 5, Jun 1, Aug 25). Log into CreditWise app/capitalone.com -> Alerts -> review what was found (email/SSN/address + source). Email has NO details - must check in app."
-    },
-    {
-      "id": "t94",
-      "track": "admin",
-      "title": "Pull all 3 credit reports + scan for anomalies (annualcreditreport.com)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Free weekly pulls at annualcreditreport.com (Equifax/Experian/TransUnion). Scan for: unknown accounts, hard inquiries, address changes, name variations. Context: Capital One 'total credit limit decreased' notice Jul 21 - verify."
-    },
-    {
-      "id": "t95",
-      "track": "admin",
-      "title": "Freeze credit at all 3 bureaus (Equifax, Experian, TransUnion)",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-08-31",
-      "notes": "Free credit freeze blocks new-account fraud. Do all 3: equifax.com, experian.com, transunion.com. Save PINs securely. Can unfreeze anytime. Single most effective protection against dark-web SSN exposure."
-    },
-    {
-      "id": "t96",
-      "track": "admin",
-      "title": "Change passwords + enable 2FA on exposed emails",
-      "status": "pending",
-      "priority": "medium",
-      "due": "2026-08-31",
-      "notes": "If CreditWise shows email in a breach dump: change passwords (unique strong), enable 2FA. Related: Google security alert for apu.dg1@gmail.com (Aug 18) - verify with Aparna."
-    },
-    {
-      "id": "t97",
-      "track": "dc",
-      "title": "DC BFI co-production final application - audit certificate (Sudesh/Triumph) + submit by Sep 25",
-      "status": "pending",
-      "priority": "high",
-      "due": "2026-09-25",
-      "notes": "From ADITED 22902 (Soumyajit, devichowdhurani2024@gmail.com, Aug 25 23:31 IST, to sudesh@triumphusltd.com, CC Aniruddha + hcfilms786@gmail.com + Tanmoy): final BFI co-production status application must be submitted by 25 Sep 2026 (HMRC filing by Dec 31, 2026; project permission granted FY 2023-24). UK spend ~195,000 GBP, shooting entirely in India; UK producer HC Films engaged vendors pay-later, payments delayed after Associate Producer Farid Mallick's demise; Hassan in Dubai securing investor financing to settle UK vendors. Ask to Sudesh: execute the audit report certificate for the film (proforma attached to email) + consultancy in the final BFI application submission; NFDC final submission link shared (contains Adited-HC film agreement + BFI/DCMS permission letters): https://drive.google.com/drive/u/0/folders/1R0MZgqTDOquG5nLu5ENioPL73Ai9nXWc. No reply needed from us (ask is directed at Sudesh/Triumph), but FOLLOW UP with Sudesh/Triumph well ahead of Sep 25 to confirm the audit certificate is being executed; coordinate any additional docs they request. USA release Sep 4, 2026 cited in the email."
-    },
-    {
-      "id": "t98",
-      "track": "home",
-      "title": "Airborne Gymnastics - Jia Hahn fundraiser leotard (optional, order by Sep 12)",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-09-12",
-      "notes": "Aug 25 email from Airborne Gymnastics (info@airborne-gymnastics.com, Santa Clara) - community fundraiser: Jia (competitive gymnast at Ultimate Sports Connection, Concord) was in a serious car accident with her parents; she remains in PICU undergoing surgeries. Fundraiser leotard available through Sep 12; portion of proceeds goes to Hahn family. FYI bulk email (Constant Contact) - NO reply needed. Optional: consider purchasing leotard to support, if family wants to contribute."
-    },
-    {
-      "id": "t99",
-      "track": "dc",
-      "title": "DC UK release: Soumyajit pitching Manish Tiwari (Here & Now 365) - UK target before Nov 15, 2026",
-      "status": "pending",
-      "priority": "low",
-      "due": "2026-11-15",
-      "notes": "ADITED 21634 (Soumyajit, soumyajitsmc@gmail.com, Aug 25 23:59 IST, to manish.tiwari@hereandnow365.co.uk, CC Aniruddha + Hassan@hcfilms.co.uk + Tanmoy): following their London meeting last month, Soumyajit proposes collaboration for special screening + release of Devi Chowdhurani (134 min, Bengali/English w/ subtitles) in London and other UK parts - historically the first official India-UK co-production. USA release Sep 4, 2026; UK release targeted before Nov 15, 2026. Soumyajit informed Prithul Kumar (Addl Secretary I&B) and Prakash Magdum (MD NFDC); Ministry of Culture supporting UK release; campaign to include logos of I&B Ministry, NFDC, India Cinehub, Invest India. Asks Manish for an e-meet this week. NO REPLY NEEDED from us (CC'd only, ask directed at Manish) - monitor thread; be ready to support with materials/logos if UK release firms up."
-    },
-    {
-      "id": "t100",
-      "track": "home",
-      "title": "IHSS application - review/complete draft (In-Home Supportive Services)",
-      "status": "pending",
-      "priority": "medium",
-      "due": null,
-      "notes": "Aug 25 self-sent email (PERSONAL INBOX 346618, from aniruddha@aditedmotionpictures.com to aniruddha.dg1@gmail.com, 19:00 PDT): subject 'IHSS application', attachment IHSS application.pdf, empty body. Likely the CA In-Home Supportive Services application (for Ariana's in-home care, related to Pacific Homecare staffing gap t44 / RCEB t28). Review the PDF, complete/sign, and submit per IHSS/Medi-Cal process. No reply needed (self-send document transfer). Attachment saved in Gmail; PDF also available at /home/aniru/mailscan_dump if needed."
-    }
-  ]
+ "tracks": [
+  {
+   "id": "job",
+   "name": "Job",
+   "emoji": "\ud83d\udcbc",
+   "color": "#4F8EF7",
+   "description": "Google work items"
+  },
+  {
+   "id": "dc",
+   "name": "DC Closing",
+   "emoji": "\ud83c\udfac",
+   "color": "#9B59B6",
+   "description": "Devi Chowdhurani - release, festivals, distribution, Zee"
+  },
+  {
+   "id": "studio",
+   "name": "Studio Work",
+   "emoji": "\ud83c\udfe2",
+   "color": "#E67E22",
+   "description": "ADited / Confluence 2027 / BASAFF / Aparna Hollywood positioning"
+  },
+  {
+   "id": "finance",
+   "name": "Finance & Legal",
+   "emoji": "\ud83d\udcb0",
+   "color": "#27AE60",
+   "description": "Lovleen/BASAF, Universal Organic, Wyoming/Swyft/Buffalo, taxes"
+  },
+  {
+   "id": "home",
+   "name": "Home & Family",
+   "emoji": "\ud83c\udfe0",
+   "color": "#E74C3C",
+   "description": "FasTrak, health, household, Aparna & Ariana"
+  },
+  {
+   "id": "miku",
+   "name": "Miku",
+   "emoji": "\ud83d\udc3e",
+   "color": "#F39C12",
+   "description": "Miku-related items"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "t01",
+   "track": "dc",
+   "title": "Send DC booking emails (Cinemark/Regal/AMC)",
+   "status": "in-progress",
+   "priority": "high",
+   "due": "2026-08-21",
+   "notes": "Release locked Fri Sep 4, 2026. Cinemark confirmed. AMC: Scott Landes replied Aug 14 - request came after weekly deadline, goes to team next week, early confirmations next Friday (Aug 21). Regal: Brandon Corrier replied Aug 14 - NO LONGER handles Indian films since April 2026; Josh Pollard (Joshua.Pollard@regalcinemas.com) has taken over (Brandon cc'd him). Reply draft ready: /home/aniru/Regal_Booking_Josh_Pollard_Reply.md/.docx - send to Josh with 11-location form attached. UPDATE Aug 14: Josh replied 'Thank you; I'll take a look' - acknowledge + flag his OOO Aug 21-Sep 7 vs Sep 4 release; ack reply draft ready: /home/aniru/Regal_Booking_Ack_Josh_Reply.md/.docx. Aim to lock Regal confirmations BEFORE Aug 21. UPDATE Aug 17: Comscore title feed - Cary Tusan (ctusan@comscore.com) created the title this morning; goes out in next feed to AMC. Noah Arteberry (narteberry@comscore.com) sent the title-checklist instructions. Future title announcements -> releaseschedule@comscore.com with completed checklist. Ack/thank-you draft ready: /home/aniru/Comscore_Cary_Tusan_Reply.md/.docx. UPDATE Aug 23: AMC EARLY CONFIRMATIONS RECEIVED (PERSONAL inbox 346215, Scott Landes <SLandes@amctheatres.com>, Fri Aug 21 19:10 UTC, 'Emailing: Devi Chowdhurani') - attachment: /home/aniru/mailscan_dump/AMC_346215_Devi Chowdhurani.xlsx = First Colony 24 (Houston, TX), buyer James Douglas (AMC), dist BASAF CORP (BSF), film 'Devi Chowdhurani - Bandit Queen of Bengal', booking window Sep 4 - Sep 9, 2026 (release Sep 4). AMC = 3rd exhibitor locked (Cinemark + Regal + AMC). Ack reply draft READY: /home/aniru/AMC_Early_Confirmations_Ack_Reply.md/.docx - send from aniruddha.dg1@gmail.com. UPDATE Aug 23 (2nd scan): Josh Pollard OOO AUTO-REPLY received (PERSONAL 346350, real, Aug 23 14:49 UTC): OOO Aug 21 - Sep 7, returning Sep 8; urgent INDIAN RELEASES -> Brandon Corrier + Russell Deaver; urgent Alternative Content -> Jack Grimes (Jack.Grimes@regalcinemas.com) + James Wallace. Escalation to RUSSELL DEAVER (cc Brandon + Josh) draft READY: /home/aniru/Regal_Escalation_Russell_Deaver.md/.docx (created Aug 23 08:21 PDT from self-note 346355). Fallback if no reply by Tue Aug 25: phone Russell (Regal Master Buyer List) or Brandon (865) 925-9509."
+  },
+  {
+   "id": "t02",
+   "track": "dc",
+   "title": "Reply to Lovleen - 4 BASAF clarifications",
+   "status": "done",
+   "priority": "high",
+   "due": "2026-08-11",
+   "notes": "Draft in inbox (Word). Answers: film acq Jul 2024 + Jan 2025; $12K fee source unknown - ask Lovleen; no 1099s; transport = vehicle + delivery."
+  },
+  {
+   "id": "t03",
+   "track": "dc",
+   "title": "IMDbPro title claim - check status in portal",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-14",
+   "notes": "No email confirmations from IMDb - normal. Check pro.imdb.com/title/tt27794798 Manage Title. Escalate at 4 weeks if pending."
+  },
+  {
+   "id": "t04",
+   "track": "dc",
+   "title": "Review-bombing report - post to Sprinklr community",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-08-17",
+   "notes": "imdblegal@amazon.com silent 12+ days. Use community-imdb.sprinklr.com (Data Issues) with copy-paste report. Trackable case ID."
+  },
+  {
+   "id": "t05",
+   "track": "dc",
+   "title": "Zee Music - delivery schedule + payment follow-up",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-17",
+   "notes": "Aug 14 VIDEO QC (Shivam Pandey, full 9-song list): Jago Maa #OK, Joy Debi #OK, Rangoraj Nishi #OK; Durgamo Giri Kantar Moru #REJECTED (top/bottom cinemascope 01:20, 01:46 + grains 04:50, 05:26); De Maa #REJECTED (video jerk 04:17); Jaage Jaage #REJECTED (top/bottom cinemascope 01:45, 02:02). AUDIO: Durgamo IT OK, Revised Stems REJECTED (distorted). Tanmoy re-delivering revised links via Gdrive Aug 14 (Dhonno Moder, Profullo, Bhabani Pathak, East India Company, Chamunda Stotram revised links sent). UPDATE Aug 15 (genuine Tanmoy email): revised versions uploaded for the 3 rejected videos - Durgamo Giri Kantar Moru (cinemascope 01:20/01:46 + grains 04:50/05:26 fixed), De Maa (video jerk 04:17 fixed), Jaage Jaage (cinemascope 01:45/02:02 fixed). Still awaiting Zee feedback on stems of remaining songs. Hold Clause 11.2 + BGM-videos-not-required as leverage. Payment follow-up still pending. UPDATE Aug 17 (GENUINE thread, verified real QC content - 21481/21483/21484/21488): Shivam flagged the Durgamo Giri Kantar Moru revised link as EMPTY; Tanmoy re-checked and re-uploaded to the same link Aug 17; Shivam acked 'Sure, thanks'. No reply needed - await next QC feedback on revised videos + stems. UPDATE Aug 20-21 (21531/21532 genuine): Shivam confirmed ALL content 'good to go' EXCEPT the Unmix Vocal & Backing Vocal Stems for Durgamo Giri Kantar Moru (still clubbed in one) - only pending delivery; Tanmoy confirmed sharing the Unmix Vocal Stems ASAP. Once stems delivered, Zee shares final content-delivery update - then payment follow-up can be pushed. UPDATE Aug 25 (ADITED 21628/21630 genuine): Shivam sent a 'gentle reminder on the pending delivery' (12:06 UTC); Tanmoy replied 'I am sending you the pending deliverable Durgamo Giri Kantar Moru at the earliest' (12:38 UTC). No reply needed from us - Tanmoy handling; once the stems land, push Zee for the final delivery update, then payment follow-up. UPDATE Aug 25 (2nd scan, CORRECTED UIDs): the Aug 25 Zee emails are ADITED 22897 (Shivam reminder, 12:06 UTC) + 22899 (Tanmoy 'sending the pending deliverable at the earliest', 12:38 UTC) - the earlier note's '21628/21630' were sequence numbers, not UIDs. Also ADITED 22900 (Tanmoy -> Ritisha Mukherjee/ANM Global, CC us): 'We are executing this document with the required details' re the pending-agreements doc (Fourth Dimension/Jigsaw/Nirvana/Nanna) - no reply needed from us, Tanmoy handling. UPDATE Aug 26 (ADITED 21647, Tanmoy -> Shivam, 11:57 IST): MILESTONE - Tanmoy shared the pending deliverable 'Durgamo Giri Kantar Moru' via Google Drive link (https://drive.google.com/file/d/1aoDOWH3vVpEzckKB6UYLxGXwwBd1zGB_/view) - the last pending Zee item (Unmix Vocal Stems) is now delivered. No reply needed from us. Next: once Shivam confirms receipt/QC, push Zee for the final content-delivery update, then the payment follow-up can be pushed (payment clock). UPDATE Aug 26 (ADITED 22916, real UID - earlier '21647' was a sequence number): Tanmoy sent the FINAL pending deliverable 'Durgamo Giri Kantar Moru' link to Shivam (Aug 26 11:57 UTC, 'Re: Content Deliveries - Devi Chowdharani'). ALL delivery materials now shared - await Shivam confirmation + Zee final content-delivery update; then push the payment follow-up (40-day clock from delivery completion)."
+  },
+  {
+   "id": "t06",
+   "track": "dc",
+   "title": "Submit DC to DIFF 2027 (Dhaka, free, deadline Sep 30) + confirm Tasveer deadline",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-30",
+   "notes": "CSAFF Chicago, Dharamshala IFF, Tasveer Seattle, DC South Asian FF. 2026 windows closing. Tracker: DC_Festival_Master_Tracker.xlsx (172 festivals)."
+  },
+  {
+   "id": "t07",
+   "track": "dc",
+   "title": "Film Bazaar Nov 2026 - accreditation + meetings",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-15",
+   "notes": "NFDC Film Bazaar Goa. Sales agents, OTT buyers, distributors. Budget ~$1,300 (flights + stay). Aug 14: Co-Production Market (Feature & Documentary) call-for-entries email received but sender address spoofed - verify real deadlines/eligibility on nfdcindia.com before acting. UPDATE Aug 25 (ADITED 22898, genuine sender coproduction@nfdcindia.com): legit 'Call for Entries: Co-Production Market | Waves Film Bazaar 2026' received (Tue Aug 25 17:52 IST) - confirms the earlier spoofed notice was based on a real program; check films.wavesbazaar.com/programme/co-production-market for deadlines/eligibility and consider entering DC or the next project."
+  },
+  {
+   "id": "t08",
+   "track": "studio",
+   "title": "Confluence Media vertical - submit proposal to Bitan/Sudipto",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-14",
+   "notes": "Deck: Confluence_Media_Proposal_Deck.pptx (17 slides). Pitch to Bitan Nandi Biswas (CEO) + Sudipto Mukhopadhyay (Co-Chair). Ask: architect + operating partner."
+  },
+  {
+   "id": "t09",
+   "track": "studio",
+   "title": "Aparna Hollywood - execute Day 1-7 (WIF/WIFTI apps)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-21",
+   "notes": "8-doc package delivered. WIF membership open (not credit-gated) - apply this week. PGA: needs 2 US-qualifying credits."
+  },
+  {
+   "id": "t10",
+   "track": "finance",
+   "title": "Swyft - reply v2 + dispute Aug 5 charge",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-12",
+   "notes": "Charged $19.99 Aug 5 AFTER cancellation request + dissolution. Reply v2 in inbox. Call (877) 777-0450. Dispute with Visa 5018 if no resolution in 5 days."
+  },
+  {
+   "id": "t11",
+   "track": "finance",
+   "title": "FasTrak - pay $35.50 + update card",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-11",
+   "notes": "Account 222832058. Card (MC 7245) declined Jul 17. Deadline ~Aug 11 passed - may be in closure window. bayareafastrak.org or 1-877-BAY-TOLL."
+  },
+  {
+   "id": "t12",
+   "track": "finance",
+   "title": "Buffalo RA - follow up cancellation",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-14",
+   "notes": "Aug 2 cancellation + settlement draft sent. Service Change Confirmation received Aug 4 - READ IT. Fair settlement $12 vs $381 billed."
+  },
+  {
+   "id": "t14",
+   "track": "home",
+   "title": "Miji invoices - music, gym, table tennis",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-14",
+   "notes": "Email to payments@mijicare.com ready (3 invoices: piano $245, gym $2,510 due, TT $1,890). UPDATE Aug 13: RCEB/Miji (Alexa Justo) confirmed Table Tennis was reimbursed via direct deposit on 07/01/2026 (Aricka thanked Alexa; Aparna cc'd). Case manager email for monthly music auth + TT status. Attachments sent."
+  },
+  {
+   "id": "t15",
+   "track": "home",
+   "title": "Ariana social story - fill caregiver name",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-08-15",
+   "notes": "Ariana_Evening_Social_Story.html complete. Replace [CARE PROVIDER NAME]; optionally send photo for Helper character."
+  },
+  {
+   "id": "t16",
+   "track": "job",
+   "title": "Check Google AOP (Leon Chien) item",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-14",
+   "notes": "2027 Annual Operating Planning - TI Dev Discretion. Verify if still pending in work calendar."
+  },
+  {
+   "id": "t17",
+   "track": "miku",
+   "title": "Miku - [placeholder - add item when mentioned]",
+   "status": "pending",
+   "priority": "low",
+   "due": null,
+   "notes": "Track created. User will mention Miku tasks randomly."
+  },
+  {
+   "id": "t-issue-1",
+   "track": "miku",
+   "title": "Miku vet appointment Friday due 2026-08-14 high",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-14",
+   "notes": "Take Miku to the vet - test of one-line task input"
+  },
+  {
+   "id": "t-issue-2",
+   "track": "dc",
+   "title": "Confirm DCP master with subtitles due 2026-08-20 high",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-20",
+   "notes": "Added from issue #2."
+  },
+  {
+   "id": "t18",
+   "track": "finance",
+   "title": "Universal Organic - Delaware $300 annual tax (overdue Jun 1) + late fees",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "DE annual tax $300 + $200 late fee + 1.5%/mo interest. Flagged to CPA in investments email. EIN 39-3405271. Aug 14 (ADITED inbox): Legalinc/Stripe Atlas reminder - 2025 annual LLC tax $300 due Jun 1 2026 for Universal Organic Products and Brokerage, LLC; past + current year tax must be paid before DE dissolution can complete (relevant to t22/t23 dissolution path)."
+  },
+  {
+   "id": "t19",
+   "track": "finance",
+   "title": "Universal Organic - BOI report (missed ~Oct 2025)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Beneficial Ownership Information filing at boiefiling.fincen.gov. Free. Single-member LLC - report beneficial owner (Aniruddha)."
+  },
+  {
+   "id": "t20",
+   "track": "finance",
+   "title": "Universal Organic - zero-revenue year returns + $20,600 transfer treatment",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-30",
+   "notes": "Schedule C via CPA (zero-revenue). $20,600 wires to UOP LTD (Sujoy Sen) = member distribution, NOT deducted (user's choice). Awaiting Lovleen guidance via investments email."
+  },
+  {
+   "id": "t21",
+   "track": "finance",
+   "title": "Send CPA investments email to Lovleen (incl. Universal Organic items)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-13",
+   "notes": "Draft: /home/aniru/CPA_Investments_Email.docx. Subject: 'Review of Upcoming Investments & BASAF Capital'. Covers $700K background, $200-300K new investments, $150K into BASAF, UO pending items."
+  },
+  {
+   "id": "t22",
+   "track": "finance",
+   "title": "Call WY SOS (307) 777-7311 - confirm admin-dissolved LLC can file dissolution",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-14",
+   "notes": "Key question: can administratively-dissolved LLC file Articles of Dissolution WITHOUT reinstatement? This is Swyft's upsell trap - SOS phone answer is ground truth."
+  },
+  {
+   "id": "t23",
+   "track": "finance",
+   "title": "Mail Wyoming Articles of Dissolution + $60 check",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-15",
+   "notes": "Form pre-filled: /home/aniru/Wyoming_Dissolution_Form_PREFILLED.pdf. Sign, print, $60 check payable to 'Wyoming Secretary of State'. Mail: Herschler Building East, Suite 101, 122 W 25th St, Cheyenne, WY 82002-0020. 15 business days processing."
+  },
+  {
+   "id": "t24",
+   "track": "finance",
+   "title": "Send Swyft cancellation demand with dissolution evidence",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-10",
+   "notes": "After filing evidence arrives (15 biz days): email info@swyftfilings.com demanding RA cancel effective dissolution + no further charges. Then if they still charge after 5 biz days - card dispute."
+  },
+  {
+   "id": "t25",
+   "track": "finance",
+   "title": "Apple Card dispute D-25032639 (Bebe $260.01) - RESOLVED Aug 20: charges removed, credit permanent",
+   "status": "done",
+   "priority": "medium",
+   "due": "2026-09-30",
+   "notes": "Dispute case D-25032639, Bebe transaction Jun 27 2026 $260.01, temp credit applied. RESOLVED Aug 20 (ADITED inbox 21535, no_reply@post.applecard.apple): Goldman Sachs investigated and concluded the merchant charge will be REMOVED; dispute status Completed; temporary credit (incl. interest) now permanent. If Bebe also issues a credit, permanent credit may be reversed. No action needed."
+  },
+  {
+   "id": "t26",
+   "track": "finance",
+   "title": "Wio Business - provide additional info for Wide Angle International FZCO application",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-19",
+   "notes": "WioBusiness asked for more info on application (forwarded by Soumyajit Aug 12). Aug 13 reminder 'Action Needed to Keep Your Application Open': application will be CLOSED in 45 days if no action. Log in to business.wio.io questionnaire (questionnaireInstanceId=4ccd0f66-66b6-436d-b703-b6e021a40a35) and upload requested docs. Support 600 500 946. UPDATE Aug 17: Soumyajit forwarded NEW Wio 'Additional information required' email (communications@wio.io, 12:53 pm): log in to Wio Business to provide requested details + upload documents for WIDE ANGLE INTERNATIONAL - FZCO. NEW questionnaire link: business.wio.io/mobile/sme/questionnaire?questionnaireInstanceId=339eaac5-91fc-4749-846d-bf397214bf92 (differs from earlier instance id). Portal action - no email reply. 45-day window from Aug 13 reminder."
+  },
+  {
+   "id": "t27",
+   "track": "finance",
+   "title": "UAE Corporate Tax filing due 30 Sep - initiate with iLLimite",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-09-15",
+   "notes": "iLLimite (Shivani Goyal, illimitebiz@gmail.com) reminder Aug 12: CT filing due 30 Sep 2026 where applicable. Reply draft ready: /home/aniru/UAE_CT_Filing_Reply.docx - confirm which entities on file are due, get requirements. +971 50 451 6872. UPDATE Aug 20-21 (GENUINE FTA reminders, tax.gov.ae): (a) Aug 20 Haroon Khan (Haroon.Khan@tax.gov.ae, DIR +971 4 777 6113) - WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001, CT filing pending; (b) Aug 21 Ali Haitham Saifo (Ali.Saifo@tax.gov.ae, DIR +971 4 777 6171) - MBRJ MEDIA - FZCO, TRN 104862644200001, CT filing pending. Both ask for updated contact number if changed. Reply drafts ready: /home/aniru/UAE_FTA_WideAngle_Reply.md/.docx + /home/aniru/UAE_FTA_MBRJ_Reply.md/.docx - confirm filing in progress via tax agent, contact unchanged (+1 650-645-0822). Ensure iLLimite covers BOTH entities in the Sep 30 filing. UPDATE Aug 24: SECOND FTA reminder from Haroon Khan (ADITED 22892, 21:07 PDT, 'Reminder: Submission of Corporate Tax Return') for WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001 - 'deadline is fast approaching', asks to submit ASAP and share new contact number if changed. UAE_FTA_WideAngle_Reply draft STILL UNSENT (checked ADITED Sent Mail) - SEND IT now: confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822). UPDATE Aug 25 (ADITED 21625, Ali Haitham Saifo, tax.gov.ae, 10:07 UTC): THIRD FTA reminder for MBRJ MEDIA - FZCO (TRN 104862644200001) - 'deadline is fast approaching', submit ASAP. UAE_FTA_MBRJ_Reply.md/.docx STILL UNSENT as of this scan - send it now from aniruddha@aditedmotionpictures.com; also confirm iLLimite covers BOTH MBRJ MEDIA + WIDE ANGLE INTERNATIONAL in the Sep 30 filing. UPDATE Aug 25 (2nd scan, CORRECTED UID): THIRD FTA reminder = ADITED 22894 (Ali Haitham Saifo, tax.gov.ae, Tue Aug 25 10:07 UTC; earlier noted as '21625' which was a sequence number, not a UID). UAE_FTA_MBRJ_Reply.md/.docx (already prepared) STILL UNSENT as of this scan - SEND it now from aniruddha@aditedmotionpictures.com. UPDATE Aug 26 (ADITED 21643, Haroon Khan, tax.gov.ae, 05:18 UTC): FOURTH FTA reminder for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001) - 'deadline is fast approaching', submit ASAP + share new contact number if changed. UAE_FTA_WideAngle_Reply.md/.docx REFRESHED (notes updated for the Aug 24 + Aug 26 reminders) but STILL UNSENT - SEND NOW from aniruddha@aditedmotionpictures.com; confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822). UPDATE Aug 26 (ADITED 22912, real UID, Haroon Khan, tax.gov.ae, 05:18 UTC): THIRD FTA reminder for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001) - 'deadline is fast approaching', submit ASAP, share new contact number if changed. UAE_FTA_WideAngle_Reply.md/.docx STILL UNSENT as of this scan (ADITED Sent checked - only self-sends 846-850) - SEND IT NOW along with UAE_FTA_MBRJ_Reply.md/.docx; confirm iLLimite covers BOTH entities in the Sep 30 filing."
+  },
+  {
+   "id": "t28",
+   "track": "home",
+   "title": "Ariana music - contact Sky Castle Music + provide Aricka's info (RCEB)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-19",
+   "notes": "RCEB case manager Aricka (atasabia@rceb.org, 510-618-6405): June/July music reimbursements are ONE TIME; vendor change to Sky Castle Music (skycastlemusics.com). Contact them, say Ariana is RCEB client, then share Aricka's info. 2-3 week authorization wait. Reply draft: /home/aniru/Ariana_RCEB_Reimbursement_Reply.docx"
+  },
+  {
+   "id": "t29",
+   "track": "home",
+   "title": "Ariana speech therapy - switch to Medi-Cal accepting therapist at Seven Bridges",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-19",
+   "notes": "Aparna emailed Seven Bridges Aug 12: Blue Cross (Anthem) out of network, Lisa doesn't accept Medi-Cal; requested switch to a therapist accepting Medi-Cal/Santa Clara Family Health Plan. Ariana already missed therapy. Follow up if no response in a few days (Scheduling@sevenbridgestherapy.com, 925-222-5353)."
+  },
+  {
+   "id": "t30",
+   "track": "home",
+   "title": "ICAN - confirm Fakhira coverage for Aug 13-14 sessions",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-13",
+   "notes": "ICAN Scheduling (schedule@icanautism.com) Aug 13: Meliza unavailable today/tomorrow, staff Fakhira will cover clinic sessions 4-7pm. Asked to confirm. Reply draft ready: /home/aniru/ICAN_Staff_Coverage_Confirm_Reply.docx - send confirmation."
+  },
+  {
+   "id": "t31",
+   "track": "home",
+   "title": "Pacific Homecare - sign timesheet #602300 (24h window)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-14",
+   "notes": "Pacific Homecare Services (accounting@pacifichomecare.com) Aug 13: pending timesheet requires signature to be valid; sign within 24 hours or compliance violation. Sign document #602300 via emailed link. Contact (209) 956-2532 opt 5."
+  },
+  {
+   "id": "t32",
+   "track": "home",
+   "title": "Villa Sport - verify Ariana removal credits applied",
+   "status": "done",
+   "priority": "medium",
+   "due": "2026-08-13",
+   "notes": "Resolved Aug 13: Mikayla Cornejo + Erika Balce confirmed Ariana's 7-day cancellation honored, membership removal processed EOD, $58.84 credit (Jul+Aug dues) + prorated refunds + late fee waived ($25). Remaining $18.58 prorated July dues credit applied to future billing. Receipts 5306075/5306077/5306084."
+  },
+  {
+   "id": "t33",
+   "track": "studio",
+   "title": "ADITED inbox spoofed-sender spam campaign - verify real threads out-of-band",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-17",
+   "notes": "Aug 13-14: ADITED inbox hit with spam forging known contacts & thread subjects - 'Tanmoy' (Temu/Dropbox/Winning Pitches spam on 'Content Deliveries - Devi Chowdharani' + 'pending agreements' threads), 'SHIVAM PANDEY zee.com' (Rice Rocket/Ludon Lee pitch body), 'NFDC' (Temu body on Film Bazaar Co-Production Market subject), 'Legalinc' (UAE tax body on Delaware LLC tax subject), 'Akasa Air' (Eventbrite/MPTS bodies on QP 1125 flight subjects), 'Info Waves'. DO NOT reply to any - confirm real status of Zee QC deliveries, agreements, DE tax with Tanmoy/Shivam/Legalinc via known phone/portal channels. Do not click links in these emails. UPDATE Aug 14-15: ANOTHER Ludon Lee/Rice Rocket pitch arrived (ludonlee@gmail.com, self-addressed TO himself, 'The $1 Trillion Pivot: Why the Next Disney Is Being Built in a San Francisco Loft' - same Rice Rocket Entertainment investment pitch). Confirmed same campaign - do not reply, delete/mark spam. UPDATE Aug 15 scan: wave continues through Aug 15 - 'Tanmoy' re: Content Deliveries x3 (Temu/Winning Pitches/Dropbox bodies 21441/21443/21448), 'Tanmoy' re: pending agreements x3 (Temu/Winning Pitches 21442/21449/21450), 'SHIVAM PANDEY' (Rice Rocket body 21446), 'NFDC' (Temu 21451), 'Legalinc' (UAE-tax 21455), 'Akasa Air' Aug 14 x2 (Eventbrite/MPTS 21453/21454), 'Info Waves' (Temu 21431), Ludon Lee x4 (21439/21440/21456/21462/21464). NOTE: GENUINE Akasa QP 1125 emails also arrived Aug 15 (21466/21467 - Soumyajit, PNR P5TD4P, BOM-CCU 16 Aug, real Akasa content) - body-check future Akasa emails to separate real from spoofed; genuine ones are FYI only. UPDATE Aug 17: Ludon Lee wave continues - 21480 'Offering RZA Silicon Valley Board Seat Rice Rocket Entertainment' + 21494 '$10 Billion Nasdaq IPO Money Pitch' (self-addressed). Zee 'Content Deliveries' emails Aug 17 (21481/21483/21484/21488) VERIFIED GENUINE (real Shivam/Tanmoy QC exchange re: Durgamo link) - keep body-checking each new email. UPDATE Aug 19-21: Ludon Lee/Rice Rocket wave continues - 21529 (GrappleMusic x Kylie Minogue), 21541 (Invest Rice Rocket Unicorn Lottery Ticket), 21545 (Chloe Bennet power couple), 21546 (Chinatown Dai Lo billionaire rap), 21555 (Video Game Mafia seed SAFE $500K raise), 21557 (Hi-Yah Action Friday Drunken Master 2) - all self-addressed to ludonlee@gmail.com, no reply, mark spam. UPDATE Aug 22 (4th scan): Ludon Lee wave continues - 21557 'Hi-Yah Action Friday Drunken Master 2' event spam + 21570 'What da Fuck? 50% Discount New Tech Hollywood Creator Program' (both self-addressed pitch spam, skip). Emirates do-not-reply emails 21572-21574 (H6ESSF: payment-details check / booking confirmed / changes confirmed) - do-not-reply senders, likely genuine booking notifications for the H6ESSF booking; FYI only, no reply. UPDATE Aug 23: Ludon Lee wave continues (ADITED 21591 'Rice Rocket Drops $4.5 Million Creative Work Penthouse' + 21592 'Julian Phillips San Francisco Mission Real Estate', both ludonlee@gmail.com) - do not reply, same campaign. UPDATE Aug 26: NEW phishing in PERSONAL inbox - 'Chase' reward email (chase@mcmap.chase.com, PERSONAL INBOX 346624, 'we want to reward you with an up to $900 offer') - NOT a real Chase domain (mcmap.chase.com); delete, do not click. ADITED noise this scan: WeTransfer welcome (21642), FTA no-reply messages (21646/21648) - ignore."
+  },
+  {
+   "id": "t34",
+   "track": "studio",
+   "title": "Google Workspace aditedmotionpictures.com - verify storage at 88% pooled",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-08-21",
+   "notes": "Storage-limit warning content seen Aug 14 (embedded in spoofed email, verify independently in admin console). If real: free up Drive space or expand storage before hitting limit -> 14-day grace, then read-only for users. UPDATE Aug 17: GENUINE 'Approaching pooled storage limit' notification received from workspace-noreply@google.com (21489) - verify in Google Admin console and free up Drive space (14-day grace, then read-only for users)."
+  },
+  {
+   "id": "t35",
+   "track": "studio",
+   "title": "Fourth Dimension agreement (ANM Global) - track drafting + payments by Dec 15 2026",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-09-15",
+   "notes": "Aug 14: Tanmoy answered lawyer Ritisha Mukherjee's (ANM Global) questions: (i) NO prior agreement between Adited and Fourth Dimension; (ii) effective retroactively Aug 8, 2025; (iii) yes, separate side letters for Jigsaw/Nirvana/Nanna; (iv) partial set-off paid simultaneously by ratio of remaining amount. Amounts: Fourth Dimension Rs 8L + GST (reduced from Rs 18L/10L after final cut, decided mutually Nov 10, 2025), Jigsaw Rs 60K, Nirvana Rs 5L, Nanna Rs 3L - all payable by Dec 15, 2026. ANM Global preparing agreement; also needs exclusive-service-preference clause (point 21) + next-3-films engagement (point 11). UPDATE Aug 24: Ritisha sent the FURTHER-UPDATED draft addressing the parked clauses (ADITED inbox 22876, 00:49 PDT, 'Re: Devi Chowdhurani pending agreements before international release', to Tanmoy, Aniruddha cc'd) - attachment saved: /home/aniru/mailscan_dump/FourthDimension_Agreement_Draft_24.08.2026_ANM_Global.docx. She invited clarifications. ACK/REVIEW draft READY: /home/aniru/Fourth_Dimension_Agreement_Ack_Reply.md/.docx - review the draft agreement, then send (from aniruddha@aditedmotionpictures.com, cc Tanmoy + Soumyajit + ANM team). Close before Sep 4 US release (t80 critical path)."
+  },
+  {
+   "id": "t36",
+   "track": "home",
+   "title": "Pacific Homecare - sign timesheet #609585 (24h window)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-15",
+   "notes": "Aug 14 email (accounting@pacifichomecare.com): NEW timesheet document #609585 pending signature (different from #602300 in t31). Sign within 24 hours via emailed link or compliance violation. Contact (209) 956-2532 opt 5."
+  },
+  {
+   "id": "t37",
+   "track": "home",
+   "title": "Brooks San Jose - update payment info (card declined $69)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-18",
+   "notes": "Aug 14 (support@brookspest.com): payment method on file failed - $69.00 transaction 8/14/26 7:27am PDT, account 226203 (Aparna Dasgupta), card ending ****0683, remaining balance $69.00. Update via Customer Portal link in email or call (833) 369-1242."
+  },
+  {
+   "id": "t38",
+   "track": "home",
+   "title": "Aeries/New Haven - optional Meet & Greet Special Services Director",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-08-17",
+   "notes": "Aug 14 email via Aeries Communications: Meet & Greet with New Haven USD Special Services Director Mon Aug 17, 6:00-7:30pm, 34200 Alvarado-Niles Rd, Union City. Learn about special ed services/support. Optional but relevant for Ariana."
+  },
+  {
+   "id": "t39",
+   "track": "finance",
+   "title": "Bhatia & Co investments call - await Neeraj ji availability confirmation",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-17",
+   "notes": "Follow-up to t21 (CPA investments email). Neeraj ji replied DIRECTLY Aug 13 (PERSONAL INBOX 345478): can schedule Monday afternoon (Aug 17), not available Aug 14. User replied Aug 14 asking Lovleen to coordinate a Monday slot. Lovleen Aug 15 (345570): still hasn't heard back from Neeraj ji, he's not available today; she will confirm the call time as soon as she gets an update, OR Neeraj ji may reach out directly to coordinate. No reply needed - wait for confirmation. If no word by Mon Aug 17 EOD, ping Lovleen. RESOLVED Aug 17: Bhatia & Co sent the Zoom invite directly (Ankita, info@bhatiaco.com) - Mr. Bhatia meeting Tue Aug 18, 2026 4:30 PM PST. Zoom: https://us02web.zoom.us/j/4088459411?omn=85355279499 | Meeting ID 408 845 9411 | Passcode 1234. Confirmation reply draft ready: /home/aniru/Bhatia_Zoom_Meeting_Confirm_Reply.md/.docx (see t57)."
+  },
+  {
+   "id": "t46",
+   "track": "home",
+   "title": "CHADIS - complete 2 questionnaires for Ariana (Foster City Pediatrics)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-12",
+   "notes": "Aug 13 reminder (support@chadis.com, APARNA inbox 202736): 2 questionnaires waiting for Ariana requested by Foster City Pediatrics. Must REGISTER first: chadis.com registration link with resetCode (in email, dumped: /home/aniru/mailscan_dump/APARNA_INBOX_202736_body.txt) - link expires 9/12/2026 12:13 PM EDT. Username: APU.DG1@GMAIL.COM. Support: 1-888-4-CHADIS. Portal action, no email reply possible."
+  },
+  {
+   "id": "t47",
+   "track": "home",
+   "title": "Arabesque Conservatory - no in-home teacher in Ariana's area yet; on priority placement",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-09-01",
+   "notes": "Aug 13 (APARNA inbox 202730, assignment@arabesqueconservatory.com, cc Cristal Galvan): after Aparna's inquiry (missed call from (650) 534-4502), Arabesque says NO teacher currently available in this student's area; actively onboarding teachers; family placed on PRIORITY placement - will be notified and assigned teacher will reach out to schedule. No reply needed. If no word after ~2 weeks, follow up: srodriguez@arabesqueconservatory.com or (805) 328-4659 (Enrollment Mgr Joey Povinelli jpovinelli@arabesqueconservatory.com)."
+  },
+  {
+   "id": "t40",
+   "track": "dc",
+   "title": "Harkins Theatres ebor file received - add to DC distribution bookings",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-17",
+   "notes": "Aug 14 (APARNA inbox, ebor@harkins.com): 'Harkins Theatres ebor file' - attachment Harkins_Theatres.Aparna_Dasgupta_DBA_Basaf_Corp.20260814.csv (header only: FilmID/StudioName/TheatreID/TheatreName/FilmName/Date/TicketType/TicketPrice/TicketsSold/NetTotal/TaxAmount/TicketsCanceled; no ticket rows yet - no sales). BASAF Corp DBA = distribution entity. Harkins now in the booking mix alongside Cinemark/Regal/AMC - add to DC distribution contacts. CSV saved: /home/aniru/mailscan_dump/Harkins_Theatres.Aparna_Dasgupta_DBA_Basaf_Corp.20260814.csv. Monitor for future ebor files with ticket data."
+  },
+  {
+   "id": "t41",
+   "track": "home",
+   "title": "Apple billing problem - Keiki World Premium $9.99/wk (Aparna's Apple account)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-17",
+   "notes": "Aug 14 (no_reply@email.apple.com, apu.dg1@gmail.com): Billing Problem on Keiki Learning games for Kids - Keiki World Full Access / Keiki World Premium (1 week) $9.99/week. Payment info failed. To avoid service interruption: update Apple payment information or add funds (appleid.apple.com / Settings > Apple Account). No reply possible (no-reply sender)."
+  },
+  {
+   "id": "t42",
+   "track": "home",
+   "title": "Ariana SDC Room 15 - teacher transition (Ms. Shamily covering until mid-Sept)",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-09-15",
+   "notes": "Aug 14 email from Megan Foster (Principal, Tom Kitayama Elementary, New Haven USD, mefoster@nhusd.k12.ca.us): regular Room 15 teacher returns mid-September; Ms. Shamily Latha-Ramadoss (slatharamadoss@nhusd.k12.ca.us) covering full-time until then; long-term sub paraprofessional starts next week; Ms. Kunitz + principal monitoring. Broadcast to families - NO reply needed (FYI for Ariana's classroom). Follow-up only if Ariana's support is disrupted during transition."
+  },
+  {
+   "id": "t43",
+   "track": "dc",
+   "title": "DC USA creatives - decision: remove India distribution credit + approve Path B (T-20 to Sep 4)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-21",
+   "notes": "Aug 15 status (self-note, PERSONAL INBOX 345630): Path A designer spec (DC_USA_Poster_Spec.docx - layer-by-layer Photoshop instructions) + Path B 14 USA creatives generated: US_Master_Poster_4x7, Social_Square_1x1, Story_9x16, Countdown 7/5/3/2/1 days, Now_Playing, US_Theatre_List (8 Cinemark locations), city posters NY/NJ + SF Bay Area + LA, US_Banner_16x9. Master PSDs (2.5GB) downloaded to /home/aniru/DC_Creatives/. DECISION NEEDED: (1) remove 'Distribution SSR Cinemas Pvt Ltd & Reliance Entertainment' India distribution credit from 2-char 2sheet + 20x10 banner (US self-distributed via Space-Time) - keep NFDC/film-in-india logos; (2) send Path A spec to designer (Bengali text) OR approve Path B (English text) for campaign use. Path B zip ready for FB Event + campaign kickoff."
+  },
+  {
+   "id": "t44",
+   "track": "home",
+   "title": "Pacific Homecare - follow up 'Waiting for services to resume' (Esmeralda back Mon Aug 17)",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-08-17",
+   "notes": "Aug 15 auto-reply from Esmeralda Soto (esoto@pacifichomecare.com): OOO until Mon Aug 17 8am. Urgent contacts before then: Full-Service families/providers -> Natalie Eaton (neaton@pacifichomecare.com), Ana Soto (asoto@), Kelly Derr (kderr@); EOR -> eor@pacifichomecare.com; timesheets/payroll -> accounting@pacifichomecare.com. Pending thread: 'Waiting for services to resume' sent Aug 15 - expect response after she returns Aug 17; ping accounting@ if timesheet signatures (t31/t36) are affected. UPDATE Aug 17: Esmeralda replied (after OOO) - Pacific Homecare still ACTIVELY RECRUITING for the family; if no provider identified in 90 days, they will reach out to Ariana's case manager for other options. No reply needed."
+  },
+  {
+   "id": "t45",
+   "track": "home",
+   "title": "FDS (Fantasy Dance School) - confirm Ariana's rescheduled lesson Mon Aug 17 3:00-3:30 PM",
+   "status": "in-progress",
+   "priority": "medium",
+   "due": "2026-08-17",
+   "notes": "Aug 15 (APARNA inbox, info@fantasydance.us): Nicole Chatham (Director of FDS Programs) confirmed rescheduling Ariana's private lesson to Monday Aug 17, 3:00-3:30 PM (per Aparna's request for Monday after 12:30 PM) and asked the family to confirm the time works. REPLY DRAFT READY: /home/aniru/FDS_Ariana_Dance_Schedule_Confirm_Reply.md/.docx - send from apu.dg1@gmail.com. FDS: 2500 Old Middlefield Way Unit B, Mountain View 94043 | (650) 965-4135. UPDATE Aug 17: Aparna cancelled today's lesson - Ariana got hurt at school (no class Aug 17; FDS sent best wishes). Nicole Chatham shared Special Needs Program tuition rates effective Aug 17: 30-min $90 / 45-min $125 / 60-min $160 (fantasydance.us/special-needs). Reschedule once Ariana recovers."
+  },
+  {
+   "id": "t48",
+   "track": "finance",
+   "title": "ICICI Bank - activate dormant savings accounts XX1416, XX3407",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-15",
+   "notes": "Aug 16 email (information@custcomm.icici.bank.in, PERSONAL INBOX 345681): savings accounts XX1416 and XX3407 are inoperative/dormant (no customer-induced transactions for 24 months); ATM/cheque issuance etc. discontinued until activated. Activate via: (1) Net Banking > Customer Service > Service Requests > Bank Accounts > Account Modification Related > Activation of Dormant Account; (2) email duly filled Customer Information Updation Form + passport copy + address proof + NRI status proof to nri@icicibank.com from registered email ID; or (3) visit any ICICI branch with KYC docs. No email reply needed - portal/form/branch action. UPDATE Aug 17: ICICI e-Relationship Manager Jasmeet Kaur (myrm@icici.bank.in - new @icici.bank.in domain, update records) tried to call (ref E095988282) but got voicemail; asked for callback availability; shift 9:15 PM-5:15 AM IST (Mon-Sat except 2nd/4th Sat). Availability reply draft ready: /home/aniru/ICICI_Callback_Availability_Reply.md/.docx - propose 9 AM-noon PDT (= 9:30 PM-12:30 AM IST) window."
+  },
+  {
+   "id": "t49",
+   "track": "home",
+   "title": "ICC JOOLA Summer Open (Aug 22-23) - entry deadline TODAY Aug 16 - decide if Ariana registers",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-16",
+   "notes": "Aug 16 broadcast from ICC Table Tennis Center (rajul@iccttcenter.ccsend.com, Constant Contact; PERSONAL INBOX 345730 + APARNA INBOX 202931): entry deadline TODAY Sun Aug 16; tournament Aug 22-23 at India Community Center, Milpitas; $6K+ cash prizes; spot confirmed only after full entry fees paid, first-come-first-served. Also flagged: new league quarter starts Aug 29 (register online save 60%; members $65/8wks, non-members $90), and Talented Kids Program just opened 2 spots. Promotional email - no reply needed; family decision only. Register via icctt.org or call (408) 945-9556."
+  },
+  {
+   "id": "t50",
+   "track": "dc",
+   "title": "Comscore - send ack to Cary Tusan + adopt releaseschedule@comscore.com process",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-18",
+   "notes": "Cary Tusan created the Devi Chowdhurani title in the Comscore feed Aug 17; next feed to AMC clears AMC bookings. Ack draft: /home/aniru/Comscore_Cary_Tusan_Reply.md/.docx. Also fill & return the title checklist (from Noah Arteberry) for future titles - send to releaseschedule@comscore.com."
+  },
+  {
+   "id": "t51",
+   "track": "home",
+   "title": "ICAN schedule change - reply with choice: pause Thursday until Monday therapist found",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-18",
+   "notes": "ICAN Scheduling (schedule@icanautism.com) Aug 17 asked Aparna to choose: (a) pause Thursday session until a Monday therapist is available (keep Fri/Sat/Sun) or (b) keep Thursday until replacement found. Draft chooses (a) per family preference that Monday works much better: /home/aniru/ICAN_Schedule_Change_Choice_Reply.md/.docx - send from apu.dg1@gmail.com. UPDATE Aug 25 (PERSONAL 346543, Aparna, 06:13 PDT, empty subject): Aparna confirmed the choice in her reply to Aniruddha - keep Friday/Saturday/Sunday, start MONDAY sessions ASAP preferably 4:00-7:00 PM, DO NOT pause therapy (regression risk); concerned about 4 different BIs over 4 days; wants maximum BI consistency (Kelly's situation acknowledged). Reply draft to Aparna READY: /home/aniru/Ariana_BI_Schedule_Aparna_Reply.md/.docx. Send the ICAN choice reply (option a: pause Thursday, keep Fri/Sat/Sun, add Mon) from apu.dg1@gmail.com and confirm Mon 4-7 PM start with schedule@icanautism.com."
+  },
+  {
+   "id": "t52",
+   "track": "home",
+   "title": "Megan Foster (New Haven USD) - confirm phone call time, discuss Room 15 plan + 1:1 support",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-18",
+   "notes": "Ms. Foster asked for a call (after 3:30 PM Aug 17, or anytime Aug 18) to fully address Aparna's questions/concerns re: \"Urgent Safety Concerns and Request for 1:1 Support for Ariana\" (sent Aug 17, cc RCEB). Draft proposes Tue Aug 18 after 3:30 PM: /home/aniru/Foster_SDC_Call_Schedule_Reply.md/.docx - send from apu.dg1@gmail.com."
+  },
+  {
+   "id": "t53",
+   "track": "home",
+   "title": "Miji/Libertana - verify direct deposit account on file (last 4 digits) for Ariana reimbursements",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-21",
+   "notes": "Alexa Justo (a.justo@libertana.com) Aug 17: onboarding instructions sent to APU.DG1@GMAIL.COM 06/23/2026, family onboarded same day, payments team has account details (TT reimbursement 07/01/2026). Family does NOT recall providing bank info - ask payments team to confirm account last 4 digits + exact payment date. Reply draft: /home/aniru/Alexa_Justo_Direct_Deposit_Verify_Reply.md/.docx (cc Aricka Tasabia/Payments@mijicare.com when sending)."
+  },
+  {
+   "id": "t54",
+   "track": "home",
+   "title": "ICAN - review, sign & return Release of Information form for Ariana (Malakai Strinden)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-21",
+   "notes": "Malakai Strinden (malakai@icanautism.com) sent the Release of Information form Aug 17 (APARNA inbox 202988) - needed for info sharing (IEP/school coordination, relates to Aparna's \"Ariana - IEP\" email). Review, sign, return to Malakai."
+  },
+  {
+   "id": "t55",
+   "track": "home",
+   "title": "Pacific Homecare - sign NEW timesheet signature request (Aug 17 email)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-18",
+   "notes": "accounting@pacifichomecare.com sent another \"Timesheets Signature Request\" Aug 17 18:23 UTC (third one, after #602300 in t31 and #609585 in t36). Sign within 24 hours via the emailed link or compliance violation. Contact (209) 956-2532 opt 5."
+  },
+  {
+   "id": "t56",
+   "track": "finance",
+   "title": "ICICI Bank callback - send availability window to Jasmeet Kaur",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-19",
+   "notes": "Reply draft ready: /home/aniru/ICICI_Callback_Availability_Reply.md/.docx - propose 9 AM-noon PDT (= 9:30 PM-12:30 AM IST) window within her shift (9:15 PM-5:15 AM IST). Ref E095988282, likely re: dormant accounts XX1416/XX3407 (t48). Call: +1 650-645-0822."
+  },
+  {
+   "id": "t57",
+   "track": "finance",
+   "title": "Bhatia & Co - confirm Zoom meeting Aug 18 4:30 PM PST (Mr. Bhatia investments call)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-18",
+   "notes": "Invite from Ankita (info@bhatiaco.com): Aug 18, 2026 04:30 PM Pacific, https://us02web.zoom.us/j/4088459411?omn=85355279499, Meeting ID 408 845 9411, Passcode 1234. Confirmation draft: /home/aniru/Bhatia_Zoom_Meeting_Confirm_Reply.md/.docx. Agenda: Review of Upcoming Investments & BASAF Capital (t21). UPDATE Aug 18 (PERSONAL INBOX 345942, 4:44 PM PDT): Ankita follow-up 'Neeraj ji is joining in 5 minutes, I tried to call you as well' - pre-meeting heads-up right before the 4:30 PM PDT call. No reply needed; meeting proceeded. If user missed the call, follow up with Ankita directly."
+  },
+  {
+   "id": "t58",
+   "track": "finance",
+   "title": "ICICI Auto Loan XX7922 - lien debit Rs 9,154 from savings XX272 (Aug 18); verify dues/auto-pay",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-25",
+   "notes": "Aug 18 system email (lienad@icici.bank.in, PERSONAL INBOX 345872, Ref 003518082602, do-not-reply): outstanding dues on Automobile Loan XX7922 were unpaid despite reminders; ICICI debited savings account XX272 Rs 9,154.00 and credited it to the auto loan. No reply possible. Action: check why auto-pay lapsed, confirm remaining balance/EMI schedule via Net Banking or ICICI RM (Jasmeet Kaur callback pending t48/t56)."
+  },
+  {
+   "id": "t59",
+   "track": "home",
+   "title": "APARNA Gmail app password revoked - regenerate for mailbox scan",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-19",
+   "notes": "Aug 18 scan: apu.dg1@gmail.com IMAP login FAILED (AUTHENTICATIONFAILED, tried spaced/unspaced/dashed forms of yheu ovwl fcva aqzj). Google security alerts in PERSONAL mailbox explain it: Aug 18 14:04 GMT 'App password created to sign in' (labeled 'Hermes new') then 14:07 GMT 'App password used to sign in was removed' - the password was revoked ~3 min after creation. Generate a NEW app password at myaccount.google.com > Security > 2-Step Verification > App passwords (label e.g. 'Hermes'), update the cron job config. APARNA mailbox (INBOX + Sent) was NOT scanned this run; next run will resume normally once password is updated. UPDATE Aug 21: STILL FAILING - same app password (yheu ovwl fcva aqzj) rejected with AUTHENTICATIONFAILED on Aug 21 scan. New app password still required. UPDATE Aug 22: STILL FAILING on Aug 22 scan (AUTHENTICATIONFAILED). APARNA INBOX + Sent unscanned since Aug 17. UPDATE Aug 22 (2nd scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent remain unscanned since Aug 17. UPDATE Aug 22 (3rd scan): STILL AUTHENTICATIONFAILED with same app password. APARNA INBOX + Sent remain unscanned since Aug 17. NOTE: ADITED Google security alert (ADITED inbox 21556, no-reply@accounts.google.com, Aug 22 00:31 GMT) confirms a NEW app password labeled 'Hermes new' was created for aniruddha@aditedmotionpictures.com - ADITED IMAP login works fine with the current password; no action needed there. UPDATE Aug 22 (4th scan): STILL AUTHENTICATIONFAILED with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent remain unscanned since Aug 17. UPDATE Aug 23: STILL AUTHENTICATIONFAILED on Aug 23 scan (yheu ovwl fcva aqzj rejected). APARNA INBOX + Sent remain unscanned since Aug 17. New app password still required. UPDATE Aug 23 (2nd scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent still unscanned since Aug 17. UPDATE Aug 24: AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj) on the Aug 24 scan. APARNA INBOX + Sent remain unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED - generate at myaccount.google.com > Security > 2-Step Verification > App passwords and update the cron config. UPDATE Aug 25: AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj) on the Aug 25 scan. APARNA INBOX + Sent remain unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED. UPDATE Aug 25 (2nd scan): AUTHENTICATIONFAILED again (yheu ovwl fcva aqzj) - APARNA INBOX + Sent still unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED (generate at myaccount.google.com > Security > 2-Step Verification > App passwords, update cron config). UPDATE Aug 25 (4th scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent still unscanned since Aug 17. NEW APP PASSWORD STILL REQUIRED (generate at myaccount.google.com > Security > 2-Step Verification > App passwords, update cron config). UPDATE Aug 25 (5th scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj) on the Aug 25 evening scan. APARNA INBOX + Sent remain unscanned since Aug 17 - 8 days. NEW APP PASSWORD STILL REQUIRED; without it the APARNA leg of the mailbox scan cannot run. UPDATE Aug 26 (6th scan): AUTHENTICATIONFAILED again with same app password (yheu ovwl fcva aqzj). APARNA INBOX + Sent remain unscanned since Aug 17 - 9 days. NEW APP PASSWORD STILL REQUIRED (generate at myaccount.google.com > Security > 2-Step Verification > App passwords, label e.g. 'Hermes', update cron config)."
+  },
+  {
+   "id": "t60",
+   "track": "dc",
+   "title": "IFFI submission DCP - confirm Rs 40,000+taxes to Kushal (EditFX) + timeline",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-24",
+   "notes": "Aug 20-21 IFFI DCP thread (21536/21550/21552, all cc'd to ADITED): Soumyajit asked EditFX to give Dibyendu/Tanmoy time for DCP making of Devi Chowdhurani (patch grading for 1-2 opening-credit slides, end credits being updated). Tanmoy listed needs: studio time for opening/end credit update, patch grading, MP4 + MOV out, DCP of the film. Kushal Chirimar (kushal@editfxstudios.com) replied Aug 21: will check grading part (incorporate if possible); for other updates & work will charge Rs 40,000 plus taxes - 'Please confirm'. REPLY DRAFT READY: /home/aniru/IFFI_DCP_Kushal_Confirm_Reply.md/.docx - confirm the charge, request timeline for IFFI submission. Send from aniruddha@aditedmotionpictures.com, cc Soumyajit + Tanmoy. UPDATE Aug 24: Kushal confirm reply was SENT (ADITED Sent 844, Mon Aug 24 00:20 PDT 'Re: IFFI submission DCP Devi Chowdhurani'). Also received IFFI 2026 broadcast 'Last Date to Fill Your Application | IFFI 2026' (ADITED 22875, digital@nfdcindia.com, image-only body) - verify the actual application deadline on iffigoa.org; DCP work with EditFX continues. UPDATE Aug 26 (self-note PERSONAL 367408, Aug 24 00:18): IFFI-specific EditFX subtitle-file request draft READY (Word + MD) - 3 questions for Kushal: (1) subtitle track format in the IFFI DCP (SMPTE-TT / Interop / burned-in), (2) standalone English subtitle master (.srt/.ssa) if the portal requires it, (3) timing sync to the final 2h14m version; also ask anything else needed for the IFFI DCP (KDMs, trailers, stills, dialogue list) + what maps to the 'IFFI Submission - Devi Chowdhurani' Drive folder. SEND to kushal@editfxstudios.com (cc soumyajit@aditedmotionpictures.com). NOTE: self-note says editfxstudios.co - actual domain per the Aug 21 thread is editfxstudios.com."
+  },
+  {
+   "id": "t61",
+   "track": "finance",
+   "title": "Apple Card - virtual card restricted after $2.12 Deepseek attempt; confirm in Wallet",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-24",
+   "notes": "Aug 20 (ADITED inbox 21543, no_reply@post.applecard.apple): virtual card transaction attempt of $2.12 at 'Deepseek' on Aug 20, 2026 was DECLINED as suspicious; not charged; virtual card spending temporarily RESTRICTED until user takes action. Action: open Apple Card in Wallet and confirm whether the transaction was attempted (if recognized, re-attempt purchase; if unauthorized, virtual card gets replaced). No email reply possible (no-reply sender). Specialist: 1-877-255-5923. NOTE: likely the user's own Deepseek API usage - confirm and un-restrict. UPDATE Aug 22 (2nd scan, ADITED inbox 21558-21567): (a) 21558 'Your payment has been received' 07:40 UTC - FYI, payment applied; (b) NINE duplicate 'Your virtual card number is restricted - action needed' notices 07:42-07:47 UTC (21559-21567) - same restriction, repeated per attempted transaction. Still no email reply possible; action remains: open Apple Card in Wallet, confirm the Deepseek $2.12 attempt, re-attempt/un-restrict. NOTE: DeepSeek also sent a billing-rules announcement Aug 22 (PERSONAL 346277, support@sc.mail.deepseek.com): new peak/off-peak API pricing for DeepSeek V4 - FYI re: the Deepseek charge context. UPDATE Aug 22 (3rd scan, ADITED inbox 21568, info_noreply@post.applecard.apple, 07:48 UTC): 'Advanced Fraud Protection is now disabled' notice - indicates action was taken in Wallet (AFP turned off, likely while resolving the virtual card restriction); no reply possible (no-reply sender). Confirm in Wallet that the virtual card is un-restricted and the Deepseek $2.12 attempt was recognized."
+  },
+  {
+   "id": "t62",
+   "track": "finance",
+   "title": "IFZA renewal - penalty DISCOUNT via CSP (waiver campaign ended Aug 24) - reply draft ready",
+   "status": "in-progress",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Aug 21 user self-note (PERSONAL INBOX 346253, sent to own Gmail 23:01 PDT): 'Reply SEND to email it from your Gmail, or send manually from the company mailbox'. Draft READY: /home/aniru/IFZA_MBRJ_Waiver_Reply.md/.docx. Content: (1) accepts license penalty waiver offer; (2) requests ESTABLISHMENT CARD penalty waived on same terms; (3) asks final amount breakdown (license fee + establishment card + govt fees); (4) asks written confirmation that AED 18,000 late penalty (and accruing) is waived in full; (5) asks payment instructions - commits to settling ASAP. Grounded in IFZA Aug 10 email (AED 18,000 figure, ticket ## 5863817 ##). '4 Days to Renew Without Penalty' window (Aug 10) likely passed - June waiver offer should still hold. Send from aniruddha@aditedmotionpictures.com (thread mailbox) or personal Gmail. Related: t27 (UAE CT filing, MBRJ MEDIA TRN 104862644200001). UPDATE Aug 22: CONFIRMED SENT - ADITED Sent Mail 827 (Aug 21, 23:xx PDT) 'Re: [## 5863817 ##] MBRJ MEDIA - FZCO ll LICENSE PENALTY WAIVER' sent from aniruddha@aditedmotionpictures.com. Await IFZA response re: license + establishment card penalty waiver + final amount breakdown. UPDATE Aug 24 (ADITED 22882, renewals@ifza.com, 06:53 PDT): IFZA REPLIED - penalty WAIVER CAMPAIGN HAS ENDED, can no longer waive the outstanding license fines; however a DISCOUNT on applicable penalties MAY still be offered; asks us to contact the corporate service provider (CSP) that assisted with company establishment (B2B model) to coordinate the renewal offer. NEW REPLY DRAFT READY: /home/aniru/IFZA_Renewal_Discount_Reply.md/.docx - ask IFZA to confirm the CSP on record for MBRJ MEDIA - FZCO + the discounted penalty/final renewal amount (license + establishment card + govt fees) + payment instructions; commit to settling promptly. See t91. UPDATE Aug 26 (self-note PERSONAL 367629, 'MBRJ MEDIA - FZCO \u2014 Renewal Reply Drafts (IFZA + Smart Zone)', Aug 26 00:28): user prepared/bundled renewal reply drafts for IFZA + SMART ZONE (likely the CSP that assisted with MBRJ establishment - per IFZA's Aug 24 B2B instruction). Send IFZA_Renewal_Discount_Reply.md/.docx from aniruddha@aditedmotionpictures.com + the Smart Zone draft; see t91."
+  },
+  {
+   "id": "t63",
+   "track": "finance",
+   "title": "Visa Fidelity Pension \u2192 Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "DECISION MADE (Aug 21): DIRECT ROLLOVER to Merrill Lynch IRA (trustee-to-trustee) - avoids 20% mandatory withholding + 10% early-withdrawal penalty + income tax. STEPS: 1) Merrill side: confirm/open receiving Traditional IRA at ML, get rollover account details (call MyMerrill 1-800-MERRILL or your ML advisor; Merrill provides Letter of Acceptance/rollover kit). 2) Fidelity side: call Fidelity 800-835-5095 (401(k) rollover line) or online - request DIRECT rollover of the Visa 401(k)/pension to 'Merrill Lynch FBO [Aniruddha Dasgupta]' - trustee-to-trustee (never take the check yourself - 60-day indirect rollover trap). 3) Confirm plan allows full distribution (Visa plan, former employee). 4) Track: no cash touches your hands; ML confirms receipt; 5) Verify vesting 100% (former employee, likely fully vested). Drafts: Fidelity rollover request + Merrill inquiry emails ready on request. NOT tax advice - confirm with Lovleen. UPDATE Aug 22: self-note (PERSONAL INBOX 346254, Aug 21 23:16 PDT) confirms rollover package ready (Word + MD) with 2 email drafts attached: (1) Merrill inquiry (open/confirm Traditional IRA + Letter of Acceptance + payee line 'Merrill Lynch FBO Aniruddha Dasgupta'), (2) Fidelity rollover request (DIRECT, full balance, no withholding). Phone: MyMerrill 1-800-637-7455, Fidelity 800-835-5095. Code G 1099-R expected. Target Aug 31 - START THIS WEEK. UPDATE Aug 23: MyMerrill (my_merrill@ml.com) 'You have a new trade confirmation' notices Aug 21 (PERSONAL 346170) + Aug 22 (346258) - confirmations available online/in app; mailbox unmonitored, no reply needed. Likely rollover/account activity - verify in MyMerrill portal. UPDATE Aug 26: further MyMerrill 'You have a new trade confirmation' notices Aug 25 (PERSONAL 367526) + Aug 26 03:37 (PERSONAL 367630) - portal check only, no reply needed."
+  },
+  {
+   "id": "t64",
+   "track": "finance",
+   "title": "Research Google (work) insurance + FSA benefit options",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Research Google employer health insurance coverage + FSA (Flexible Spending Account) benefit: plan options, enrollment window (likely annual open enrollment ~Oct/Nov), FSA contribution limits (2026: $3,300 standard), whether FSA covers therapy/OT/speech, HSA eligibility. Compare against current Anthem Blue Cross plan. Confirm with Google benefits portal/HR."
+  },
+  {
+   "id": "t65",
+   "track": "health",
+   "title": "MyChart (Sutter) - outstanding payments + start payment plan (all 3: Aniruddha, Aparna, Ariana)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Log into Sutter MyChart: review outstanding balances for Aniruddha, Aparna, Ariana; set up payment plans (Sutter offers interest-free payment plans); confirm any bills are in-network vs out-of-network; request itemized statements if unclear."
+  },
+  {
+   "id": "t66",
+   "track": "health",
+   "title": "MyHealthOnline (Sutter) - outstanding payments + start payment plan (all 3)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Log into Sutter My Health Online: review outstanding balances for all 3 family members; set up payment plans; check for duplicate bills with MyChart (Sutter migrated to MyChart - some legacy MyHealthOnline balances may need reconciliation)."
+  },
+  {
+   "id": "t67",
+   "track": "health",
+   "title": "Upload Ariana's out-of-network speech + OT bills to ANTHEM insurance portal",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Upload out-of-network bills for Ariana's speech therapy + occupational therapy to the ANTHEM Blue Cross member portal (claims submission). Gather: therapy invoices (Seven Bridges speech; OT provider), itemized statements, dates of service. Anthem is the family plan (user-confirmed Aug 2026, not Aetna). Note: Ariana's speech therapy was previously identified as NOT covered by Anthem (Aparna was switching to Medi-Cal/Santa Clara Family Health Plan therapist) - verify coverage before/while submitting OON claims."
+  },
+  {
+   "id": "t68",
+   "track": "home",
+   "title": "IHSS SOC 295 application for Ariana - complete pre-filled PDF + submit (Alameda County)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-09-01",
+   "notes": "Aug 22 self-note (PERSONAL INBOX 346256, sent to own Gmail 00:00 PDT): SOC 295 pre-filled PDF + completion guide ready (attachments: SOC295_Ariana_DRAFT.pdf + guide). Pre-filled: Ariana Dasgupta, 2437 Balmoral St, Union City, CA 94587, 650-645-0822, aniruddha.dg1@gmail.com, Female, Asian Indian, English. MUST COMPLETE: (1) SSN + DOB (left blank); (2) Section 4: SSI answer (likely No) + services requested; (3) Section 6: household - both parents' names/DOB/SSN; (4) Section 10: parent signs as Representative (minor child) - Aniruddha or Aparna Dasgupta. SUBMIT: online via BenefitsCal (benefitscal.com) recommended, or mail/drop to Alameda County SSA Adult & Aging Services. After: county social worker in-home assessment + Medi-Cal check. 2 FLAGS: (a) Ariana lives in ALAMEDA County (Union City) but Medi-Cal/RCEB links are Santa Clara - IHSS files in county of residence; 5-min call to Alameda IHSS intake to confirm jurisdiction recommended; (b) minor-child IHSS assessed vs typical child of same age - prepare examples of extra care needs (RCEB records) for home assessment."
+  },
+  {
+   "id": "t69",
+   "track": "studio",
+   "title": "Dulal Dey - review VIJAY PPT+budget, schedule video meeting with SANI (line production)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-23",
+   "notes": "Aug 22 (ADITED inbox 21585, deydulal@gmail.com, 'Fwd: VIJAY', Sun Aug 23 00:52 IST): Dulal Dey sent the PPT and budget for the film 'VIJAY' (as discussed) and proposes a video meeting Saturday or Sunday; the owner of line production company 'SANI' will be present to brief on the project. REPLY DRAFT READY: /home/aniru/Dulal_VIJAY_Meeting_Reply.md/.docx - proposes Sunday Aug 23 8:00 PM IST (7:30 AM PDT), fallback Monday options. Attachments saved: /home/aniru/VIJAY_docs/CASTING.pdf + Bengali Film VIJAY.xls (budget). Send from aniruddha@aditedmotionpictures.com."
+  },
+  {
+   "id": "t70",
+   "track": "studio",
+   "title": "Mumbai talent network entry - provide 4 inputs to activate (exec name, 2 IPs, budget level, trip timing)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "Aug 22 self-note (PERSONAL INBOX 346302, own Gmail, '[STRATEGY] Mumbai talent network entry + Hindi market plan (DC leverage)'): plan ready (Word + MD). DC credentials = first Indo-UK co-production in Bengali cinema, US theatrical Sep 4, UK/LBFF closing film, NABC win, India Puja release. 90-day plan: Phase 1 (Aug-Sep) CRM + DC one-pager + 30-contact list + lock Mumbai exec meeting; Phase 2 (Oct-Nov) Mumbai trip + Film Bazaar + IFFI; Phase 3 (Dec-Feb) follow-ups + decks. SELF-ASKED INPUTS to provide: (1) Mumbai executive's name/company, (2) the two IPs (film + web show) titles/concepts, (3) budget/ambition level, (4) Mumbai trip timing (tied to Film Bazaar Nov?). Companion KPI framework self-note: PERSONAL INBOX 346304 (BD funnel SOURCE->RELATE->CONVERT->COMMIT->REVENUE; funding/sales/studio/IP/network pillars; $500K-1M equity 12-mo, $200K+ presales, 1 first-look deal by Dec 2027). No email reply needed (self-send); respond to own note with the 4 inputs to activate execution."
+  },
+  {
+   "id": "t71",
+   "track": "finance",
+   "title": "Capital One VentureOne - virtual card ...8348 deactivated; APPLE.COM/BILL purchase declined Aug 23",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-26",
+   "notes": "Aug 23 (PERSONAL inbox 346328, capitalone@notification.capitalone.com, 'Purchase declined: Your virtual card is deactivated'): APPLE.COM/BILL purchase declined because virtual card ending 8348 has been deactivated. Options: use another virtual card, create a new virtual card, or use physical card. If purchase NOT authorized: call 800-227-4825. Likely Apple subscription billing (e.g., iCloud/Keiki). Portal action - no email reply possible. Related: t61 (Apple Card virtual card restriction) - two separate issuers."
+  },
+  {
+   "id": "t72",
+   "track": "job",
+   "title": "JPMorganChase - check job application status (Job number 210730322)",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-08-30",
+   "notes": "Aug 22 (PERSONAL inbox 346259, JPMorganChase Human Resources via Oracle workflow, eino.fa.sender@workflow.mail.us2.cloud.oracle.com): 'Your job application status' for Job 210730322. Body empty/image-based - open the portal link in the email to view status. No email reply possible."
+  },
+  {
+   "id": "t73",
+   "track": "finance",
+   "title": "Transfer: ADited Sole Prop (HDFC) -> ICICI -> USA (repatriation)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Send money from ADited sole-prop HDFC acct (50200079740827, IFSC HDFC0000018) to ICICI India, then repatriate to USA. Repatriation route: confirm with ICICI RM (Jasmeet Kaur thread) - NRE/NRO vs RBI LRS vs business remittance. Docs: Form A2 if outward remittance. Confirm USD rate. UPDATE Aug 24: HDFC InstaAlert (ADITED 22889, alerts@hdfcbank.bank.in) - available balance in account ending XX9924 is Rs 2,07,73,492.32 (~Rs 2.08 Cr) as of 24-Aug-26 - funds confirmed available for the transfer leg. UPDATE Aug 26: two HDFC 'View: Account update' image-based alerts (ADITED 21644/21645, alerts@hdfcbank.bank.in, 05:22 UTC) - standard view-notifications, no plain-text detail; FYI only, no action."
+  },
+  {
+   "id": "t74",
+   "track": "dc-release",
+   "title": "Book DCP for USA release (Sep 4)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-28",
+   "notes": "Book DCP delivery for Sep 4 US release: Qube Wire to confirmed theatres (Cinemark 8 + AMC Houston First Colony 24; Regal pending). Coordinate with EditFX (Kushal Chirimar - IFFI DCP thread Aug 20-21) or DCP vendor. Need: final DCP with English subs (2h14m), KDMs per theatre, trailer package. IFFI submission DCP also in flight (Soumyajit)."
+  },
+  {
+   "id": "t75",
+   "track": "family",
+   "title": "Sign + send Ariana's IHSS application (SOC 295)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Pre-filled PDF at /home/aniru/SOC295_Ariana_DRAFT.pdf - complete remaining fields (SSN, DOB, household parents, services requested), parent signs as Representative, submit via BenefitsCal or Alameda County SSA. Guide: /home/aniru/SOC295_Ariana_Guide.md. Confirm Alameda jurisdiction (Union City) vs Santa Clara Medi-Cal linkage."
+  },
+  {
+   "id": "t76",
+   "track": "family",
+   "title": "Order Miku table from Amazon",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "Order the Miku table from Amazon."
+  },
+  {
+   "id": "t77",
+   "track": "finance",
+   "title": "Settlement with Anand Bhai (Anand Desai - ITR) before Aug 31",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Anand Desai (anand@ymdnco.com) - Aparna Dasgupta AY 25-26 ITR thread (Jun 10). Settle his fees before Aug 31. Confirm amount + payment method (India transfer via HDFC/ICICI?)."
+  },
+  {
+   "id": "t78",
+   "track": "finance",
+   "title": "Follow up BASAF Corp + personal tax returns (Bhatia & Co)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Follow up BASAF Corp tax return + personal returns with Lovleen Banga / Bhatia & Co (Zoom with Mr Bhatia was Aug 18). BASAF: film acquisition costs, no 1099s, $12K 2023 consulting fee question. Personal: confirm filed/extended. UPDATE Aug 24: user sent 'Re: Aniruddha - Personal & BASAF - Statement' to Lovleen Banga (PERSONAL Sent 10133, Mon Aug 24 09:53 PDT) - statement thread active; await her reply. UPDATE Aug 26 (PERSONAL 367447, Lovleen Banga, Aug 24 21:32, 'Re: Aniruddha - Personal & BASAF - Statement'): Neeraj ji reviewed the BASAF 2024 tax return and asks 'When was the movie completed?' - answer: completed Nov 2025, final cut locked Nov 10, 2025 (verify with Tanmoy/EditFX before sending). Also: upload ALL personal tax return documents to the ShareFile folder (Neeraj ji's ShareFile notification PERSONAL 367462, Aug 24 16:56). REPLY DRAFT READY: /home/aniru/BASAF_Movie_Completion_Lovleen_Reply.md/.docx - send from aniruddha.dg1@gmail.com."
+  },
+  {
+   "id": "t79",
+   "track": "dc-release",
+   "title": "Zee Music content delivery - resolve thread (Shivam/Tanmoy)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Active thread 'Content Deliveries - Devi Chowdharani' (Aug 14-20): Shivam Pandey (Zee) + Tanmoy. This is the \u20b910L + GST settlement pipeline - complete ALL delivery materials to trigger 40-day payment clock. BGM videos not required per earlier research. UPDATE Aug 26: ALL delivery materials now shared - Tanmoy sent the final pending item (Durgamo Giri Kantar Moru stems link, ADITED 21647) to Shivam Aug 26. Await Shivam's confirmation + Zee final content-delivery update; then push the payment follow-up (see t05). UPDATE Aug 26 (CORRECTED UID): the final stems-link email = ADITED 22916 (Tanmoy -> Shivam, Aug 26 11:57 UTC; earlier noted as '21647' which was a sequence number). Delivery complete - awaiting Shivam confirmation."
+  },
+  {
+   "id": "t80",
+   "track": "dc-release",
+   "title": "Resolve 'pending agreements before international release' (Tanmoy/Ritisha)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-28",
+   "notes": "Thread Aug 14-18: Tanmoy + Ritisha Mukherjee (legal) on pending agreements before international release. Must clear BEFORE Sep 4 US release. Review what's outstanding (likely rights/clearances/contracts). UPDATE Aug 24: Ritisha sent the FURTHER-UPDATED Fourth Dimension agreement draft addressing the parked clauses (ADITED 22876; attachment saved /home/aniru/mailscan_dump/FourthDimension_Agreement_Draft_24.08.2026_ANM_Global.docx) - ack/review draft READY: /home/aniru/Fourth_Dimension_Agreement_Ack_Reply.md/.docx (see t35). Review the draft and confirm back to close this item before Sep 4. UPDATE Aug 25 (ADITED 21631, Tanmoy -> Ritisha, 12:39 UTC): Tanmoy replied 'We are executing this document with the required details' - execution of the updated Fourth Dimension agreement is IN PROGRESS (retrospective date being filled). No ack needed from our side; track execution completion + Dec 15 2026 payment obligations (see t35)."
+  },
+  {
+   "id": "t81",
+   "track": "finance",
+   "title": "UAE Corporate Tax return - MBRJ/IFZA (tax.gov.ae reminders)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-09-15",
+   "notes": "Reminders from Haroon Khan (Aug 20) + Ali Saifo (Aug 21) at tax.gov.ae re Corporate Tax return submission. Ties to MBRJ MEDIA-FZCO license renewal (AED 18k penalties). File CT return - deadline Sep 15 (matches tracker t07-era item)."
+  },
+  {
+   "id": "t82",
+   "track": "admin",
+   "title": "Update Otter.ai payment method (expired card)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "'Action Required: Please update your payment method' from Otter.ai Payments (Aug 19). Update card in Otter.ai billing."
+  },
+  {
+   "id": "t83",
+   "track": "finance",
+   "title": "Universal Organic DE annual tax + BOI (Legalinc/Stripe Atlas reminder)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Legalinc/Stripe Atlas reminder Aug 14: Pay Annual Delaware LLC Tax (due Jun 1, overdue). Also BOI report missed (~Oct 2025). Zero-revenue year unfiled. Lovleen question: ~$20,600 transfer to UOP Ltd treatment."
+  },
+  {
+   "id": "t84",
+   "track": "finance",
+   "title": "Apple Card dispute outcome - review (Bebe $260.01)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-30",
+   "notes": "Apple Card transaction dispute emails Aug 19-22 (outcome + virtual card number restricted notices). Verify dispute resolution + card status."
+  },
+  {
+   "id": "t85",
+   "track": "admin",
+   "title": "Fix Adobe payment failure (subscription billing)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "'Your payment failed' from Adobe (Aug 18). Update billing method or confirm card on file to avoid service interruption."
+  },
+  {
+   "id": "t86",
+   "track": "admin",
+   "title": "Swyft Filings annual report notice - WY LLC dissolution context",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-10",
+   "notes": "Swyft 'Annual Report due soon' (Aug 19) for Aniruddha Dasgupta LLC (WY). Context: dissolution in progress (forms mailed, $60 check, filing ID 2023-001343451). Confirm annual report obligation ends with dissolution; Swyft cancellation demand Sep 10 (t24)."
+  },
+  {
+   "id": "t87",
+   "track": "admin",
+   "title": "Activate Chase Freedom card",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "'Attn: Aniruddha, your activation is required' - Chase Freedom (Aug 19). Activate new card."
+  },
+  {
+   "id": "t88",
+   "track": "family",
+   "title": "Check HealthEquity FSA claim (new claim received)",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-09-15",
+   "notes": "'New Claim Received' from HealthEquity (Aug 20) - HSA/FSA claim processing. Verify claim + reimbursement status. UPDATE Aug 26: second 'New Claim Received' notice Aug 24 (PERSONAL 367424, claim 0003) - no action needed, check portal when convenient."
+  },
+  {
+   "id": "t89",
+   "track": "family",
+   "title": "Review Google security alerts for apu.dg1@gmail.com (Aparna)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "Security alert for Aparna's account (Aug 18, x2). Confirm with Aparna it was her login; if not, secure account immediately."
+  },
+  {
+   "id": "t90",
+   "track": "dc",
+   "title": "Regal escalation to Russell Deaver - SENT Aug 23; awaiting reply (fallback phone Tue Aug 25)",
+   "status": "in-progress",
+   "priority": "high",
+   "due": "2026-08-25",
+   "notes": "Josh Pollard OOO auto-reply Aug 23 (PERSONAL 346350) routes urgent Indian releases to Brandon Corrier + Russell Deaver - Russell is the Indian film booker. Escalation draft READY: /home/aniru/Regal_Escalation_Russell_Deaver.md/.docx (To: Russell.Deaver@regalcinemas.com, Cc: Brandon.Corrier@regalcinemas.com + Joshua.Pollard@regalcinemas.com, subject 'URGENT - Booking Request for Devi Chowdhurani (Bengali) - 9/4/2026 - Indian release'). Content: Sep 4 release 12 days out, Cinemark 8 + AMC Houston confirmed, 11 Regal locations pending since Aug 11, NY/NJ zero-screen gap (Union Square/Kaufman Astoria/Commerce Center), W-9 on file (BASAF Corp), DCP via Qube Wire ready on confirmation. ATTACH DC_Regal_Booking_Request.xlsx. Fallback if no reply by Tue Aug 25: phone Russell (Regal Master Buyer List) or Brandon (865) 925-9509. UPDATE Aug 24 (sent-mail check): escalation WAS SENT to Russell Deaver Sun Aug 23 08:29 PDT (PERSONAL Sent 10129); earlier version also sent to Josh Pollard (10126, 07:49 PDT); user also replied to Brandon Corrier Aug 23 22:43 PDT (Sent 10130, 'Re: URGENT - Booking Request...'). Awaiting confirmations - release Sep 4 is ~11 days out; phone fallback Tue Aug 25 if no reply. UPDATE Aug 26 (PERSONAL 367603, Aug 25 22:36): SECOND Josh Pollard OOO auto-reply (same OOO Aug 21-Sep 7, routes urgent Indian releases to Brandon Corrier + Russell Deaver) - no reply needed; if still no confirmation from Russell/Brandon, direct phone follow-up (Russell via Regal Master Buyer list or Brandon (865) 925-9509)."
+  },
+  {
+   "id": "t91",
+   "track": "finance",
+   "title": "IFZA - coordinate MBRJ MEDIA renewal penalty discount via CSP (draft ready)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "IFZA (renewals@ifza.com) replied Aug 24 (ADITED 22882) to our Aug 22 waiver-acceptance: waiver campaign ENDED - no full waiver of license fines; a DISCOUNT on applicable penalties may still be offered; per their B2B model we must contact the corporate service provider (CSP) that set up the company to coordinate. REPLY DRAFT READY: /home/aniru/IFZA_Renewal_Discount_Reply.md/.docx - asks IFZA to confirm: (1) CSP on record for MBRJ MEDIA - FZCO, (2) discounted penalty + final renewal amount (license fee + establishment card + govt fees), (3) payment instructions. Commit to settling promptly. If the user knows the CSP (agent who incorporated MBRJ), contact them directly in parallel. Send from aniruddha@aditedmotionpictures.com. Related: t62 (waiver thread), t27 (UAE CT filing MBRJ TRN 104862644200001). UPDATE Aug 26 (self-note PERSONAL 367629): user prepared 'Renewal Reply Drafts (IFZA + Smart Zone)' - Smart Zone is likely the CSP on record for MBRJ MEDIA - FZCO; send IFZA_Renewal_Discount_Reply.md/.docx + the Smart Zone draft (see t62)."
+  },
+  {
+   "id": "t92",
+   "track": "home",
+   "title": "Facebook login alert Aug 24 (Sunnyvale, Facebook for iPhone) - verify it was you",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-26",
+   "notes": "Aug 24 13:14 PDT (PERSONAL inbox 367489, security@facebookmail.com): 'Did you just log in near Sunnyvale on a new device?' - login near Sunnyvale, CA, United States on Facebook for iPhone. If this was NOT the user: click 'This wasn't me' in the email and secure the account (change password, review sessions). If it was the user (e.g. phone/tablet login), ignore. No email reply possible."
+  },
+  {
+   "id": "t93",
+   "track": "admin",
+   "title": "CreditWise dark web alert (Aug 25) - review details in app",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-28",
+   "notes": "5th alert since Jan 2026 (Jan 23, Jan 31, May 5, Jun 1, Aug 25). Log into CreditWise app/capitalone.com -> Alerts -> review what was found (email/SSN/address + source). Email has NO details - must check in app."
+  },
+  {
+   "id": "t94",
+   "track": "admin",
+   "title": "Pull all 3 credit reports + scan for anomalies (annualcreditreport.com)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Free weekly pulls at annualcreditreport.com (Equifax/Experian/TransUnion). Scan for: unknown accounts, hard inquiries, address changes, name variations. Context: Capital One 'total credit limit decreased' notice Jul 21 - verify."
+  },
+  {
+   "id": "t95",
+   "track": "admin",
+   "title": "Freeze credit at all 3 bureaus (Equifax, Experian, TransUnion)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-08-31",
+   "notes": "Free credit freeze blocks new-account fraud. Do all 3: equifax.com, experian.com, transunion.com. Save PINs securely. Can unfreeze anytime. Single most effective protection against dark-web SSN exposure."
+  },
+  {
+   "id": "t96",
+   "track": "admin",
+   "title": "Change passwords + enable 2FA on exposed emails",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "If CreditWise shows email in a breach dump: change passwords (unique strong), enable 2FA. Related: Google security alert for apu.dg1@gmail.com (Aug 18) - verify with Aparna."
+  },
+  {
+   "id": "t97",
+   "track": "dc",
+   "title": "DC BFI co-production final application - audit certificate (Sudesh/Triumph) + submit by Sep 25",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-09-25",
+   "notes": "From ADITED 22902 (Soumyajit, devichowdhurani2024@gmail.com, Aug 25 23:31 IST, to sudesh@triumphusltd.com, CC Aniruddha + hcfilms786@gmail.com + Tanmoy): final BFI co-production status application must be submitted by 25 Sep 2026 (HMRC filing by Dec 31, 2026; project permission granted FY 2023-24). UK spend ~195,000 GBP, shooting entirely in India; UK producer HC Films engaged vendors pay-later, payments delayed after Associate Producer Farid Mallick's demise; Hassan in Dubai securing investor financing to settle UK vendors. Ask to Sudesh: execute the audit report certificate for the film (proforma attached to email) + consultancy in the final BFI application submission; NFDC final submission link shared (contains Adited-HC film agreement + BFI/DCMS permission letters): https://drive.google.com/drive/u/0/folders/1R0MZgqTDOquG5nLu5ENioPL73Ai9nXWc. No reply needed from us (ask is directed at Sudesh/Triumph), but FOLLOW UP with Sudesh/Triumph well ahead of Sep 25 to confirm the audit certificate is being executed; coordinate any additional docs they request. USA release Sep 4, 2026 cited in the email."
+  },
+  {
+   "id": "t98",
+   "track": "home",
+   "title": "Airborne Gymnastics - Jia Hahn fundraiser leotard (optional, order by Sep 12)",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-09-12",
+   "notes": "Aug 25 email from Airborne Gymnastics (info@airborne-gymnastics.com, Santa Clara) - community fundraiser: Jia (competitive gymnast at Ultimate Sports Connection, Concord) was in a serious car accident with her parents; she remains in PICU undergoing surgeries. Fundraiser leotard available through Sep 12; portion of proceeds goes to Hahn family. FYI bulk email (Constant Contact) - NO reply needed. Optional: consider purchasing leotard to support, if family wants to contribute."
+  },
+  {
+   "id": "t99",
+   "track": "dc",
+   "title": "DC UK release: Soumyajit pitching Manish Tiwari (Here & Now 365) - UK target before Nov 15, 2026",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-11-15",
+   "notes": "ADITED 21634 (Soumyajit, soumyajitsmc@gmail.com, Aug 25 23:59 IST, to manish.tiwari@hereandnow365.co.uk, CC Aniruddha + Hassan@hcfilms.co.uk + Tanmoy): following their London meeting last month, Soumyajit proposes collaboration for special screening + release of Devi Chowdhurani (134 min, Bengali/English w/ subtitles) in London and other UK parts - historically the first official India-UK co-production. USA release Sep 4, 2026; UK release targeted before Nov 15, 2026. Soumyajit informed Prithul Kumar (Addl Secretary I&B) and Prakash Magdum (MD NFDC); Ministry of Culture supporting UK release; campaign to include logos of I&B Ministry, NFDC, India Cinehub, Invest India. Asks Manish for an e-meet this week. NO REPLY NEEDED from us (CC'd only, ask directed at Manish) - monitor thread; be ready to support with materials/logos if UK release firms up."
+  },
+  {
+   "id": "t100",
+   "track": "home",
+   "title": "IHSS application - review/complete draft (In-Home Supportive Services)",
+   "status": "pending",
+   "priority": "medium",
+   "due": null,
+   "notes": "Aug 25 self-sent email (PERSONAL INBOX 346618, from aniruddha@aditedmotionpictures.com to aniruddha.dg1@gmail.com, 19:00 PDT): subject 'IHSS application', attachment IHSS application.pdf, empty body. Likely the CA In-Home Supportive Services application (for Ariana's in-home care, related to Pacific Homecare staffing gap t44 / RCEB t28). Review the PDF, complete/sign, and submit per IHSS/Medi-Cal process. No reply needed (self-send document transfer). Attachment saved in Gmail; PDF also available at /home/aniru/mailscan_dump if needed."
+  },
+  {
+   "id": "t101",
+   "track": "studio",
+   "title": "ADited Studio Resource & Org Plan - review 40-section plan, decide hiring order",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-15",
+   "notes": "Aug 25 self-note (PERSONAL 367584, '[STUDIO PLAN] ADited Complete Resource & Organizational Plan - all 40 sections'): full plan ready (Word + MD). Core: 3 hires + 2 fractional advisors over 24 months, NOT a department. Hiring order: #1 Development Manager (Month 1-2, Kolkata) -> #2 Partnership Advisor (Month 4-6, Mumbai, fractional, Rs 50-75K/mo + closed-deal bonus, advisory only - no greenlight vote) -> #3 Business/Prod Manager (at first Hindi project packaging) -> #4 Creative Dev Exec (Stage 4, combine with Dev Mgr year 1) -> #5 trigger-based. Positioning: 'Indian IP studio with Bengali literary roots', not 'Hindi studio'. Year 1 base ~Rs 24L OPEX + Rs 30L dev fund; Year 2 ~Rs 41L + 30-40L dev. COO = Business Manager initially (trigger: 2+ active productions). Key risks: availability at greenlight gates, rights/chain-of-title discipline from day one, single-person knowledge (IP database = company asset). DECIDE: approve hiring order + compensation bands; tie to t08 (Confluence Media proposal)."
+  }
+ ]
 }
