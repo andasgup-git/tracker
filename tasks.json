@@ -1032,7 +1032,7 @@
    "status": "pending",
    "priority": "medium",
    "due": "2026-09-05",
-   "notes": "Aug 27 AND Aug 28 scans both failed with [AUTHENTICATIONFAILED] Invalid credentials using the provided app password. Gmail likely revoked the app password or 2FA/app-password state changed. Regenerate at myaccount.google.com/apppasswords (or have Aparna do it) and update the scan credentials. Until fixed, APARNA is NOT being scanned (last seen: INBOX max 218453, Sent max 7987 as of Aug 27)."
+   "notes": "Aug 27 AND Aug 28 scans both failed with [AUTHENTICATIONFAILED] Invalid credentials using the provided app password. Gmail likely revoked the app password or 2FA/app-password state changed. Regenerate at myaccount.google.com/apppasswords (or have Aparna do it) and update the scan credentials. Until fixed, APARNA is NOT being scanned (last seen: INBOX max 218453, Sent max 7987 as of Aug 27). UPDATE Aug 28 (3rd scan, cron): still [AUTHENTICATIONFAILED] Invalid credentials with the app password supplied in the cron task (yheu ovwl fcva aqzj) - same credentials failing since Aug 27. ACTION REQUIRED: regenerate the APARNA app password (myaccount.google.com/apppasswords) and update the cron scan config; mailbox remains unscanned (INBOX max 218453, Sent max 7987)."
   }
  ]
 }
