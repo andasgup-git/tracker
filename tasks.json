@@ -3,42 +3,42 @@
   {
    "id": "job",
    "name": "Job",
-   "emoji": "\ud83d\udcbc",
+   "emoji": "💼",
    "color": "#4F8EF7",
    "description": "Google work items"
   },
   {
    "id": "dc",
    "name": "DC Closing",
-   "emoji": "\ud83c\udfac",
+   "emoji": "🎬",
    "color": "#9B59B6",
    "description": "Devi Chowdhurani - release, festivals, distribution, Zee"
   },
   {
    "id": "studio",
    "name": "Studio Work",
-   "emoji": "\ud83c\udfe2",
+   "emoji": "🏢",
    "color": "#E67E22",
    "description": "ADited / Confluence 2027 / BASAFF / Aparna Hollywood positioning"
   },
   {
    "id": "finance",
    "name": "Finance & Legal",
-   "emoji": "\ud83d\udcb0",
+   "emoji": "💰",
    "color": "#27AE60",
    "description": "Lovleen/BASAF, Universal Organic, Wyoming/Swyft/Buffalo, taxes"
   },
   {
    "id": "home",
    "name": "Home & Family",
-   "emoji": "\ud83c\udfe0",
+   "emoji": "🏠",
    "color": "#E74C3C",
    "description": "FasTrak, health, household, Aparna & Ariana"
   },
   {
    "id": "miku",
    "name": "Miku",
-   "emoji": "\ud83d\udc3e",
+   "emoji": "🐾",
    "color": "#F39C12",
    "description": "Miku-related items"
   }
@@ -294,7 +294,7 @@
    "status": "pending",
    "priority": "high",
    "due": "2026-09-15",
-   "notes": "iLLimite (Shivani Goyal, illimitebiz@gmail.com) reminder Aug 12: CT filing due 30 Sep 2026 where applicable. Reply draft ready: /home/aniru/UAE_CT_Filing_Reply.docx - confirm which entities on file are due, get requirements. +971 50 451 6872. UPDATE Aug 20-21 (GENUINE FTA reminders, tax.gov.ae): (a) Aug 20 Haroon Khan (Haroon.Khan@tax.gov.ae, DIR +971 4 777 6113) - WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001, CT filing pending; (b) Aug 21 Ali Haitham Saifo (Ali.Saifo@tax.gov.ae, DIR +971 4 777 6171) - MBRJ MEDIA - FZCO, TRN 104862644200001, CT filing pending. Both ask for updated contact number if changed. Reply drafts ready: /home/aniru/UAE_FTA_WideAngle_Reply.md/.docx + /home/aniru/UAE_FTA_MBRJ_Reply.md/.docx - confirm filing in progress via tax agent, contact unchanged (+1 650-645-0822). Ensure iLLimite covers BOTH entities in the Sep 30 filing. UPDATE Aug 24: SECOND FTA reminder from Haroon Khan (ADITED 22892, 21:07 PDT, 'Reminder: Submission of Corporate Tax Return') for WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001 - 'deadline is fast approaching', asks to submit ASAP and share new contact number if changed. UAE_FTA_WideAngle_Reply draft STILL UNSENT (checked ADITED Sent Mail) - SEND IT now: confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822). UPDATE Aug 25 (ADITED 21625, Ali Haitham Saifo, tax.gov.ae, 10:07 UTC): THIRD FTA reminder for MBRJ MEDIA - FZCO (TRN 104862644200001) - 'deadline is fast approaching', submit ASAP. UAE_FTA_MBRJ_Reply.md/.docx STILL UNSENT as of this scan - send it now from aniruddha@aditedmotionpictures.com; also confirm iLLimite covers BOTH MBRJ MEDIA + WIDE ANGLE INTERNATIONAL in the Sep 30 filing. UPDATE Aug 25 (2nd scan, CORRECTED UID): THIRD FTA reminder = ADITED 22894 (Ali Haitham Saifo, tax.gov.ae, Tue Aug 25 10:07 UTC; earlier noted as '21625' which was a sequence number, not a UID). UAE_FTA_MBRJ_Reply.md/.docx (already prepared) STILL UNSENT as of this scan - SEND it now from aniruddha@aditedmotionpictures.com. UPDATE Aug 26 (ADITED 21643, Haroon Khan, tax.gov.ae, 05:18 UTC): FOURTH FTA reminder for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001) - 'deadline is fast approaching', submit ASAP + share new contact number if changed. UAE_FTA_WideAngle_Reply.md/.docx REFRESHED (notes updated for the Aug 24 + Aug 26 reminders) but STILL UNSENT - SEND NOW from aniruddha@aditedmotionpictures.com; confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822). UPDATE Aug 26 (ADITED 22912, real UID, Haroon Khan, tax.gov.ae, 05:18 UTC): THIRD FTA reminder for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001) - 'deadline is fast approaching', submit ASAP, share new contact number if changed. UAE_FTA_WideAngle_Reply.md/.docx STILL UNSENT as of this scan (ADITED Sent checked - only self-sends 846-850) - SEND IT NOW along with UAE_FTA_MBRJ_Reply.md/.docx; confirm iLLimite covers BOTH entities in the Sep 30 filing. UPDATE Aug 27 (ADITED 22934 + 22935, tax.gov.ae, genuine): FOURTH FTA reminders for BOTH entities arrived Aug 27 - 22934 Ali Haitham Saifo for MBRJ MEDIA - FZCO (TRN 104862644200001, 04:13 UTC) and 22935 Haroon Khan for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001, 04:32 UTC) - both 'deadline is fast approaching', submit ASAP, share new contact number if changed. UAE_FTA_MBRJ_Reply.md/.docx + UAE_FTA_WideAngle_Reply.md/.docx STILL UNSENT (no new ADITED Sent Mail since Aug 26) - SEND BOTH NOW from aniruddha@aditedmotionpictures.com; confirm iLLimite covers both entities in the Sep 30 filing."
+   "notes": "iLLimite (Shivani Goyal, illimitebiz@gmail.com) reminder Aug 12: CT filing due 30 Sep 2026 where applicable. Reply draft ready: /home/aniru/UAE_CT_Filing_Reply.docx - confirm which entities on file are due, get requirements. +971 50 451 6872. UPDATE Aug 20-21 (GENUINE FTA reminders, tax.gov.ae): (a) Aug 20 Haroon Khan (Haroon.Khan@tax.gov.ae, DIR +971 4 777 6113) - WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001, CT filing pending; (b) Aug 21 Ali Haitham Saifo (Ali.Saifo@tax.gov.ae, DIR +971 4 777 6171) - MBRJ MEDIA - FZCO, TRN 104862644200001, CT filing pending. Both ask for updated contact number if changed. Reply drafts ready: /home/aniru/UAE_FTA_WideAngle_Reply.md/.docx + /home/aniru/UAE_FTA_MBRJ_Reply.md/.docx - confirm filing in progress via tax agent, contact unchanged (+1 650-645-0822). Ensure iLLimite covers BOTH entities in the Sep 30 filing. UPDATE Aug 24: SECOND FTA reminder from Haroon Khan (ADITED 22892, 21:07 PDT, 'Reminder: Submission of Corporate Tax Return') for WIDE ANGLE INTERNATIONAL - FZCO, TRN 104862652500001 - 'deadline is fast approaching', asks to submit ASAP and share new contact number if changed. UAE_FTA_WideAngle_Reply draft STILL UNSENT (checked ADITED Sent Mail) - SEND IT now: confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822). UPDATE Aug 25 (ADITED 21625, Ali Haitham Saifo, tax.gov.ae, 10:07 UTC): THIRD FTA reminder for MBRJ MEDIA - FZCO (TRN 104862644200001) - 'deadline is fast approaching', submit ASAP. UAE_FTA_MBRJ_Reply.md/.docx STILL UNSENT as of this scan - send it now from aniruddha@aditedmotionpictures.com; also confirm iLLimite covers BOTH MBRJ MEDIA + WIDE ANGLE INTERNATIONAL in the Sep 30 filing. UPDATE Aug 25 (2nd scan, CORRECTED UID): THIRD FTA reminder = ADITED 22894 (Ali Haitham Saifo, tax.gov.ae, Tue Aug 25 10:07 UTC; earlier noted as '21625' which was a sequence number, not a UID). UAE_FTA_MBRJ_Reply.md/.docx (already prepared) STILL UNSENT as of this scan - SEND it now from aniruddha@aditedmotionpictures.com. UPDATE Aug 26 (ADITED 21643, Haroon Khan, tax.gov.ae, 05:18 UTC): FOURTH FTA reminder for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001) - 'deadline is fast approaching', submit ASAP + share new contact number if changed. UAE_FTA_WideAngle_Reply.md/.docx REFRESHED (notes updated for the Aug 24 + Aug 26 reminders) but STILL UNSENT - SEND NOW from aniruddha@aditedmotionpictures.com; confirm filing in progress via iLLimite, contact unchanged (+1 650-645-0822). UPDATE Aug 26 (ADITED 22912, real UID, Haroon Khan, tax.gov.ae, 05:18 UTC): THIRD FTA reminder for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001) - 'deadline is fast approaching', submit ASAP, share new contact number if changed. UAE_FTA_WideAngle_Reply.md/.docx STILL UNSENT as of this scan (ADITED Sent checked - only self-sends 846-850) - SEND IT NOW along with UAE_FTA_MBRJ_Reply.md/.docx; confirm iLLimite covers BOTH entities in the Sep 30 filing. UPDATE Aug 27 (ADITED 22934 + 22935, tax.gov.ae, genuine): FOURTH FTA reminders for BOTH entities arrived Aug 27 - 22934 Ali Haitham Saifo for MBRJ MEDIA - FZCO (TRN 104862644200001, 04:13 UTC) and 22935 Haroon Khan for WIDE ANGLE INTERNATIONAL - FZCO (TRN 104862652500001, 04:32 UTC) - both 'deadline is fast approaching', submit ASAP, share new contact number if changed. UAE_FTA_MBRJ_Reply.md/.docx + UAE_FTA_WideAngle_Reply.md/.docx STILL UNSENT (no new ADITED Sent Mail since Aug 26) - SEND BOTH NOW from aniruddha@aditedmotionpictures.com; confirm iLLimite covers both entities in the Sep 30 filing. UPDATE Aug 28 (ADITED 21711 + 21712, automated FTA notifications, no-reply@tax.gov.ae, DKIM-verified, 22:23 + 22:46 UTC): SYSTEM reminders 'CT Return Submission Due' - (a) period 01/08/2024-31/12/2025 and (b) period 01/01/2025-31/12/2025 - both must be submitted via EmaraTax no later than 30.09.2026 to avoid accumulation of administrative penalties. Confirms both entities (MBRJ MEDIA - FZCO, WIDE ANGLE INTERNATIONAL - FZCO) are on the FTA CT filing list. No email reply needed (no-reply sender) - the action is the filing itself. UAE_FTA_MBRJ_Reply.md/.docx + UAE_FTA_WideAngle_Reply.md/.docx STILL UNSENT as of this scan (no new ADITED Sent Mail) - SEND BOTH NOW; confirm iLLimite (Shivani Goyal) covers BOTH entities AND both periods in the Sep 30 filing."
   },
   {
    "id": "t28",
@@ -609,12 +609,12 @@
    "status": "in-progress",
    "priority": "high",
    "due": "2026-08-31",
-   "notes": "Aug 21 user self-note (PERSONAL INBOX 346253, sent to own Gmail 23:01 PDT): 'Reply SEND to email it from your Gmail, or send manually from the company mailbox'. Draft READY: /home/aniru/IFZA_MBRJ_Waiver_Reply.md/.docx. Content: (1) accepts license penalty waiver offer; (2) requests ESTABLISHMENT CARD penalty waived on same terms; (3) asks final amount breakdown (license fee + establishment card + govt fees); (4) asks written confirmation that AED 18,000 late penalty (and accruing) is waived in full; (5) asks payment instructions - commits to settling ASAP. Grounded in IFZA Aug 10 email (AED 18,000 figure, ticket ## 5863817 ##). '4 Days to Renew Without Penalty' window (Aug 10) likely passed - June waiver offer should still hold. Send from aniruddha@aditedmotionpictures.com (thread mailbox) or personal Gmail. Related: t27 (UAE CT filing, MBRJ MEDIA TRN 104862644200001). UPDATE Aug 22: CONFIRMED SENT - ADITED Sent Mail 827 (Aug 21, 23:xx PDT) 'Re: [## 5863817 ##] MBRJ MEDIA - FZCO ll LICENSE PENALTY WAIVER' sent from aniruddha@aditedmotionpictures.com. Await IFZA response re: license + establishment card penalty waiver + final amount breakdown. UPDATE Aug 24 (ADITED 22882, renewals@ifza.com, 06:53 PDT): IFZA REPLIED - penalty WAIVER CAMPAIGN HAS ENDED, can no longer waive the outstanding license fines; however a DISCOUNT on applicable penalties MAY still be offered; asks us to contact the corporate service provider (CSP) that assisted with company establishment (B2B model) to coordinate the renewal offer. NEW REPLY DRAFT READY: /home/aniru/IFZA_Renewal_Discount_Reply.md/.docx - ask IFZA to confirm the CSP on record for MBRJ MEDIA - FZCO + the discounted penalty/final renewal amount (license + establishment card + govt fees) + payment instructions; commit to settling promptly. See t91. UPDATE Aug 26 (self-note PERSONAL 367629, 'MBRJ MEDIA - FZCO \u2014 Renewal Reply Drafts (IFZA + Smart Zone)', Aug 26 00:28): user prepared/bundled renewal reply drafts for IFZA + SMART ZONE (likely the CSP that assisted with MBRJ establishment - per IFZA's Aug 24 B2B instruction). Send IFZA_Renewal_Discount_Reply.md/.docx from aniruddha@aditedmotionpictures.com + the Smart Zone draft; see t91."
+   "notes": "Aug 21 user self-note (PERSONAL INBOX 346253, sent to own Gmail 23:01 PDT): 'Reply SEND to email it from your Gmail, or send manually from the company mailbox'. Draft READY: /home/aniru/IFZA_MBRJ_Waiver_Reply.md/.docx. Content: (1) accepts license penalty waiver offer; (2) requests ESTABLISHMENT CARD penalty waived on same terms; (3) asks final amount breakdown (license fee + establishment card + govt fees); (4) asks written confirmation that AED 18,000 late penalty (and accruing) is waived in full; (5) asks payment instructions - commits to settling ASAP. Grounded in IFZA Aug 10 email (AED 18,000 figure, ticket ## 5863817 ##). '4 Days to Renew Without Penalty' window (Aug 10) likely passed - June waiver offer should still hold. Send from aniruddha@aditedmotionpictures.com (thread mailbox) or personal Gmail. Related: t27 (UAE CT filing, MBRJ MEDIA TRN 104862644200001). UPDATE Aug 22: CONFIRMED SENT - ADITED Sent Mail 827 (Aug 21, 23:xx PDT) 'Re: [## 5863817 ##] MBRJ MEDIA - FZCO ll LICENSE PENALTY WAIVER' sent from aniruddha@aditedmotionpictures.com. Await IFZA response re: license + establishment card penalty waiver + final amount breakdown. UPDATE Aug 24 (ADITED 22882, renewals@ifza.com, 06:53 PDT): IFZA REPLIED - penalty WAIVER CAMPAIGN HAS ENDED, can no longer waive the outstanding license fines; however a DISCOUNT on applicable penalties MAY still be offered; asks us to contact the corporate service provider (CSP) that assisted with company establishment (B2B model) to coordinate the renewal offer. NEW REPLY DRAFT READY: /home/aniru/IFZA_Renewal_Discount_Reply.md/.docx - ask IFZA to confirm the CSP on record for MBRJ MEDIA - FZCO + the discounted penalty/final renewal amount (license + establishment card + govt fees) + payment instructions; commit to settling promptly. See t91. UPDATE Aug 26 (self-note PERSONAL 367629, 'MBRJ MEDIA - FZCO — Renewal Reply Drafts (IFZA + Smart Zone)', Aug 26 00:28): user prepared/bundled renewal reply drafts for IFZA + SMART ZONE (likely the CSP that assisted with MBRJ establishment - per IFZA's Aug 24 B2B instruction). Send IFZA_Renewal_Discount_Reply.md/.docx from aniruddha@aditedmotionpictures.com + the Smart Zone draft; see t91."
   },
   {
    "id": "t63",
    "track": "finance",
-   "title": "Visa Fidelity Pension \u2192 Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
+   "title": "Visa Fidelity Pension → Merrill Lynch (ML) IRA rollover - initiate by Aug 31",
    "status": "pending",
    "priority": "high",
    "due": "2026-08-31",
@@ -762,7 +762,7 @@
    "status": "pending",
    "priority": "high",
    "due": "2026-08-31",
-   "notes": "Active thread 'Content Deliveries - Devi Chowdharani' (Aug 14-20): Shivam Pandey (Zee) + Tanmoy. This is the \u20b910L + GST settlement pipeline - complete ALL delivery materials to trigger 40-day payment clock. BGM videos not required per earlier research. UPDATE Aug 26: ALL delivery materials now shared - Tanmoy sent the final pending item (Durgamo Giri Kantar Moru stems link, ADITED 21647) to Shivam Aug 26. Await Shivam's confirmation + Zee final content-delivery update; then push the payment follow-up (see t05). UPDATE Aug 26 (CORRECTED UID): the final stems-link email = ADITED 22916 (Tanmoy -> Shivam, Aug 26 11:57 UTC; earlier noted as '21647' which was a sequence number). Delivery complete - awaiting Shivam confirmation. UPDATE Aug 27 (21679/21680/21682): stems for Durgamo Giri Kantar Moru REJECTED again by Shivam - the shared file was a complete session file, not 16-track/stem files; Tanmoy proposed a direct technical call between Zee's technical person and the Music Director's team; Shivam agreed, Tanmoy coordinating the time. Await stem resolution -> Shivam confirmation -> final content-delivery update -> payment follow-up. UPDATE Aug 28 (21693/21694): Tanmoy requested a 3pm call with Shivam to connect Zee's technical person directly with the Music Director's team for the Durgamo stems; Shivam agreed ('Sure!'). Call coordination in progress - no action from us. Await stem resolution -> Shivam confirmation -> final content-delivery update -> payment follow-up."
+   "notes": "Active thread 'Content Deliveries - Devi Chowdharani' (Aug 14-20): Shivam Pandey (Zee) + Tanmoy. This is the ₹10L + GST settlement pipeline - complete ALL delivery materials to trigger 40-day payment clock. BGM videos not required per earlier research. UPDATE Aug 26: ALL delivery materials now shared - Tanmoy sent the final pending item (Durgamo Giri Kantar Moru stems link, ADITED 21647) to Shivam Aug 26. Await Shivam's confirmation + Zee final content-delivery update; then push the payment follow-up (see t05). UPDATE Aug 26 (CORRECTED UID): the final stems-link email = ADITED 22916 (Tanmoy -> Shivam, Aug 26 11:57 UTC; earlier noted as '21647' which was a sequence number). Delivery complete - awaiting Shivam confirmation. UPDATE Aug 27 (21679/21680/21682): stems for Durgamo Giri Kantar Moru REJECTED again by Shivam - the shared file was a complete session file, not 16-track/stem files; Tanmoy proposed a direct technical call between Zee's technical person and the Music Director's team; Shivam agreed, Tanmoy coordinating the time. Await stem resolution -> Shivam confirmation -> final content-delivery update -> payment follow-up. UPDATE Aug 28 (21693/21694): Tanmoy requested a 3pm call with Shivam to connect Zee's technical person directly with the Music Director's team for the Durgamo stems; Shivam agreed ('Sure!'). Call coordination in progress - no action from us. Await stem resolution -> Shivam confirmation -> final content-delivery update -> payment follow-up."
   },
   {
    "id": "t80",
@@ -1032,7 +1032,16 @@
    "status": "pending",
    "priority": "medium",
    "due": "2026-09-05",
-   "notes": "Aug 27 AND Aug 28 scans both failed with [AUTHENTICATIONFAILED] Invalid credentials using the provided app password. Gmail likely revoked the app password or 2FA/app-password state changed. Regenerate at myaccount.google.com/apppasswords (or have Aparna do it) and update the scan credentials. Until fixed, APARNA is NOT being scanned (last seen: INBOX max 218453, Sent max 7987 as of Aug 27). UPDATE Aug 28 (3rd scan, cron): still [AUTHENTICATIONFAILED] Invalid credentials with the app password supplied in the cron task (yheu ovwl fcva aqzj) - same credentials failing since Aug 27. ACTION REQUIRED: regenerate the APARNA app password (myaccount.google.com/apppasswords) and update the cron scan config; mailbox remains unscanned (INBOX max 218453, Sent max 7987)."
+   "notes": "Aug 27 AND Aug 28 scans both failed with [AUTHENTICATIONFAILED] Invalid credentials using the provided app password. Gmail likely revoked the app password or 2FA/app-password state changed. Regenerate at myaccount.google.com/apppasswords (or have Aparna do it) and update the scan credentials. Until fixed, APARNA is NOT being scanned (last seen: INBOX max 218453, Sent max 7987 as of Aug 27). UPDATE Aug 28 (3rd scan, cron): still [AUTHENTICATIONFAILED] Invalid credentials with the app password supplied in the cron task (yheu ovwl fcva aqzj) - same credentials failing since Aug 27. ACTION REQUIRED: regenerate the APARNA app password (myaccount.google.com/apppasswords) and update the cron scan config; mailbox remains unscanned (INBOX max 218453, Sent max 7987). UPDATE Aug 28 (4th scan, cron): still [AUTHENTICATIONFAILED] Invalid credentials with the app password supplied in the cron task (yheu ovwl fcva aqzj) - 4th consecutive failure since Aug 27. APARNA remains unscanned (INBOX max 218453, Sent max 7987)."
+  },
+  {
+   "id": "t110",
+   "track": "home",
+   "title": "Confirm Sutter Health visit Mon Aug 31 12:40 PM (Dr Neha Anand, Fremont)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-08-31",
+   "notes": "Aug 28 (PERSONAL 346940, no-reply_appt@care.sutterhealth.org): appointment reminder - 'Transfer of Care' visit with Neha Anand, MD at Sutter Family Medicine - Fremont, 3200 Kearney St, Fremont CA 94538 on Aug 31 2026 at 12:40 PM (arrive 12:25 PM). Email asks to CONFIRM the visit (My Health Online app or call 510-490-1222). No email reply possible (no-reply sender)."
   }
  ]
 }
