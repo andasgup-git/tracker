@@ -1186,6 +1186,15 @@
    "priority": "medium",
    "due": "2026-09-11",
    "notes": "Sep 4 (ADITED 23087, Wise <noreply@wise.com>, 11:01 UTC, 'Your money's been sent (#2347592035)'): the Basaf Corp Wise BUSINESS account sent GBP 17,687.98 (~USD 23,881 at 1 USD = 0.7407 GBP; fee USD 120.33) to Cerise Film Ltd. Notification only - no reply possible (no-reply). ACTION: confirm this transfer was expected/authorized (BASAF/BASAF Corp = DC US distributor per t01; Cerise Film Ltd = UK company - check which deal/invoice this pays: film acquisition, rights, or festival/legal related). If NOT recognized, contact Wise support + review Basaf Corp account activity immediately. Receipt downloadable from the Wise account."
+  },
+  {
+   "id": "t127",
+   "track": "dc",
+   "title": "RFF (Rajasthan Film Festival) - unauthorized DC listing: send removal follow-up reply",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-08",
+   "notes": "Sep 3: user sent a formal removal request to rffjaipur@gmail.com (draft reference PERSONAL 368549, sent from the ADITED address) - Devi Chowdhurani was listed/nominated at Rajasthan Film Festival WITHOUT any authorized submission; requested removal of all nomination lists/posts/artwork + written confirmation. Sep 4 (ADITED 23088, Dashrath Joshi, Co-Founder & Chief Programming Director, 16:45 IST): RFF replied - ready to remove individual posts; CANNOT remove DC from one combined multi-film carousel post without affecting the whole post; claims DC is nominated in the BEST FILM category and invites the team to attend the awards; asks how to proceed. REPLY DRAFT READY: /home/aniru/RFF_Removal_Followup_Reply.md/.docx (confirm removal of individual posts/nominations/artwork; carousel = remove whole post if our artwork is in it / OK to leave if text-only mention - USER DECISION; decline the nomination + attendance since no submission was authorized; request written confirmation once done). Send from aniruddha@aditedmotionpictures.com to rffjaipur@gmail.com."
   }
  ]
 }
