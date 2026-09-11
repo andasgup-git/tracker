@@ -1176,7 +1176,7 @@
    "status": "pending",
    "priority": "medium",
    "due": "2026-09-30",
-   "notes": "Sep 4 (PERSONAL 368645, ICICI Bank <information@custcomm.icici.bank.in>, 10:32 IST, 'Updation of Non-Resident status proof in ICICI Bank records for Customer ID XX481'): per RBI Master Direction on KYC, customers must intimate changes in KYC info; ICICI asks to update the NR status proof of ALL account holders on record for Customer ID XX481 (the email names Aniruddha Dasgupta directly - his NRI customer ID; distinct from the XX407 savings / XX7922 auto-loan lien thread in t58). ACTION: submit updated NR status proof (e.g., current visa/OVP/I-797/foreign address proof as applicable) via iMobile/Net Banking or branch; can contact RM via myrm@icicibank.com or 91-22-44400000. No email reply to this broadcast (custcomm sender; ignore only if already updated). KYC - complete within ~30 days to avoid restrictions."
+   "notes": "Sep 4 (PERSONAL 368645, ICICI Bank <information@custcomm.icici.bank.in>, 10:32 IST, 'Updation of Non-Resident status proof in ICICI Bank records for Customer ID XX481'): per RBI Master Direction on KYC, customers must intimate changes in KYC info; ICICI asks to update the NR status proof of ALL account holders on record for Customer ID XX481 (the email names Aniruddha Dasgupta directly - his NRI customer ID; distinct from the XX407 savings / XX7922 auto-loan lien thread in t58). ACTION: submit updated NR status proof (e.g., current visa/OVP/I-797/foreign address proof as applicable) via iMobile/Net Banking or branch; can contact RM via myrm@icicibank.com or 91-22-44400000. No email reply to this broadcast (custcomm sender; ignore only if already updated). KYC - complete within ~30 days to avoid restrictions.\nUPDATE Sep 11 (cron scan, PERSONAL 348407, ICICI Bank <information@custcomm.icici.bank.in>, Fri Sep 11 2026 10:02:59 +0530, 'Updation of Passport details for ICICI Bank Cust ID XX481'): follow-up KYC request (per RBI KYC Master Direction) specific to PASSPORT details - ICICI asks for the passport details of ALL NRI account holders on record for Customer ID XX481 to be updated. Same action channel as before: iMobile / Net Banking / branch; RM myrm@icicibank.com or +91-22-44400000. Broadcast sender - no email reply (ignore only if already submitted). Action window ~30 days. Update BOTH NR-status proof (prior request) AND passport details together."
   },
   {
    "id": "t126",
@@ -1258,6 +1258,15 @@
    "priority": "low",
    "due": "2026-09-30",
    "notes": "Context (ADITED INBOX 23166/23167/23169, Tanmoy <tanmoy.connect@gmail.com> to sudesh@triumphusltd.com, Wed Sep 9 2026 20:29-21:57 IST): Tanmoy shared (a) BFI British Film Certification co-production guidance notes 2025-07 + screenshots of the Auditor Requirements pages (pp. 34-42), (b) CA Certificate + 'FFO SUBMISSION - EXPENSE SHEET.xlsx' for Devi Chowdhurani (India part), and (c) the Interim Application + BFI Auditor Certification template. Indicates DC is being positioned for BFI certification / a UK co-production compliance filing (FFO = 'Final Financial Overview'/BFI cultural-test expense submission). Directed to Sudesh (triumphusltd.com) - Ani not a direct recipient; no reply needed. TRACK: monitor for BFI/UK co-production progression and any request routed to ADITED; relates to t35 (Fourth Dimension agreement) and the DC international-release workstream."
+  },
+  {
+   "id": "t135",
+   "track": "finance",
+   "title": "Bank of America - $30,000 transfer to Basaf Corp scheduled (verify / fund BASAF)",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-09-12",
+   "notes": "Sep 10 (cron scan, PERSONAL 348380, 'Online Transfers from Bank of America' <bankofamericatransfers@mail.transfers.bankofamerica.com>, Thu Sep 10 2026 14:36:15 -0700, 'Funds Transfer Request #631159616 Has Been Scheduled'): BoA scheduled a NEXT-DAY transfer of $30,000.00 to 'Basaf Corp' (fee $0.00). Notification only (automated, do-not-reply). ACTION: confirm the transfer is expected/authorized and that funds are available; verify it settles next business day and leaves sufficient balance for other obligations. Context: BASAF Corp = DC US distribution entity (t01/t40); BASAF capital/investments thread with Lovleen/Bhatia & Co (t21/t78); recent Basaf Corp Wise payment to Cerise Film Ltd GBP 17,687.98 (t126). Receipt/status: bankofamerica.com Review Transfer."
   }
  ]
 }
