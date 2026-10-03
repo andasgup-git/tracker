@@ -1833,7 +1833,7 @@
    "status": "pending",
    "priority": "medium",
    "due": "",
-   "notes": "3 Oct 2026 (mailbox scan #1003, cron): ADITED INBOX UID 23538 + 23540, self-monitoring alerts from aniruddha@aditedmotionpictures.com, Thu 1 Oct 2026, subject 'Indian Panorama 2026 - selection appears to be announced'. IFFIGOA.ORG home page changed and now carries a selection cue. Check/confirm at https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 and https://www.iffigoa.org/indian-panorama/official-selection-non-feature?year=2026 (also pib.gov.in). Festival: 57th IFFI, 20-28 Nov 2026, Goa. Related: t191 (NFDC originals courier)."
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron): ADITED INBOX UID 23538 + 23540, self-monitoring alerts from aniruddha@aditedmotionpictures.com, Thu 1 Oct 2026, subject 'Indian Panorama 2026 - selection appears to be announced'. IFFIGOA.ORG home page changed and now carries a selection cue. Check/confirm at https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 and https://www.iffigoa.org/indian-panorama/official-selection-non-feature?year=2026 (also pib.gov.in). Festival: 57th IFFI, 20-28 Nov 2026, Goa. Related: t191 (NFDC originals courier).\nUPDATE 3 Oct 2026 (mailbox scan #1003b, cron, ~11:57 PT): ADITED INBOX UID 23552 - the self-monitoring alert \"Indian Panorama 2026 - selection appears to be announced\" fired AGAIN (run 7, Sat 03 Oct 09:00:38 -0700, from aniruddha@aditedmotionpictures.com to self). iffgoa.org home page still carries the selection cue. Still need to manually confirm DC on https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 (+ pib.gov.in). No email reply (self-alert)."
   },
   {
    "id": "t195",
@@ -1842,7 +1842,7 @@
    "status": "pending",
    "priority": "medium",
    "due": "",
-   "notes": "3 Oct 2026 (mailbox scan #1003, cron): APARNA mailbox login FAILED again with [AUTHENTICATIONFAILED] Invalid credentials. App password supplied in the cron task (yheu ovwl fcva aqzj) is rejected (tried spaced + unspaced). APARNA INBOX + Sent Mail have been UNSCANNED since at least 29 Sep. ACTION: regenerate a new Google app password for apu.dg1@gmail.com (Google Account > Security > 2-Step Verification > App passwords) and update the cron task. Same failure first logged in scan_0929f / state aparna_status."
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron): APARNA mailbox login FAILED again with [AUTHENTICATIONFAILED] Invalid credentials. App password supplied in the cron task (yheu ovwl fcva aqzj) is rejected (tried spaced + unspaced). APARNA INBOX + Sent Mail have been UNSCANNED since at least 29 Sep. ACTION: regenerate a new Google app password for apu.dg1@gmail.com (Google Account > Security > 2-Step Verification > App passwords) and update the cron task. Same failure first logged in scan_0929f / state aparna_status.\nUPDATE 3 Oct 2026 (mailbox scan #1003b, cron, ~11:57 PT): APARNA (apu.dg1@gmail.com) login STILL FAILS with [AUTHENTICATIONFAILED] Invalid credentials - retried as-given, spaces-stripped and hyphen variants (2 attempts each). Confirms the app password in the cron task is dead. Regenerate a new Google app password and update the cron task. APARNA INBOX + Sent Mail remain UNSCANNED."
   }
  ]
 }
