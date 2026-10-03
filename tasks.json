@@ -1798,6 +1798,51 @@
    "priority": "medium",
    "due": "",
    "notes": "Sep 29 2026 (mailbox scan scan_0929f, cron, 10:38 PT): ADITED INBOX UID 23509, Amir Moini <amoini@tubi.tv>, Tue 29 Sep 2026 09:40:29 -0700, subject 'Re: Please route: Confluence 2027 invitation for Anjali Sud'. Amir: 'Thank you for reaching out. Unfortunately Anjali will be unavailable during these dates, but we appreciate you thinking of her.' - TUBI POLITE DECLINE for the Apr 9-11 2027 Confluence AI in Media-tech summit. Ani ALREADY replied 2026-09-29 09:45 PT (ADITED Sent Mail UID 1019): 'Thank you for getting back to me... We'd be delighted to reconnect for a future opportunity. Please pass along my thanks to Anjali as well.' RESPONSE HANDLED - no draft needed. Remaining action: continue Confluence 2027 speaker outreach to an alternate streaming-platform executive (Tubi/other OTT leadership). Related: t08 (Confluence Media vertical proposal)."
+  },
+  {
+   "id": "t191",
+   "track": "dc",
+   "title": "NFDC Indian Panorama 2026 - Devi Chowdhurani: courier original signed IP1/IP2/8.2c + Adited ID proof; confirm producer credit",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-10-06",
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron, ~08:45 PT): ADITED INBOX UID 23541, Indian Panorama <indianpanorama@nfdcindia.com> (Shyam R Raghavendran), Fri 2 Oct 2026 11:51:09 +0530, subject \"Re: URGENT - Request to submit the correct online screener of the film 'Devi Chowdhurani' for IP, 2026, 57th IFFI, Goa\". Asks: (1) Form IP1, IP2 and 8.2c Declaration letter received were XEROX copies - send ORIGINAL, physically signed copies to NFDC office LATEST BY 6 OCTOBER 2026; (2) share ID proof of the production house Adited Motion Pictures; (3) confirm producer names to be credited on the certificate if officially selected (application form only lists Aparna Dasgupta). REPLY DRAFT READY: /home/aniru/IP_Devi_Chowdhurani_Originals_Reply.md/.docx (to indianpanorama@nfdcindia.com, Cc aparna@aditedmotionpictures.com). UNSENT - send from aniruddha@aditedmotionpictures.com. Thread is a reply to Aparna Dasgupta's 20 Sep email re: certified duration 134.16 min. Related: t194 (verify IP selection), BFI co-production (t??)."
+  },
+  {
+   "id": "t192",
+   "track": "finance",
+   "title": "IFZA - sign digital document 'SF - WIDE ANGLE INTERNATIONAL - FZCO' via Zoho Sign (expires 15 Oct 2026)",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-10-15",
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron): ADITED INBOX UID 23525, IFZA Dubai <partner@ifza.com>, Wed 30 Sep 2026 17:48:47 -0700, subject 'IFZA requests you to sign SF - WIDE ANGLE INTERNATIONAL - FZCO 01-Oct-2026 04:48:37'. Automated Zoho Sign digital signature request (SF = signed form). Expires on 15 Oct 2026. ACTION: open the signing link and sign the Wide Angle International FZCO document. Sender queries -> partner@ifza.com. Related: t186 (IFZA MBRJ Media renewal), Wide_Angle_IFZA_License_Renewal_Reply.md, Judge_Group_Marketing_Manager_SF_Reply.md."
+  },
+  {
+   "id": "t193",
+   "track": "finance",
+   "title": "Zee Entertainment - Rs 10,80,000 payment credited to Adited (ICICI ref ICICR22026100319137033) - reconcile with Zee Music/DC invoice",
+   "status": "pending",
+   "priority": "medium",
+   "due": "",
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron): ADITED INBOX UID 23550, <ipaycheck@icici.bank.in>, Sat 03 Oct 2026 10:16:54 GMT, subject 'ICICI BANK E-Payment for M/s ADITED MOTIONPICTURES LLP - 42000356232026'. ICICI Bank - CMS Disbursements confirms it CREDITED Adited account XXXXXXXX9924 with Rs 1,080,000 (Ten Lakh Eighty Thousand Only), Payment Ref No. ICICR22026100319137033, on behalf of ZEE ENTERTAINMENT ENTERPRISES LIMITED. ACTION: confirm receipt in Adited books and reconcile against the Zee Music/DC delivery-materials + payment invoice. Related: Zee_Stems_Invoice_Reply.md, Zee Music delivery materials/payment context."
+  },
+  {
+   "id": "t194",
+   "track": "dc",
+   "title": "Confirm Devi Chowdhurani in Indian Panorama 2026 official selection (iffigoa.org) - monitoring alert 1 Oct",
+   "status": "pending",
+   "priority": "medium",
+   "due": "",
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron): ADITED INBOX UID 23538 + 23540, self-monitoring alerts from aniruddha@aditedmotionpictures.com, Thu 1 Oct 2026, subject 'Indian Panorama 2026 - selection appears to be announced'. IFFIGOA.ORG home page changed and now carries a selection cue. Check/confirm at https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 and https://www.iffigoa.org/indian-panorama/official-selection-non-feature?year=2026 (also pib.gov.in). Festival: 57th IFFI, 20-28 Nov 2026, Goa. Related: t191 (NFDC originals courier)."
+  },
+  {
+   "id": "t195",
+   "track": "studio",
+   "title": "Aparna mailbox (apu.dg1@gmail.com) - cron scan login failing; regenerate Gmail app password",
+   "status": "pending",
+   "priority": "medium",
+   "due": "",
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron): APARNA mailbox login FAILED again with [AUTHENTICATIONFAILED] Invalid credentials. App password supplied in the cron task (yheu ovwl fcva aqzj) is rejected (tried spaced + unspaced). APARNA INBOX + Sent Mail have been UNSCANNED since at least 29 Sep. ACTION: regenerate a new Google app password for apu.dg1@gmail.com (Google Account > Security > 2-Step Verification > App passwords) and update the cron task. Same failure first logged in scan_0929f / state aparna_status."
   }
  ]
 }
