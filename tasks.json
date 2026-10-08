@@ -1942,6 +1942,24 @@
    "priority": "low",
    "due": "2026-10-12",
    "notes": "Scan 1008 (Oct 8 2026): PERSONAL INBOX UID 372069, 'communication@quant.in' (Thu, 8 Oct 2026 02:33:43 +0530 IST), 'Important Update: Declaration Required for US and Canada NRI Investments'. Effective Oct 12 2026, all NRI investments originating from the US and Canada are accepted ONLY if accompanied by the mandatory declaration form (download at quantmutual.com/downloads/forms). ACTION: if continuing SIPs/investments with quant as a US-based NRI, download + submit the declaration to avoid delays/rejections. Bulk/no-reply notice. Related: UID 372112 'quant's Three Maiden Index Funds - NFOs Open on October 12, 2026' (new-index-fund marketing)."
+  },
+  {
+   "id": "t207",
+   "track": "finance",
+   "title": "Vedanta Ltd - TDS notice on 1st Interim Dividend 2026-27 (shareholder Kamal Dasgupta): verify PAN-Aadhaar linked",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-10-14",
+   "notes": "Scan 1008b (Oct 8 2026): PERSONAL INBOX UID 372148, VEDANTA LIMITED <vedanta.ltd@kfintech.com> (Thu, 08 Oct 2026 19:16:39 +0000), 'Vedanta Limited - Information Required on Tax Deduction at Source (TDS) on 1st Interim Dividend 2026-27'. Addressed to Member KAMAL DASGUPTA (Folio / DP ID & Client ID: IN303028 55816464). Rs 5/- per equity share (FV Rs 1) 1st interim dividend for FY2026-27; record date Wed 14-Oct-2026. Dividend taxable in shareholder hands; co. will deduct TDS at prescribed rates depending on residential status / exemptions / documentary requirements. KEY ACTION: ensure PAN is updated with KFintech (physical) / Depositories-DP (demat) and that PAN is linked with Aadhaar - per Sec 262 of the (new) Income-tax Act, unlinked/inoperative PAN triggers TDS at 20% (Sec 397(2)). Sender is the RTA bulk notice (kfintech.com) - no reply draft. ACTION: verify PAN-Aadhaar linkage for Kamal Dasgupta before 14-Oct-2026 to avoid the 20% rate; update bank mandate/email if needed. Related: family/dividend holdings."
+  },
+  {
+   "id": "t208",
+   "track": "job",
+   "title": "E-Solutions Inc (Aditi Singh) - Senior Software Engineer, Ruby on Rails (Sacramento/Sunnyvale/Austin, full-time): reply draft ready",
+   "status": "pending",
+   "priority": "low",
+   "due": "",
+   "notes": "Scan 1008b (Oct 8 2026): PERSONAL INBOX UID 372153, Aditi Singh <aditi.s@e-solutionsinc.com> (Thu, 8 Oct 2026 20:08:39 +0000), 'Urgent Hiring Job Software Engineer - Ruby on Rails is shared with you'. Role: Senior Software Engineer - Ruby on Rails, locations Sacramento CA / Sunnyvale CA / Austin TX (Hybrid), Full-time. Requires 5+ yrs SWE, Ruby on Rails mandatory; REST APIs, PostgreSQL/MySQL, Git; preferred Java, Go, cloud (AWS/Azure/GCP), Docker/CI-CD. Recruiter M +1 (408) 428-1376; E-Solutions Inc, HQ San Jose CA. Form-letter agency outreach. REPLY DRAFT READY: /home/aniru/Aditi_Singh_Ruby_Rails_SE_Reply.md + .docx (send from aniruddha.dg1@gmail.com). Related: t172 (Judge Group), t205 (Karoni), t158 (Envision Tech Solutions)."
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -1951,5 +1969,7 @@
  "last_scan_1005": "2026-10-05 08:25 PT",
  "last_scan_1005c": "2026-10-05 10:34 PT",
  "last_scan_1008": "2026-10-08",
- "last_scan_1008_findings": "Scan 1008 (Oct 8 2026, SINCE 06-Oct). PERSONAL INBOX window 278 (371844-372127); PERSONAL Sent 4 (10228-10231, self-sends); ADITED INBOX window 33 (23593-23625); ADITED Sent 2 (1025-1026, self-sends). 27 NEW non-noise. 2 reply drafts prepared: (a) Judge Group / Arjun Sharma - Software Engineer III San Jose (UID 372127) -> /home/aniru/Judge_Group_Software_Engineer_SJ_Reply.md; (b) Karoni Inc / Awadhesh Kumar - Sr Engineering Manager SF (UID 372118) -> /home/aniru/Karoni_Engineering_Manager_SF_Reply.md. 2 new tasks (t204 Swyft annual-report reminder, t205 Karoni job, t206 quant NRI declaration). Updates: t203 ICICI Money2World USD 55,010.22 COMPLETED + credited 08-Oct; t172 new Judge role; t202 Capital One $306.59 due Oct 13 (autopay). APARNA login STILL FAILS (AUTHENTICATIONFAILED) - mailbox unscanned."
+ "last_scan_1008_findings": "Scan 1008 (Oct 8 2026, SINCE 06-Oct). PERSONAL INBOX window 278 (371844-372127); PERSONAL Sent 4 (10228-10231, self-sends); ADITED INBOX window 33 (23593-23625); ADITED Sent 2 (1025-1026, self-sends). 27 NEW non-noise. 2 reply drafts prepared: (a) Judge Group / Arjun Sharma - Software Engineer III San Jose (UID 372127) -> /home/aniru/Judge_Group_Software_Engineer_SJ_Reply.md; (b) Karoni Inc / Awadhesh Kumar - Sr Engineering Manager SF (UID 372118) -> /home/aniru/Karoni_Engineering_Manager_SF_Reply.md. 2 new tasks (t204 Swyft annual-report reminder, t205 Karoni job, t206 quant NRI declaration). Updates: t203 ICICI Money2World USD 55,010.22 COMPLETED + credited 08-Oct; t172 new Judge role; t202 Capital One $306.59 due Oct 13 (autopay). APARNA login STILL FAILS (AUTHENTICATIONFAILED) - mailbox unscanned.",
+ "last_scan_1008b": "2026-10-08",
+ "last_scan_1008b_findings": "Scan 1008b (Oct 8 2026 ~14:00 PT, SINCE 06-Oct; second run of the day after 09:41 #1008). PERSONAL INBOX window 308 (371844-372157); ADITED INBOX window 38 (23593-23630). 12 NEW non-noise. 1 reply draft prepared: Aditi Singh / E-Solutions Inc - Senior SWE Ruby on Rails (UID 372153) -> /home/aniru/Aditi_Singh_Ruby_Rails_SE_Reply.md. 1 new finance task: t207 Vedanta TDS notice on 1st Interim Dividend 2026-27 (Kamal Dasgupta folio; verify PAN-Aadhaar linkage before 14-Oct record date). 1 new job task: t208. Rest non-actionable (CheapOair/Sesame Place/Aditya Birla MF/Capital One Savor/FOX Sports/banking2day spam/Variety x2/Zhive Media webinar). APARNA login STILL FAILS (AUTHENTICATIONFAILED) - unscanned."
 }
