@@ -2197,6 +2197,15 @@
    "due": "2026-10-31",
    "title": "Personal Dropbox out of storage + Google Workspace pooled storage warnings (both Gmail accounts)",
    "notes": "Mailbox scan 1026 (Oct 26 2026): PERSONAL INBOX Dropbox <no-reply@em-s.dropbox.com> 'Action suggested: Aniruddha, your account is out of storage space' (Mon 26 Oct 2026), plus repeated Google Workspace 'Approaching pooled storage limit' notices on PERSONAL and ADITED (ADITED 26 Oct 06:11 PT). ACTION: clear/upgrade Dropbox personal plan (uploads will start failing), and prune large mail/drive items or buy storage for the Workspace pool. Related: t229 (ADITED Dropbox workspace, closed Oct 25 after freeing space)."
+  },
+  {
+   "id": "t240",
+   "track": "finance",
+   "title": "BoA Business Advantage Unlimited Cash Rewards Mastercard approved (ref 4231235058) - activate when card arrives",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-11-09",
+   "notes": "Email received Oct 26 2026 (PERSONAL INBOX UID 373811, onlinebanking@ealerts.bankofamerica.com): application APPROVED for Bank of America Business Advantage Unlimited Cash Rewards Mastercard, reference # 4231235058. Physical card arrives in 7-10 business days (white envelope, BoA logo) - activate using enclosed instructions. Optional: temporary virtual card available now via BoA mobile app Menu > Manage Cards > Get card info. If application not recognized, call 800-892-3219. Likely tied to BASAF Corp / Universal Organic business banking (see t105, t116). Next: on arrival activate, add card to expense tracking + autopay, note credit limit and cash-rewards category."
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
