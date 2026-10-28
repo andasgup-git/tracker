@@ -300,10 +300,10 @@
    "id": "t28",
    "track": "home",
    "title": "Ariana music - contact Sky Castle Music + provide Aricka's info (RCEB)",
-   "status": "pending",
+   "status": "in-progress",
    "priority": "high",
-   "due": "2026-08-19",
-   "notes": "RCEB case manager Aricka (atasabia@rceb.org, 510-618-6405): June/July music reimbursements are ONE TIME; vendor change to Sky Castle Music (skycastlemusics.com). Contact them, say Ariana is RCEB client, then share Aricka's info. 2-3 week authorization wait. Reply draft: /home/aniru/Ariana_RCEB_Reimbursement_Reply.docx"
+   "due": "2026-10-29",
+   "notes": "RCEB case manager Aricka (atasabia@rceb.org, 510-618-6405): June/July music reimbursements are ONE TIME; vendor change to Sky Castle Music (skycastlemusics.com). Contact them, say Ariana is RCEB client, then share Aricka's info. 2-3 week authorization wait. Reply draft: /home/aniru/Ariana_RCEB_Reimbursement_Reply.docx\nUPDATE 28 Oct 2026 (scan 1028): thread is moving - Aricka Tasabia (RCEB) opened the POS request with SkyCastle (APARNA UID 223199, Ariana UCI 8056425), Yuyi at SkyCastle asked Aparna to complete the enrollment form https://forms.gle/YxBawfkH835koVHy6 and book a phone call (UID 223230), and new case manager Lidia Sanchez confirmed she needs the POS request email after the family meets SkyCastle (UID 223232). Reply draft ready: /home/aniru/Ariana_SkyCastle_Music_Enrollment_Reply.md (+ .docx) - offers Thu 29 Oct 10-11am or Fri 30 Oct after 4:15pm, cc Lidia."
   },
   {
    "id": "t29",
@@ -1830,10 +1830,10 @@
    "id": "t194",
    "track": "dc",
    "title": "Confirm Devi Chowdhurani in Indian Panorama 2026 official selection (iffigoa.org) - monitoring alert 1 Oct",
-   "status": "pending",
-   "priority": "medium",
+   "status": "in-progress",
+   "priority": "high",
    "due": "",
-   "notes": "3 Oct 2026 (mailbox scan #1003, cron): ADITED INBOX UID 23538 + 23540, self-monitoring alerts from aniruddha@aditedmotionpictures.com, Thu 1 Oct 2026, subject 'Indian Panorama 2026 - selection appears to be announced'. IFFIGOA.ORG home page changed and now carries a selection cue. Check/confirm at https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 and https://www.iffigoa.org/indian-panorama/official-selection-non-feature?year=2026 (also pib.gov.in). Festival: 57th IFFI, 20-28 Nov 2026, Goa. Related: t191 (NFDC originals courier).\nUPDATE 3 Oct 2026 (mailbox scan #1003b, cron, ~11:57 PT): ADITED INBOX UID 23552 - the self-monitoring alert \"Indian Panorama 2026 - selection appears to be announced\" fired AGAIN (run 7, Sat 03 Oct 09:00:38 -0700, from aniruddha@aditedmotionpictures.com to self). iffgoa.org home page still carries the selection cue. Still need to manually confirm DC on https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 (+ pib.gov.in). No email reply (self-alert).\nOct 4 2026 (mailbox scan #97/1004b, ~08:26 PT): no change to the selection signal - the self-monitoring alert (ADITED 23552, run 7) remains the only IP-selection cue; still verify DC on https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 (+ pib.gov.in). The NFDC screener/forms reply was sent (see t191). No email reply (self-alert)."
+   "notes": "3 Oct 2026 (mailbox scan #1003, cron): ADITED INBOX UID 23538 + 23540, self-monitoring alerts from aniruddha@aditedmotionpictures.com, Thu 1 Oct 2026, subject 'Indian Panorama 2026 - selection appears to be announced'. IFFIGOA.ORG home page changed and now carries a selection cue. Check/confirm at https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 and https://www.iffigoa.org/indian-panorama/official-selection-non-feature?year=2026 (also pib.gov.in). Festival: 57th IFFI, 20-28 Nov 2026, Goa. Related: t191 (NFDC originals courier).\nUPDATE 3 Oct 2026 (mailbox scan #1003b, cron, ~11:57 PT): ADITED INBOX UID 23552 - the self-monitoring alert \"Indian Panorama 2026 - selection appears to be announced\" fired AGAIN (run 7, Sat 03 Oct 09:00:38 -0700, from aniruddha@aditedmotionpictures.com to self). iffgoa.org home page still carries the selection cue. Still need to manually confirm DC on https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 (+ pib.gov.in). No email reply (self-alert).\nOct 4 2026 (mailbox scan #97/1004b, ~08:26 PT): no change to the selection signal - the self-monitoring alert (ADITED 23552, run 7) remains the only IP-selection cue; still verify DC on https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 (+ pib.gov.in). The NFDC screener/forms reply was sent (see t191). No email reply (self-alert).\nUPDATE 28 Oct 2026 (scan 1028): monitoring alert fired (ADITED INBOX UID 23913, self-note \"Indian Panorama 2026 - selection appears to be announced\", detected 2026-10-28): iffigoa.org Indian Panorama pages now carry a 2026 selection cue. ACTION: open https://www.iffigoa.org/indian-panorama/official-selection-feature?year=2026 and .../official-selection-non-feature?year=2026, confirm whether Devi Chowdhurani is listed, cross-check pib.gov.in. Festival 57th IFFI, 20-28 Nov 2026, Goa."
   },
   {
    "id": "t195",
@@ -2286,6 +2286,66 @@
    "title": "Bank of America - 'application approved' credit alert on PERSONAL acct (verify it was you)",
    "notes": "27 Oct 2026 (scan 1027, PERSONAL INBOX): 10:29 PT 'Congratulations, your application has been approved!' from customer.assistance.bac@assist.bankofamerica.com (DKIM dkim=pass s=pep, SPF pass - genuine BofA domain) + 10:43 PT 'We've sent your wire' from onlinebanking_ealerts@bankofamerica.com. Also a Medallia call-survey referencing 'BASAF CORPORATION' and rep CARMEN H (so a call happened recently). ACTION: log into BoA, identify WHICH application was approved (new credit line/card?) and confirm the wire amount/payee matches what was intended; if the application was not expected, treat as identity theft - call BoA fraud line. Related open items: t135 ($30k to Basaf Corp), t150/t162/t184 BASAF wires.",
    "created": "2026-10-27 09:2x PT (scan 1027)"
+  },
+  {
+   "id": "t249",
+   "track": "dc",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-10-30",
+   "title": "NFDC Film Bazaar 2026 - Market Screenings booking closes Fri 30 Oct (Rs 20,000/screening, 20-24 Nov Goa)",
+   "notes": "28 Oct 2026 17:26 IST (scan 1028, ADITED INBOX UID 23906), Mohit Khanna <screenings@nfdcindia.com>, \"Call For Entries - Market Screenings\": NFDC 20th Film Bazaar / Waves, 20-24 Nov 2026 Goa. Rs 20,000 incl. taxes per screening for films above 60 min (Rs 10,000 below 60). Bookings open until 30 Oct 2026, first come first served - delegate registration at films.wavesbazaar.com + FAQ PDF on the site. ACTION: decide whether to screen Devi Chowdhurani (134 min) in the market; confirm with Mohit whether an already-screened film (Indian Panorama/IFFI) is eligible before paying. Draft ready: /home/aniru/NFDC_Market_Screenings_2026_Reply.md (+ .docx) - send from aniruddha@aditedmotionpictures.com. Related: t07 (accreditation), t166 (Co-Production Market).",
+   "created": "2026-10-28 10:3x PT (scan 1028)"
+  },
+  {
+   "id": "t250",
+   "track": "finance",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-10-28",
+   "title": "Adited Motionpictures LLP - GSTR-3B for Sept 2026 NOT filed; GSTR-3A notice u/s 46 (get CA to file today)",
+   "notes": "27 Oct 2026 11:18 PDT (scan 1028, ADITED INBOX UID 23897) - Aparna forwarded GSTN <donotreply@gst.gov.in> notice: \"Notice to return defaulters u/s 46 for not filing GSTR-3B for return period September, 2026\", Adited Motionpictures LLP GSTIN 19ACEFA1274C1ZR, Form GSTR-3A Ref ZA191026123582P dated 27/10/2026, visible on portal under Services > User Services > View Notices and Orders. ACTION: (1) check portal whether Sept 2026 GSTR-3B was actually filed (notice self-closes if so, per \"please ignore if filed\"); (2) if not, have CA file immediately - late fee Rs 50/day + 18% p.a. interest, escalation risk to best-judgment assessment u/s 62; (3) confirm Aug/Oct filings are clean. Internal reply draft ready: /home/aniru/Adited_GSTR3B_Sept2026_Reply.md (+ .docx).",
+   "created": "2026-10-28 10:3x PT (scan 1028)"
+  },
+  {
+   "id": "t251",
+   "track": "finance",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-11-10",
+   "title": "Vedanta Iron & Steel Ltd - postal ballot notice + remote e-voting (shareholder Kamal Dasgupta, folio IN303028 55816464)",
+   "notes": "28 Oct 2026 13:57 UTC (scan 1028, PERSONAL INBOX UID 374004), cs.visl@kfintech.com (KFin Technologies for Vedanta Iron And Steel Ltd, CIN L24109MH2023PLC411777): postal ballot notice seeking approval of material related party transactions for the Company and subsidiaries Sesa Resources, Sesa Mining, Bloom Fountain, ESL Steel etc. (all Ordinary resolutions), remote e-voting via KFin/NSDL. Same pattern as t182 (Vedanta Power) and t185 (Vedanta Oil & Gas). ACTION: open the e-voting link with the folio/client ID above, vote before the cutoff stated in the notice, and file the voting receipt with the other Vedanta confirmations.",
+   "created": "2026-10-28 10:3x PT (scan 1028)"
+  },
+  {
+   "id": "t252",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-03",
+   "title": "Ariana - e-sign IEP document from Mrs. Kopenski (Kitayama Elementary); password KITrm19AD!; link expires 3 Nov 2026 3:36 PM",
+   "notes": "27 Oct 2026 16:36 PDT (scan 1028, APARNA INBOX UID 223229 from Samantha Kopenski <skopenski@nhusd.k12.ca.us>, \"IEP document\" + UID 223228 noreply@seissign.org \"You are invited to sign an electronic document\" for A. Dasgupta): SEIS e-signature packet, password KITrm19AD! (sent by Mrs. Kopenski), link expires 11/3/2026 3:36:07 PM. ACTION: open the SEIS Sign link from the 223228 email, sign with the password, download the completed PDF to /home/aniru/mailscan_dump/ and confirm to Mrs. Kopenski. Do this before the expiry - the IEP is the document the aide/FBA/OT requests (t176) depend on.",
+   "created": "2026-10-28 10:3x PT (scan 1028)"
+  },
+  {
+   "id": "t253",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-15",
+   "title": "Ariana SDP onboarding (RCEB/Lidia) - complete SDP Orientation Parts 1 & 2, find Independent Facilitator",
+   "notes": "27 Oct 2026 (scan 1028, APARNA INBOX UIDs 223196/223198/223206): new RCEB case manager Lidia Sanchez <lsanchez@rceb.org> (510-618-6169) took over from Aricka Tasabia; SDP steps she laid out: (1) register + complete SDP Orientation Parts 1 & 2 at scdd.ca.gov/sdp-orientation; (2) email both completion certificates to Lidia; (3) find an Independent Facilitator via thecasdpnetwork.org (IF helps select an FMS agency and develop the Person Centered Plan); (4) IPP meeting -> budget draft -> SDP team assigns specialist -> budget signature -> spending plan. Note from Lidia: anything NOT approved under the traditional model cannot be added to the SDP budget. ACTION: Aparna to register for orientation this week. Courtesy reply draft: /home/aniru/Ariana_SDP_Onboarding_Lidia_Reply.md (+ .docx).",
+   "created": "2026-10-28 10:3x PT (scan 1028)"
+  },
+  {
+   "id": "t254",
+   "track": "home",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-12-31",
+   "title": "Ariana - send new gHIP insurance member ID to WSA Therapy (Edna) before 1 Jan switch",
+   "notes": "27 Oct 2026 (scan 1028, APARNA INBOX UIDs 223213/223215), Edna Joyce <admin@wsabatherapy.com> (747-307-3892): billing needs the new insurance member ID to verify benefits under the gHIP plan (Anthem network) replacing the Anthem PPO effective 1 Jan 2027 - ABA therapy continuity. Aparna already replied that the ID will follow when issued, so no further reply needed now; chase the ID when Google issues it and forward to admin@wsabatherapy.com, plus update Pacific Homecare/IHSS records.",
+   "created": "2026-10-28 10:3x PT (scan 1028)"
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -2368,5 +2428,7 @@
  "last_scan_1027": "2026-10-27 09:2x PT mailbox scan: 109 new msgs (PERSONAL 40, ADITED 28, APARNA 41); 0 reply drafts needed; 2 new tasks",
  "last_scan_1027_run": "scan1027",
  "last_scan_1027_result": "3 action items, 0 reply drafts",
- "last_scan_1027_findings": "Scan 1027 (Oct 27 2026 09:2x PT, UID-based). Since Oct 26 16:58: PERSONAL 68 new UIDs 373843-373911 (all marketing/noreply except Pradyot Kar calendar CANCEL for Wed Oct 28 catch-up -> closes t241; realtor cold outreach; bank alerts). ADITED 16 new UIDs 23881-23896: Apple Card dispute D-25777239 DENIED (Emirates $1,424.67, temp credit reversed) -> t244; self-monitor note Indian Panorama 2026 selection announced -> t245; rest American Banker/Variety/AFM/HDFC/CII marketing. APARNA 32 new UIDs 223153-223184: Stanford Children's MyChart new message for Ariana -> t246; rest retail/promo/sold alerts. No Sent Mail activity in any account. APARNA prompt password still AUTHENTICATIONFAILED (54th+); used env var GMAIL_APARNA_APP_PASSWORD."
+ "last_scan_1027_findings": "Scan 1027 (Oct 27 2026 09:2x PT, UID-based). Since Oct 26 16:58: PERSONAL 68 new UIDs 373843-373911 (all marketing/noreply except Pradyot Kar calendar CANCEL for Wed Oct 28 catch-up -> closes t241; realtor cold outreach; bank alerts). ADITED 16 new UIDs 23881-23896: Apple Card dispute D-25777239 DENIED (Emirates $1,424.67, temp credit reversed) -> t244; self-monitor note Indian Panorama 2026 selection announced -> t245; rest American Banker/Variety/AFM/HDFC/CII marketing. APARNA 32 new UIDs 223153-223184: Stanford Children's MyChart new message for Ariana -> t246; rest retail/promo/sold alerts. No Sent Mail activity in any account. APARNA prompt password still AUTHENTICATIONFAILED (54th+); used env var GMAIL_APARNA_APP_PASSWORD.",
+ "last_scan_1028": "2026-10-28 10:35 PT - scanned PERSONAL/ADITED/APARNA INBOX+Sent since 26-Oct-2026 (APARNA required GMAIL_APARNA_APP_PASSWORD env value; the password in the job prompt is stale, t195 remains resolved). 4 reply drafts prepared (NFDC market screenings, SkyCastle enrollment, Adited GSTR-3B, Ariana SDP); 6 new tasks added.",
+ "last_scan_1028_findings": "ADITED: GSTR-3B Sept 2026 default notice u/s 46 (UID 23897) - file immediately; NFDC Market Screenings call for entries, closes 30 Oct (UID 23906); Indian Panorama 2026 selection alert (UID 23913, self-note). APARNA: IEP e-sign packet from Mrs. Kopenski, expires 3 Nov, pw KITrm19AD! (UIDs 223228/223229); new RCEB case manager Lidia Sanchez + SDP onboarding steps (UIDs 223196/223206); SkyCastle music enrollment form + call request (UID 223230); WSA Therapy needs gHIP member ID before 1 Jan (UIDs 223213/223215); ArDa parent session Fri 30 Oct 3:15pm (UID 223265, optional attendance). PERSONAL: Vedanta Iron & Steel postal ballot e-voting for Kamal Dasgupta folio (UID 374004); rest promotional/newsletter noise. Machine noise noted: sender \"Audien Hearing <support@audienhearing.com>\" and similar are marketing; 4imprint Advance Notification = print order shipping notice (FYI)."
 }
