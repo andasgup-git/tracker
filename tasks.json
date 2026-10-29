@@ -309,10 +309,10 @@
    "id": "t29",
    "track": "home",
    "title": "Ariana speech therapy - switch to Medi-Cal accepting therapist at Seven Bridges",
-   "status": "pending",
+   "status": "in-progress",
    "priority": "high",
    "due": "2026-08-19",
-   "notes": "Aparna emailed Seven Bridges Aug 12: Blue Cross (Anthem) out of network, Lisa doesn't accept Medi-Cal; requested switch to a therapist accepting Medi-Cal/Santa Clara Family Health Plan. Ariana already missed therapy. Follow up if no response in a few days (Scheduling@sevenbridgestherapy.com, 925-222-5353)."
+   "notes": "Aparna emailed Seven Bridges Aug 12: Blue Cross (Anthem) out of network, Lisa doesn't accept Medi-Cal; requested switch to a therapist accepting Medi-Cal/Santa Clara Family Health Plan. Ariana already missed therapy. Follow up if no response in a few days (Scheduling@sevenbridgestherapy.com, 925-222-5353). || Oct 29 2026 16:06 PT (APARNA INBOX UID 223372): Seven Bridges BILLING replied to Aparna's 12:10 PM email - 'we would be happy to welcome you back and resume services', but scheduling is blocked on outstanding billing: 5 unpaid dates of service 6/23/26, 6/29/26, 7/06/26, 7/27/26, 7/29/26 (claims insurance did not process or paid incorrectly); they will refund via Zelle/Venmo if insurance later pays. Reply drafted: /home/aniru/SevenBridges_Speech_Resume_Billing_Reply.md (+ .docx) - asks for itemized statement + superbills, asks to schedule in parallel, asks for earliest SLP with afternoon/Friday slots."
   },
   {
    "id": "t30",
@@ -2374,6 +2374,36 @@
    "title": "NFDC WAVES Film Bazaar 2026 - Market Screening booking for Devi Chowdhurani (deadline 30 Oct, first-come)",
    "notes": "29 Oct 2026 11:4x PT (mailbox scan 1029b, ADITED INBOX UID 23906), Mohit Khanna <screenings@nfdcindia.com>, Wed 28 Oct 2026 17:26 IST, subj 'Call For Entries - Market Screenings'. Market screenings at NFDC 20th Film Bazaar 2026, Goa 20-24 Nov 2026. Fees: Rs 20,000 per screening for films above 60 min, Rs 10,000 below 60 min (incl. taxes). Bookings open until 30 Oct 2026, FIRST COME FIRST BASIS. Register as delegate: https://films.wavesbazaar.com/participate/attend-as-a-delegate/registration/industry-regulation/ ; FAQ https://films.wavesbazaar.com/media/3985/ms_faqs-2026.pdf ; programme/market-screenings. Contact screenings@nfdcindia.com / +91 7394999576. Reply draft prepared asking for slot availability + invoice + screener specs: /home/aniru/NFDC_Market_Screening_WAVES_Reply.md (+ .docx). Related: t07 (accreditation/meetings), t166 (Co-Production Market), t226 (delegate waiver code INR 9,000).",
    "created": "2026-10-29 11:4x PT (scan 1029b)"
+  },
+  {
+   "id": "t258",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-10-30",
+   "title": "Seven Bridges - settle 5 unpaid SLP dates (6/23, 6/29, 7/6, 7/27, 7/29/26) + get Ariana rescheduled",
+   "notes": "29 Oct 2026 16:06 PT (mailbox scan 1029e, APARNA INBOX UID 223372), 'Billing, Seven Bridges Therapy' <billing@sevenbridgestherapy.com>, Nadia A. (Senior Admin, direct 925-247-8030, office 510-250-9199). Re: Request to Resume Ariana's Speech Therapy. They will resume out-of-network but want outstanding claims resolved first; will refund via Zelle/Venmo if Anthem pays later. ACTION: send reply draft /home/aniru/SevenBridges_Speech_Resume_Billing_Reply.md (request itemized statement + CPT codes + superbills, ask to schedule in parallel, ask earliest SLP with after-3pm/Friday slots). Then submit superbills to Anthem (see t67) and pay patient portion. Blocking Ariana's therapy restart - highest priority.",
+   "created": "2026-10-29 16:2x PT (scan 1029e)"
+  },
+  {
+   "id": "t259",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-10-30",
+   "title": "DICP (Development is Child's Play) - complete intake paperwork, then SPM2, to join OT evaluation waitlist",
+   "notes": "29 Oct 2026 14:53 PT (mailbox scan 1029e, APARNA INBOX UID 223366), Gunnar, DICP Front Office <office@dicptherapy.com>: cannot add Ariana to OT evaluation waitlist until ALL intake paperwork is complete; link resent. IntakeQ form email same day (UID 223365, password nk26xm, link intakeq.com/intake/mus3xkYyciL15UiSJ). After intake, they send SPM2 (Sensory Processing Measure) questionnaire; only then waitlist. ACTION: complete intake forms today, watch for SPM2 and return immediately. Phone 408-865-1365, text 559-860-0957.",
+   "created": "2026-10-29 16:2x PT (scan 1029e)"
+  },
+  {
+   "id": "t260",
+   "track": "home",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-12-15",
+   "title": "NAPA Center - weekly visits postponed Dec 21-31; closed 12/24, 12/25, 1/1",
+   "notes": "29 Oct 2026 21:45 UTC (mailbox scan 1029e, APARNA INBOX UID 223364), Destiny Cyrs <destiny@napacenter.org>, 'Important Holiday Closure Notice'. All weekly visits temporarily postponed Dec 21-31 2026; closed Thu 12/24, Fri 12/25, Fri 1/1/27. Drop-in sessions can be requested via the Ocean app; no action needed to take a break. Front desk will contact if a session remains scheduled. Decide in mid-December whether to book drop-ins over the break.",
+   "created": "2026-10-29 16:2x PT (scan 1029e)"
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -2473,5 +2503,8 @@
  "last_scan_1029c": "Scan 1029c (29 Oct 2026 13:47 PT, SINCE 27-Oct): NO new actionable mail. PERSONAL INBOX 61 msgs since 27-Oct (all marketing/notifications), PERSONAL Sent 1 (self copy of 10:06 PT tax reply), ADITED INBOX 39 (American Banker x8, Cinemark x3, Variety x2, self-notes x3, Ludon Lee spam x2, Screen Global, Taj, AFM, Singapore Air, Eventbrite, Apple, IMDb, HDFC, Mercury, Stage32, SoundCloud, Swissnex, ChatGPT x2, FTA UAE, NFDC already drafted), ADITED Sent 4 (self notes + GSTR fwd). Nothing after 11:42 PT run except Seeking Alpha x3, Microsoft Rewards, Rocket Mortgage, Robinhood vote, Harkla, Coleman survey, Google data-share notice - all noise. APARNA apu.dg1@gmail.com still AUTHENTICATIONFAILED (spaced/unspaced/upper all tried) - ~56th consecutive, needs app-password regeneration (t153/t195/t237). No new drafts; prior drafts unchanged.",
  "last_scan_1029c_ts": "2026-10-29T13:48:13.523169",
  "last_scan_1029d": "2026-10-29T14:53:25.816490",
- "last_scan_1029d_findings": "PERSONAL 18 new (all marketing/notifications, no reply needed); ADITED 0 new; APARNA auth fail -> task t258"
+ "last_scan_1029d_findings": "PERSONAL 18 new (all marketing/notifications, no reply needed); ADITED 0 new; APARNA auth fail -> task t258",
+ "last_scan_1029e": "2026-10-29T16:22:00",
+ "last_scan_1029e_run": "scan_1029e (SINCE 27-Oct, INBOX+Sent, all 3 boxes, Message-ID dedupe, APARNA via env app password)",
+ "last_scan_1029e_findings": "Scan 1029e (Oct 29 2026 16:2x PT, SINCE 27-Oct). 148 new candidates; 71 non-noise reviewed. Sent Mail: PERSONAL 1 recent (self-send), ADITED 4 (self/known) - nothing new requiring reply. 1 NEW reply draft: APARNA 223372 Seven Bridges Billing (Nadia A.) - will resume Ariana's speech therapy out-of-network but 5 dates unpaid (6/23, 6/29, 7/6, 7/27, 7/29/26) block scheduling -> /home/aniru/SevenBridges_Speech_Resume_Billing_Reply.md/.docx (t258, t29 updated). New tasks t259 (DICP intake forms -> SPM2 -> OT eval waitlist), t260 (NAPA holiday closure Dec 21-31). Already-handled earlier today (still unrecorded in SEEN, now marked seen): ADITED 23906 NFDC Market Screenings (t249/t257), ADITED 23897 GSTR-3B GSTR-3A notice (t250, draft Adited_GSTR3B_Sept2026_Reply.md), PERSONAL 374130 Plexus recruiter (draft exists), ADITED 23887 Apple Card dispute D-25777239 denied (t244). Non-actionable: Ludon Lee press blasts (23892/23903, self-addressed), Jennifer Mello Film Finance Brief 006, Swissnex events, SoundCloud, Singapore Airlines, Vedanta compliance filing, Coleman survey $70, Cinequest, plus PERSONAL/APARNA retail & newsletter noise (Olive Garden, Panera, Papa Johns, Audien, Coursera, Seeking Alpha, Aza, White & Warren, Sky Zone, 4imprint, CVS, Staples, Express, Mom365, Lovevery, WW, KAYAK, Angi, ICC/TT league, KGT Academy, Facebook notification, Berkeley Rep, Planning Playtime, Vegamour, ACLibrary storytime). APARNA login: provided app password still AUTHENTICATIONFAILED; env GMAIL_APARNA_APP_PASSWORD works."
 }
