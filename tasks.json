@@ -2468,11 +2468,11 @@
   {
    "id": "t267",
    "track": "job",
-   "status": "pending",
+   "status": "done",
    "priority": "medium",
    "due": "2026-10-31",
    "title": "APARNA mailbox - prompt app password stale (fails); working value is in /home/aniru/.hermes/.env GMAIL_APARNA_APP_PASSWORD - update prompt/store",
-   "notes": "31 Oct 2026 09:06 PT cron mailbox scan: imaplib login to apu.dg1@gmail.com failed with [AUTHENTICATIONFAILED] Invalid credentials, both with the stored password as-is ('yheu ovwl fcva aqzj') and with spaces stripped. PERSONAL and ADITED logged in fine with their stored passwords, so this is specific to the APARNA app password (revoked/rotated, or 2FA re-prompt). This mailbox carries most school/therapy traffic (NHUSD, ICAN, We Strive ABA, RCEB/Miji, Seven Bridges, PlaySpace). ACTION: sign in to apu.dg1@gmail.com > Google Account > Security > App passwords > create a new 'Mail (IMAP)' app password, update the cron prompt/store, then re-run scan to pick up 29-31 Oct mail. Until fixed, APARNA items from this window are unscanned. UPDATE 31 Oct 10:11 PT (scan 1031b): login WORKED with the value in /home/aniru/.hermes/.env (GMAIL_APARNA_APP_PASSWORD) - only the password embedded in the cron prompt is stale. Mailbox scanned successfully (INBOX 165, max 223473). Remaining action: replace the prompt credential with the .env value so scans do not skip APARNA.",
+   "notes": "31 Oct 2026 09:06 PT cron mailbox scan: imaplib login to apu.dg1@gmail.com failed with [AUTHENTICATIONFAILED] Invalid credentials, both with the stored password as-is ('yheu ovwl fcva aqzj') and with spaces stripped. PERSONAL and ADITED logged in fine with their stored passwords, so this is specific to the APARNA app password (revoked/rotated, or 2FA re-prompt). This mailbox carries most school/therapy traffic (NHUSD, ICAN, We Strive ABA, RCEB/Miji, Seven Bridges, PlaySpace). ACTION: sign in to apu.dg1@gmail.com > Google Account > Security > App passwords > create a new 'Mail (IMAP)' app password, update the cron prompt/store, then re-run scan to pick up 29-31 Oct mail. Until fixed, APARNA items from this window are unscanned. UPDATE 31 Oct 10:11 PT (scan 1031b): login WORKED with the value in /home/aniru/.hermes/.env (GMAIL_APARNA_APP_PASSWORD) - only the password embedded in the cron prompt is stale. Mailbox scanned successfully (INBOX 165, max 223473). Remaining action: replace the prompt credential with the .env value so scans do not skip APARNA.\nUPDATE 2026-10-31 11:18 PT: resolved for scanning - the value in /home/aniru/.hermes/.env (GMAIL_APARNA_APP_PASSWORD) authenticates fine; this run scanned APARNA INBOX (170 msgs since 29 Oct) + Sent Mail successfully using it. Remaining: the cron prompt still carries the stale password - see new task.",
    "created": "2026-10-31 09:1x PT (scan 1031)"
   },
   {
@@ -2484,6 +2484,16 @@
    "title": "OT referrals from Karin Loar (otfeedingtherapy.com) - contact listed pediatric OT/SI clinics for Ariana; ask her about own openings/waitlist",
    "notes": "31 Oct 2026 09:47 PT, Karin Loar MS OTR/L <karin@otfeedingtherapy.com> (APARNA INBOX UID 223472) 'Resources for OT SI clinics' - pediatric OT + feeding specialist, Certified Ayres Sensory Integration, Co-Director Playspace Therapy; mobile 415-412-3131, office M-Th 8:30-2:30. Sent a referral list: Therapy at Play (San Ramon/Pleasanton) therapyatplay.com; Developmental Pathways (Redwood City) developmentalpathways.com; DICP 'Development Is Child's Play' (Burlingame/Cupertino) dicptherapy.com; Skilled Therapy & Play skilledtherapyplay.com; her own practice otfeedingtherapy.com. ACTION: call/email the 4 clinics re pediatric OT with sensory-integration focus for Ariana (after-school slots, fee/superbill, insurance, waitlist). Reply draft ready: /home/aniru/Karin_Loar_OT_SI_Referrals_Reply.md + .docx (send from apu.dg1@gmail.com). Related OT/hearing tracks: t265 PlaySpace (Emily Moffett), t238/t246 DICP and NAPA waitlists.",
    "created": "2026-10-31 10:14 PT (scan 1031b)"
+  },
+  {
+   "id": "t269",
+   "track": "home",
+   "status": "pending",
+   "priority": "low",
+   "due": "2026-11-07",
+   "title": "Mailscan cron: replace stale APARNA app password in job prompt with the working ~/.hermes/.env value (scan otherwise healthly)",
+   "notes": "2026-10-31 11:18 PT mailbox scan: APARNA IMAP login with the prompt-supplied password ('yheu ovwl fcva aqzj' and no-space form) fails AUTHENTICATIONFAILED, but GMAIL_APARNA_APP_PASSWORD in /home/aniru/.hermes/.env logs in fine - APARNA INBOX + Sent Mail scanned OK this run. ACTION: edit the cron job prompt for the 3-mailbox scan to read the APARNA credential from ~/.hermes/.env (do not hardcode), then mark t267/this done. NOTE: APARNA IMAP UIDs were renumbered (old refs 223xxx, now 207xxx), so UID-based dedupe produced ~54 false 'new' hits; state updated with the current UID space - if UIDs shift again, dedupe on Message-ID instead.",
+   "created": "2026-10-31 11:18 PT"
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
