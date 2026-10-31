@@ -2530,11 +2530,21 @@ const DATA = {
    "id": "t267",
    "track": "job",
    "status": "pending",
-   "priority": "high",
+   "priority": "medium",
    "due": "2026-10-31",
-   "title": "APARNA mailbox apu.dg1@gmail.com - IMAP app password REJECTED (AUTHENTICATIONFAILED); regenerate and re-run scan",
-   "notes": "31 Oct 2026 09:06 PT cron mailbox scan: imaplib login to apu.dg1@gmail.com failed with [AUTHENTICATIONFAILED] Invalid credentials, both with the stored password as-is ('yheu ovwl fcva aqzj') and with spaces stripped. PERSONAL and ADITED logged in fine with their stored passwords, so this is specific to the APARNA app password (revoked/rotated, or 2FA re-prompt). This mailbox carries most school/therapy traffic (NHUSD, ICAN, We Strive ABA, RCEB/Miji, Seven Bridges, PlaySpace). ACTION: sign in to apu.dg1@gmail.com > Google Account > Security > App passwords > create a new 'Mail (IMAP)' app password, update the cron prompt/store, then re-run scan to pick up 29-31 Oct mail. Until fixed, APARNA items from this window are unscanned.",
+   "title": "APARNA mailbox - prompt app password stale (fails); working value is in /home/aniru/.hermes/.env GMAIL_APARNA_APP_PASSWORD - update prompt/store",
+   "notes": "31 Oct 2026 09:06 PT cron mailbox scan: imaplib login to apu.dg1@gmail.com failed with [AUTHENTICATIONFAILED] Invalid credentials, both with the stored password as-is ('yheu ovwl fcva aqzj') and with spaces stripped. PERSONAL and ADITED logged in fine with their stored passwords, so this is specific to the APARNA app password (revoked/rotated, or 2FA re-prompt). This mailbox carries most school/therapy traffic (NHUSD, ICAN, We Strive ABA, RCEB/Miji, Seven Bridges, PlaySpace). ACTION: sign in to apu.dg1@gmail.com > Google Account > Security > App passwords > create a new 'Mail (IMAP)' app password, update the cron prompt/store, then re-run scan to pick up 29-31 Oct mail. Until fixed, APARNA items from this window are unscanned. UPDATE 31 Oct 10:11 PT (scan 1031b): login WORKED with the value in /home/aniru/.hermes/.env (GMAIL_APARNA_APP_PASSWORD) - only the password embedded in the cron prompt is stale. Mailbox scanned successfully (INBOX 165, max 223473). Remaining action: replace the prompt credential with the .env value so scans do not skip APARNA.",
    "created": "2026-10-31 09:1x PT (scan 1031)"
+  },
+  {
+   "id": "t268",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-02",
+   "title": "OT referrals from Karin Loar (otfeedingtherapy.com) - contact listed pediatric OT/SI clinics for Ariana; ask her about own openings/waitlist",
+   "notes": "31 Oct 2026 09:47 PT, Karin Loar MS OTR/L <karin@otfeedingtherapy.com> (APARNA INBOX UID 223472) 'Resources for OT SI clinics' - pediatric OT + feeding specialist, Certified Ayres Sensory Integration, Co-Director Playspace Therapy; mobile 415-412-3131, office M-Th 8:30-2:30. Sent a referral list: Therapy at Play (San Ramon/Pleasanton) therapyatplay.com; Developmental Pathways (Redwood City) developmentalpathways.com; DICP 'Development Is Child's Play' (Burlingame/Cupertino) dicptherapy.com; Skilled Therapy & Play skilledtherapyplay.com; her own practice otfeedingtherapy.com. ACTION: call/email the 4 clinics re pediatric OT with sensory-integration focus for Ariana (after-school slots, fee/superbill, insurance, waitlist). Reply draft ready: /home/aniru/Karin_Loar_OT_SI_Referrals_Reply.md + .docx (send from apu.dg1@gmail.com). Related OT/hearing tracks: t265 PlaySpace (Emily Moffett), t238/t246 DICP and NAPA waitlists.",
+   "created": "2026-10-31 10:14 PT (scan 1031b)"
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -2652,7 +2662,12 @@ const DATA = {
  "last_scan_1030d_result": "0 reply drafts; 0 new tasks; 24 new messages reviewed (all marketing/FYI + known Ludon Lee spam); APARNA still AUTH FAILING (t153)",
  "last_scan_1030d_findings": "PERSONAL: 40 messages sinced 28-Oct reviewed, 19 new - Grubhub, Costco, HP, NBC Sports, Daily Passport, SeaWorld, Target, Nordics, SoFi, NYT/FOX, Bay Area News x2, SSA, ClassDojo, Peachjar/Kitayama, NHUSD, Amazon delivery, quant MF + HSBC MF + Vedanta/NSDL result notices (FYI). No reply needed. ADITED: 2 new - Ludon Lee UID 23934 (Rice Rocket series pitch now TO info@sithdaddy.org, asks for a call next week) + 23935 (self-addressed Halloween promo). Known spam campaign (t33) - no reply. Sent Mail: 0 new in either box. APARNA: login failed again.",
  "last_scan_1031": "2026-10-31 09:10 PT",
- "last_scan_1031_findings": "Scan 1031 (30 Oct 2026 ~23:05 PT, SINCE 28-Oct). PERSONAL: INBOX max 374291, only 374291 new = LinkedIn Job Alerts (Coinbase Sr Eng Mgr) noise; Sent 1 (8599 self-send tax return, skip). ADITED: INBOX UIDVALIDITY renumbered (max 23935 -> 22616, offset -1319); max maps to already-seen 23935 => ZERO new; Sent 884/885 self-monitor only. APARNA: login with prompt password FAILED again (57th+); succeeded via /home/aniru/.hermes/.env GMAIL_APARNA_APP_PASSWORD. 20 new (223433-223452). ONE actionable: 223434 Emily Moffett <emilyarodino@gmail.com> 'OT @ PlaySpace' -> reply draft /home/aniru/PlaySpace_OT_Waitlist_Call_Reply.md + .docx, task t265. Already handled/no reply: 223436 Edna Joyce schedule push to 3:25 PM (Aparna replied Sent 8135 at 15:17, Edna acked 223438 'Thank you for letting me know'); 223441 ClassDojo verify-email (click only); 223451 Find My sound played; rest promo (Peachjar, Leaply, SFFILM, Aeropostale, Spirited Play Labs, NHUSD, Express, First Take, Facebook x2, foundit, Flyaway, Irresistible Me, Nextdoor, HDFC). 1 reply draft, 1 new task (t265)."
+ "last_scan_1031_findings": "Scan 1031 (30 Oct 2026 ~23:05 PT, SINCE 28-Oct). PERSONAL: INBOX max 374291, only 374291 new = LinkedIn Job Alerts (Coinbase Sr Eng Mgr) noise; Sent 1 (8599 self-send tax return, skip). ADITED: INBOX UIDVALIDITY renumbered (max 23935 -> 22616, offset -1319); max maps to already-seen 23935 => ZERO new; Sent 884/885 self-monitor only. APARNA: login with prompt password FAILED again (57th+); succeeded via /home/aniru/.hermes/.env GMAIL_APARNA_APP_PASSWORD. 20 new (223433-223452). ONE actionable: 223434 Emily Moffett <emilyarodino@gmail.com> 'OT @ PlaySpace' -> reply draft /home/aniru/PlaySpace_OT_Waitlist_Call_Reply.md + .docx, task t265. Already handled/no reply: 223436 Edna Joyce schedule push to 3:25 PM (Aparna replied Sent 8135 at 15:17, Edna acked 223438 'Thank you for letting me know'); 223441 ClassDojo verify-email (click only); 223451 Find My sound played; rest promo (Peachjar, Leaply, SFFILM, Aeropostale, Spirited Play Labs, NHUSD, Express, First Take, Facebook x2, foundit, Flyaway, Irresistible Me, Nextdoor, HDFC). 1 reply draft, 1 new task (t265).",
+ "last_scan_1031b": {
+  "ran": "2026-10-31 10:14 PT",
+  "result": "1 reply draft (Karin Loar OT SI referrals) + 1 task (t268); APARNA login OK with .env password",
+  "scanned": "PERSONAL, ADITED, APARNA - INBOX + Sent Mail, SINCE 29-Oct-2026"
+ }
 };
 // ═══ END DATA ═══
 
