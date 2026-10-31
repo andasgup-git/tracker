@@ -2444,6 +2444,16 @@
    "title": "We Strive ABA - sign DocuSign 'In-Home Session Safety and Responsible Adult Presence Policy' (Edna Joyce, due before the weekend)",
    "notes": "30 Oct 2026 13:54 PT, Edna Joyce <admin@wsabatherapy.com> (APARNA INBOX UID 223431) 'Action Required: In-Home Session Safety and Responsible Adult Presence Policy' asks parents/caregivers to review and complete the DocuSign form BEFORE THIS COMING WEEKEND; policy covers client + BT safety during in-home sessions. Matching DocuSign notification same day 19:48 UTC (APARNA UID 223426, We Strive ABA via dse_NA4@docusign.net), doc 'In-Home Session Safety and Responsible Adult Presence Policy.pdf'. Contact Edna Lachica 747-307-3892 / admin@wsabatherapy.com. Courtesy acknowledgement draft ready: /home/aniru/We_Strive_ABA_Safety_Policy_Signature_Reply.md + .docx (send from apu.dg1@gmail.com). Related: t263 (Pacific Homecare timesheet Doc #719689, also unsigned).",
    "created": "2026-10-30 14:2x PT (scan 1030c)"
+  },
+  {
+   "id": "t265",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-06",
+   "title": "PlaySpace OT (Emily Moffett) - add Ariana to after-school OT waitlist + book 15-20 min intro call next week",
+   "notes": "30 Oct 2026 14:35 PT, Emily Moffett MS OTR/L <emilyarodino@gmail.com> (APARNA INBOX UID 223434) 'OT @ PlaySpace' - reply to Aparna's 29 Oct OT inquiry (Sent UID 6167). Private speech+OT clinic in Walnut Creek; fee-for-service, no insurance contracts, superbill available (needs pediatrician referral for superbill). Waitlist for after-school slots ~3 months, some openings expected Nov-Jan. She proposes a 15-20 min call next week. Phone (661) 345-3840. Reply draft ready: /home/aniru/PlaySpace_OT_Waitlist_Call_Reply.md + .docx (send from apu.dg1@gmail.com); ask her to offer 2-3 call times, confirm waitlist placement, ask about fee schedule/superbill and pre-January openings. Related: t238/t246 DICP and NAPA OT waitlist tracks.",
+   "created": "2026-10-30 23:05 PT (scan 1031)"
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -2559,5 +2569,7 @@
  "last_scan_1030d": "2026-10-30 22:05 PT",
  "last_scan_1030d_run": "scan_1030d (SINCE 28-Oct, 3 boxes attempted, UID+Message-ID dedupe)",
  "last_scan_1030d_result": "0 reply drafts; 0 new tasks; 24 new messages reviewed (all marketing/FYI + known Ludon Lee spam); APARNA still AUTH FAILING (t153)",
- "last_scan_1030d_findings": "PERSONAL: 40 messages sinced 28-Oct reviewed, 19 new - Grubhub, Costco, HP, NBC Sports, Daily Passport, SeaWorld, Target, Nordics, SoFi, NYT/FOX, Bay Area News x2, SSA, ClassDojo, Peachjar/Kitayama, NHUSD, Amazon delivery, quant MF + HSBC MF + Vedanta/NSDL result notices (FYI). No reply needed. ADITED: 2 new - Ludon Lee UID 23934 (Rice Rocket series pitch now TO info@sithdaddy.org, asks for a call next week) + 23935 (self-addressed Halloween promo). Known spam campaign (t33) - no reply. Sent Mail: 0 new in either box. APARNA: login failed again."
+ "last_scan_1030d_findings": "PERSONAL: 40 messages sinced 28-Oct reviewed, 19 new - Grubhub, Costco, HP, NBC Sports, Daily Passport, SeaWorld, Target, Nordics, SoFi, NYT/FOX, Bay Area News x2, SSA, ClassDojo, Peachjar/Kitayama, NHUSD, Amazon delivery, quant MF + HSBC MF + Vedanta/NSDL result notices (FYI). No reply needed. ADITED: 2 new - Ludon Lee UID 23934 (Rice Rocket series pitch now TO info@sithdaddy.org, asks for a call next week) + 23935 (self-addressed Halloween promo). Known spam campaign (t33) - no reply. Sent Mail: 0 new in either box. APARNA: login failed again.",
+ "last_scan_1031": "2026-10-30T23:05:00-07:00",
+ "last_scan_1031_findings": "Scan 1031 (30 Oct 2026 ~23:05 PT, SINCE 28-Oct). PERSONAL: INBOX max 374291, only 374291 new = LinkedIn Job Alerts (Coinbase Sr Eng Mgr) noise; Sent 1 (8599 self-send tax return, skip). ADITED: INBOX UIDVALIDITY renumbered (max 23935 -> 22616, offset -1319); max maps to already-seen 23935 => ZERO new; Sent 884/885 self-monitor only. APARNA: login with prompt password FAILED again (57th+); succeeded via /home/aniru/.hermes/.env GMAIL_APARNA_APP_PASSWORD. 20 new (223433-223452). ONE actionable: 223434 Emily Moffett <emilyarodino@gmail.com> 'OT @ PlaySpace' -> reply draft /home/aniru/PlaySpace_OT_Waitlist_Call_Reply.md + .docx, task t265. Already handled/no reply: 223436 Edna Joyce schedule push to 3:25 PM (Aparna replied Sent 8135 at 15:17, Edna acked 223438 'Thank you for letting me know'); 223441 ClassDojo verify-email (click only); 223451 Find My sound played; rest promo (Peachjar, Leaply, SFFILM, Aeropostale, Spirited Play Labs, NHUSD, Express, First Take, Facebook x2, foundit, Flyaway, Irresistible Me, Nextdoor, HDFC). 1 reply draft, 1 new task (t265)."
 }
