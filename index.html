@@ -2303,9 +2303,9 @@ const DATA = {
    "track": "finance",
    "status": "pending",
    "priority": "high",
-   "due": "2026-11-03",
-   "title": "Apple Card dispute D-25777239 DENIED - $1,424.67 Emirates charge reinstated; decide appeal",
-   "notes": "Oct 27 2026 09:2x PT (scan 1027): ADITED INBOX UID 23887, Apple Card Support <no_reply@post-account.applecard...>. Goldman Sachs found NO billing error: \"merchandise delivered / service provided per merchant terms\". Dispute status COMPLETED - disputed charge remains. Temporary credit $1,424.67 reversed and will rebill on next statement. Transaction date Aug 22 2026, merchant Emirates Airlines, case D-25777239. Options: call Apple Card Specialist to request re-review/second look, pursue chargeback directly with Emirates (refund/travel credit), or claim on travel insurance if trip was disrupted. No email reply possible - phone/chat only.",
+   "due": "2026-11-05",
+   "title": "Apple Card / Emirates $1,424.67 - dispute RE-OPENED as D-26947593 (temp credit re-issued); CALL 1-877-255-5923 to give more info",
+   "notes": "1 Nov 2026 (mailbox scan, ADITED INBOX UID 23941/23942/23943, Apple Card Support <no_reply@post.applecard.apple>, Sat 31 Oct 21:55-21:57 UTC): case D-25777239 (denied 27 Oct) has been RE-OPENED on request as NEW case D-26947593 - 'Dispute Status: Accepted and Re-Opened'; temporary credit of $1,424.67 (Emirates Airlines, txn date Aug 22 2026) re-issued, no payment/interest due on it while under review. Goldman Sachs will complete re-investigation no later than 31 Dec 2026. IMPORTANT: two emails say 'We need to speak with you about your Apple Card' and 'Please call us at 1-877-255-5923 to provide us more information about your Apple Card transaction to help with the dispute investigation' (or chat via Wallet app). ACTION: call Apple Card Specialists 1-877-255-5923 (24/7) / Wallet chat, quote D-26947593, supply Emirates booking + refund/cancellation evidence (booking ref, ticket receipt, cancellation confirmation, correspondence) and confirm what they still need. Track deadlines: any evidence request, 31 Dec 2026 final decision. Prior context: original denial said merchandise/service delivered per merchant terms.",
    "created": "2026-10-27 09:18"
   },
   {
@@ -2501,9 +2501,9 @@ const DATA = {
    "track": "home",
    "status": "pending",
    "priority": "high",
-   "due": "2026-10-31",
+   "due": "2026-11-01",
    "title": "We Strive ABA - sign DocuSign 'In-Home Session Safety and Responsible Adult Presence Policy' (Edna Joyce, due before the weekend)",
-   "notes": "30 Oct 2026 13:54 PT, Edna Joyce <admin@wsabatherapy.com> (APARNA INBOX UID 223431) 'Action Required: In-Home Session Safety and Responsible Adult Presence Policy' asks parents/caregivers to review and complete the DocuSign form BEFORE THIS COMING WEEKEND; policy covers client + BT safety during in-home sessions. Matching DocuSign notification same day 19:48 UTC (APARNA UID 223426, We Strive ABA via dse_NA4@docusign.net), doc 'In-Home Session Safety and Responsible Adult Presence Policy.pdf'. Contact Edna Lachica 747-307-3892 / admin@wsabatherapy.com. Courtesy acknowledgement draft ready: /home/aniru/We_Strive_ABA_Safety_Policy_Signature_Reply.md + .docx (send from apu.dg1@gmail.com). Related: t263 (Pacific Homecare timesheet Doc #719689, also unsigned).",
+   "notes": "30 Oct 2026 13:54 PT, Edna Joyce <admin@wsabatherapy.com> (APARNA INBOX UID 223431) 'Action Required: In-Home Session Safety and Responsible Adult Presence Policy' asks parents/caregivers to review and complete the DocuSign form BEFORE THIS COMING WEEKEND; policy covers client + BT safety during in-home sessions. Matching DocuSign notification same day 19:48 UTC (APARNA UID 223426, We Strive ABA via dse_NA4@docusign.net), doc 'In-Home Session Safety and Responsible Adult Presence Policy.pdf'. Contact Edna Lachica 747-307-3892 / admin@wsabatherapy.com. Courtesy acknowledgement draft ready: /home/aniru/We_Strive_ABA_Safety_Policy_Signature_Reply.md + .docx (send from apu.dg1@gmail.com). Related: t263 (Pacific Homecare timesheet Doc #719689, also unsigned). | 1 Nov 2026 reminder (scan, APARNA INBOX UID 223497, We Strive ABA via Docusign <dse_NA4@docusign.net>, Sun 1 Nov 10:24 UTC): 'Complete with Docusign: In-Home Session Safety and Responsible Adult Presence Policy.pdf' still awaiting signature - same envelope, alternate signing code B96A3BA759938D1E836E2508F4AC867E7 at docusign.com > Access Documents. Still UNSIGNED as of this scan.",
    "created": "2026-10-30 14:2x PT (scan 1030c)"
   },
   {
@@ -2555,6 +2555,15 @@ const DATA = {
    "title": "Mailscan cron: replace stale APARNA app password in job prompt with the working ~/.hermes/.env value (scan otherwise healthly)",
    "notes": "2026-10-31 11:18 PT mailbox scan: APARNA IMAP login with the prompt-supplied password ('yheu ovwl fcva aqzj' and no-space form) fails AUTHENTICATIONFAILED, but GMAIL_APARNA_APP_PASSWORD in /home/aniru/.hermes/.env logs in fine - APARNA INBOX + Sent Mail scanned OK this run. ACTION: edit the cron job prompt for the 3-mailbox scan to read the APARNA credential from ~/.hermes/.env (do not hardcode), then mark t267/this done. NOTE: APARNA IMAP UIDs were renumbered (old refs 223xxx, now 207xxx), so UID-based dedupe produced ~54 false 'new' hits; state updated with the current UID space - if UIDs shift again, dedupe on Message-ID instead.",
    "created": "2026-10-31 11:18 PT"
+  },
+  {
+   "id": "t270",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-02",
+   "title": "Pacific Homecare - sign NEW timesheet (Notice ID 5591, 24-hour window, requested 1 Nov 16:34 UTC)",
+   "notes": "1 Nov 2026 mailbox scan (APARNA INBOX UID 223519), Pacific Homecare Services <accounting@pacifichomecare.com>, Sun 01 Nov 2026 16:34 UTC, 'Please Review and Sign Timesheet' - 'Your Provider has submitted a timesheet for payroll processing. Please open the link below to approve and sign your Provider's timesheet within 24 hours.' Notice ID: 5591 (new request, distinct from the older Doc #719689 / Notice ID 5727 in t263). Portal action only - no email reply needed. ACTION: open the 'Document to be signed' link in the email and sign before ~1 Nov 17:00 PT +24h; if the link fails call (209) 956-2532 opt 5 or email accounting@pacifichomecare.com."
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -2677,7 +2686,10 @@ const DATA = {
   "ran": "2026-10-31 10:14 PT",
   "result": "1 reply draft (Karin Loar OT SI referrals) + 1 task (t268); APARNA login OK with .env password",
   "scanned": "PERSONAL, ADITED, APARNA - INBOX + Sent Mail, SINCE 29-Oct-2026"
- }
+ },
+ "last_scan_nov1": "2026-11-01 09:2x PT",
+ "last_scan_nov1_run": "scan_1101 (SINCE 30-Oct, INBOX+Sent, all 3 mailboxes, Message-ID + UID dedupe)",
+ "last_scan_nov1_result": "0_REPLY_DRAFTS_2_NEW_TASKS_1_UPDATE"
 };
 // ═══ END DATA ═══
 
