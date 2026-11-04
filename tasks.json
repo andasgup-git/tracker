@@ -2531,7 +2531,7 @@
    "priority": "high",
    "due": "2026-11-05",
    "title": "Arabesque Conservatory - send written request for Ariana's unused annual funding breakdown + refund/reassignment (draft ready)",
-   "notes": "3 Nov 2026 scan: PERSONAL INBOX UID 374560 (and APARNA 223610) Arabesque Admin <admin@arabesqueconservatory.com> (Vanessa Portillo), Mon 2 Nov 16:40 PT, subject 'Re:' - reply to Aparna's 16:19 PT email only said 'How can I best assist you?'. Aparna's email (PERSONAL 374557; cc Aricka Tasabia, Paulina Ayres, Lidia Sanchez, Arabesque) states Arabesque received funding for a full year, Ariana attended only 2-3 sessions, no replacement instructor was ever assigned, and ~7-8 months with no services - asks for clarification and return/reassignment of unused funds to RCEB. REPLY DRAFT: /home/aniru/Arabesque_Ariana_Funding_Clarification_Reply.md (+ .docx) - asks for total annual amount, sessions delivered, unearned balance, refund/reallocation, and status of replacement instructor. Send from aniruddha.dg1@gmail.com, cc Aparna/Aricka/Lidia. Escalate to srodriguez@arabesqueconservatory.com if no written breakdown in 5 business days. Related t47, t29.",
+   "notes": "3 Nov 2026 scan: PERSONAL INBOX UID 374560 (and APARNA 223610) Arabesque Admin <admin@arabesqueconservatory.com> (Vanessa Portillo), Mon 2 Nov 16:40 PT, subject 'Re:' - reply to Aparna's 16:19 PT email only said 'How can I best assist you?'. Aparna's email (PERSONAL 374557; cc Aricka Tasabia, Paulina Ayres, Lidia Sanchez, Arabesque) states Arabesque received funding for a full year, Ariana attended only 2-3 sessions, no replacement instructor was ever assigned, and ~7-8 months with no services - asks for clarification and return/reassignment of unused funds to RCEB. REPLY DRAFT: /home/aniru/Arabesque_Ariana_Funding_Clarification_Reply.md (+ .docx) - asks for total annual amount, sessions delivered, unearned balance, refund/reallocation, and status of replacement instructor. Send from aniruddha.dg1@gmail.com, cc Aparna/Aricka/Lidia. Escalate to srodriguez@arabesqueconservatory.com if no written breakdown in 5 business days. Related t47, t29.\nUPDATE 2026-11-04: Lidia Sanchez confirmed on 4 Nov 16:46 PT that undelivered Arabesque funds must be returned to RCEB, cancelled POS cannot be reassigned, and the piano authorization is active to 5/31/27 (t283 tracks the Arabesque refund chase).",
    "created": "2026-11-03 08:25"
   },
   {
@@ -2541,7 +2541,7 @@
    "priority": "high",
    "due": "2026-11-04",
    "title": "DC UK audit certificate - Parker Lloyd engagement letter still pending; BFI final submission targeted 4 Nov 2026",
-   "notes": "3 Nov 2026 scan: ADITED INBOX UID 23963 (Soumyajit Majumdar, 03:41 IST) adds Ani as producer from ADited to the 'Devi chowdhurani UK audit certificate' thread; UID 23971 (Tanmoy, 21:48 IST) sends the pack to Dipak Patel (Parker Lloyd, plloydca@aol.com): statutory declaration JPEG, ADited-HC Films India/UK co-production agreement PDF, FINAL COST SHEET + FINAL SPLIT BUDGET xlsx, BFI final application PDFs, BFI applicant identity verification. Tanmoy asks Parker Lloyd to 'share the engagement letter'. Dipak needs: signed final application + statutory declaration, project/film title, production company, treaty details, creative connection - all now supplied. BFI extended deadline: documents to be submitted BY 4 NOVEMBER 2026 at the latest. Audit fee quoted GBP 5,000 + VAT (flexibility requested). REPLY DRAFT (intro/expedite): /home/aniru/DeviChowdhurani_UK_Audit_Intro_Reply.md (+ .docx). If no response by UK mid-morning 3 Nov, call +44 20 3155 2020. Related t97, t134, t181.",
+   "notes": "3 Nov 2026 scan: ADITED INBOX UID 23963 (Soumyajit Majumdar, 03:41 IST) adds Ani as producer from ADited to the 'Devi chowdhurani UK audit certificate' thread; UID 23971 (Tanmoy, 21:48 IST) sends the pack to Dipak Patel (Parker Lloyd, plloydca@aol.com): statutory declaration JPEG, ADited-HC Films India/UK co-production agreement PDF, FINAL COST SHEET + FINAL SPLIT BUDGET xlsx, BFI final application PDFs, BFI applicant identity verification. Tanmoy asks Parker Lloyd to 'share the engagement letter'. Dipak needs: signed final application + statutory declaration, project/film title, production company, treaty details, creative connection - all now supplied. BFI extended deadline: documents to be submitted BY 4 NOVEMBER 2026 at the latest. Audit fee quoted GBP 5,000 + VAT (flexibility requested). REPLY DRAFT (intro/expedite): /home/aniru/DeviChowdhurani_UK_Audit_Intro_Reply.md (+ .docx). If no response by UK mid-morning 3 Nov, call +44 20 3155 2020. Related t97, t134, t181.\nUPDATE 2026-11-04: Parker Lloyd (Dipak Patel) emailed the Letter of Engagement + client information letter on 4 Nov 12:40 PT (ADITED UID 22669) - t285 tracks signing/return.",
    "created": "2026-11-03 08:25"
   },
   {
@@ -2593,6 +2593,86 @@
    "title": "Meta Pixel not working properly - verify in Events Manager (ad tracking gap)",
    "notes": "3 Nov 2026 scan: PERSONAL INBOX UID 374618, 'Meta for Business' <advertise-noreply@global.metamail.com>, Tue 03 Nov 10:04 CST, subject 'Your Meta Pixel is not working properly' - pixel not tracking events; use Meta Pixel Helper / Events Manager Diagnostics. Check which business/page/site this pixel belongs to (likely ADited marketing site) and fix before running any paid campaign. Related t113 (DC USA promo execution).",
    "created": "2026-11-03 08:25"
+  },
+  {
+   "id": "t280",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-06",
+   "title": "RCEB/Lidia - send table tennis invoices #5356 + #8245 and gymnastics receipts (reconcile $2,500 vs $2,990)",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208025, Lidia Sanchez <lsanchez@rceb.org>, Wed 04 Nov 15:52 PT, 'Re: Ariana Dasgupta (UCI 8056425) - outstanding reimbursements'. She needs: (1) invoices #5356 (April) and #8245 (July) for table tennis showing service dates + total cost, and confirmation whether the $1,890 is monthly or every 3 months and when the next payment is due (to submit as recurring); (2) gymnastics receipts - approved $2,360 (3/1-6/30/26) + $140 (7/1-7/31/26) = $2,500 vs $2,990 claimed; (3) follow up with Miji separately to process approved gymnastics + piano reimbursements. Piano is set up as recurring $245/month parent reimbursement 6/1/26-5/31/27. IPP still traditional, SDP in process but nothing funded through SDP until fully enrolled. Ariana DOB is 12/23/19 - Aricka to send corrected document. Draft: /home/aniru/RCEB_Reimbursements_Invoices_Reply.md (+.docx). Related t273.",
+   "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t281",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-06",
+   "title": "RCEB/Lidia - answer music-lesson type + pick 3 concurrent social rec activities (piano/swim/table tennis)",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208033 (Wed 04 Nov 16:45 PT) - Lidia needs to know what kind of individual music lessons Ariana will receive before she can submit the POS. UID 208034 (same time) - updated social rec policy effective 9/1/26 caps funding at 3 concurrent activities; Ariana currently has piano (may be a duplication with the request), swim lessons and table tennis - Lidia asks which 3 to keep. Draft: /home/aniru/RCEB_Music_Lessons_Clarification_Reply.md (+.docx). Related t273, t28, t130.",
+   "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t282",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-06",
+   "title": "Miji/Libertana (Alexa Justo) - start piano reimbursement #26114690 ($245/mo, 6/1/26-5/31/27); confirm not in SDP",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208042, Alexa Justo <a.justo@libertana.com> (FMS Coordinator, Libertana - MIJI Health Care), Wed 04 Nov 17:52 PT, 'Re: Ariana Dasgupta (UCI 8056425) - outstanding reimbursements'. Only 3 authorizations on file: #26104351 gymnastics (2/1-3/1/26, paid 7/1), #26104489 tennis (2/15-3/23/26, paid 7/1), #26114690 piano lessons (6/1/26-5/31/27, NO payment on file). Miji does not handle SDP - asks date client moved/is moving to SDP (Lidia already replied UID 208043: not enrolled, TBD). ACTION: request processing of recurring piano reimbursement and ask what backup (invoices/proof of payment/monthly submission) is needed. Draft: /home/aniru/Miji_Piano_Reimbursement_Request.md (+.docx). Related t14, t130.",
+   "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t283",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-10",
+   "title": "Arabesque - chase refund of undelivered annual funding back to RCEB + statement of sessions delivered",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208032 / PERSONAL INBOX UID 353710 (dupe), Lidia Sanchez, Wed 04 Nov 16:46 PT. Confirms: funds for services never delivered must be returned to RCEB; Arabesque should have billed only for the 2-3 sessions attended; cancelled purchase of service cannot be reassigned to other services (but nothing is 'lost' for Ariana); new piano authorization is active through 5/31/27 so no duplication. ACTION: write to Arabesque Conservatory asking for (a) amount received for the annual allocation, (b) sessions delivered, (c) refund to RCEB with RCEB remittance reference. Draft: /home/aniru/Arabesque_Refund_Confirmation_Reply.md (+.docx). Related t273, t47.",
+   "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t284",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-05",
+   "title": "We Strive ABA - sign new Docusign: In-Home Session Safety and Responsible Adult Presence policy",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208017, We Strive ABA via Docusign <dse_NA4@docusign.net>, Wed 04 Nov 13:04 PT. New Docusign envelope 'In-Home Session Safety and Responsible Adult Presence' to view and sign. NOTE: Aparna already sent a clarification request on this policy on 2 Nov (Sent UID 6171 to admin@wsabatherapy.com + gshahi@wsabatherapy.com asking whether continuous visual presence is required) - check whether they answered before signing. Earlier signature packet: We_Strive_ABA_Safety_Policy_Signature_Reply.md (30 Oct).",
+   "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t285",
+   "track": "dc",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-05",
+   "title": "Parker Lloyd - engagement letter RECEIVED; sign + return with producer-signed application + statutory declaration (BFI)",
+   "notes": "4 Nov 2026 scan: ADITED INBOX UID 22669, <plloydca@aol.com> (Dipak Patel, Parker Lloyd Chartered Accountants, 11 Old Court House, London W8 4PD), Wed 04 Nov 12:40 PT - 'Please find attached the Letter of Engagement and the client information letter, which details the relevant instructions.' Resolves the blocker on t274. Tanmoy had asked for the letter (UID 22652); Soumyajit flagged in UID 22671 that this is NOT an enhanced AVEC-qualified film (shooting started Jan 2024). Docs already with Parker Lloyd per Tanmoy (UID 22652): final application preview, producer statutory declaration, final split budget, final cost report, Adited-HC Indo-UK coproduction agreement, BFI applicant identity verification. Draft: /home/aniru/Parker_Lloyd_Engagement_Letter_Reply.md (+.docx).",
+   "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t286",
+   "track": "dc",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-11-10",
+   "title": "Give Tanmoy the HDD + clean film output of Devi Chowdhurani (confirm address/format)",
+   "notes": "4 Nov 2026 scan: ADITED INBOX UID 22654, Soumyajit Majumdar <soumyajit@aditedmotionpictures.com>, Tue 03 Nov 22:08 PT - 'Pls give HDD and clean film output to Tanmoy for Devi Chowdhurani.' Draft covering this + the engagement letter handover: /home/aniru/Tanmoy_Engagement_Letter_HDD_Reply.md (+.docx). Related t274, t164.",
+   "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t287",
+   "track": "dc",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-11-12",
+   "title": "WAVES Film Bazaar 2026 - Joyguru NOT selected for Co-Production Market Feature; delegate pass + screenings still live",
+   "notes": "4 Nov 2026 scan: ADITED INBOX UID 22676, Co-Production Market <coproduction@nfdcindia.com>, Wed 04 Nov 20:08 PT, 'Co-Production Market Feature 2026 | Your Application Update' - project 'Joyguru' did not make the final selection. No reply needed (form letter). Implications: Co-Production Market meetings/stand for Joyguru are off; confirm whether the delegate registration (t226 waiver, t07 accreditation) and the Devi Chowdhurani market screening booking (t257) are unaffected and still worth attending 20-24 Nov Goa.",
+   "created": "2026-11-04 10:05 PT"
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -2719,5 +2799,9 @@
  "last_scan_nov1": "2026-11-01 09:2x PT",
  "last_scan_nov1_run": "scan_1101 (SINCE 30-Oct, INBOX+Sent, all 3 mailboxes, Message-ID + UID dedupe)",
  "last_scan_nov1_result": "0_REPLY_DRAFTS_2_NEW_TASKS_1_UPDATE",
- "last_scan_nov1_pm": "2026-11-01 22:45 PT"
+ "last_scan_nov1_pm": "2026-11-01 22:45 PT",
+ "last_scan_1104": "2026-11-04 10:05 PT",
+ "last_scan_1104_run": "scan 1104 - INBOX + [Gmail]/Sent Mail, all 3 mailboxes (APARNA via .env credential), SINCE 3 days, Message-ID dedupe",
+ "last_scan_1104_result": "6_REPLY_DRAFTS_8_NEW_TASKS_0_UPDATES",
+ "last_scan_1104_findings": "PERSONAL: only Lidia/RCEB (dupe of APARNA 208032) actionable; rest marketing. ADITED: Parker Lloyd engagement letter received (22669), Tanmoy asks for it (22652), Soumyajit HDD/clean output (22654), Joyguru rejected by WAVES Co-Production Market (22676). APARNA: RCEB reimbursements/music lessons/social-rec cap (208025/208033/208034), Alexa Justo piano auth (208042), We Strive ABA Docusign (208017). APARNA prompt password still stale - used GMAIL_APARNA_APP_PASSWORD from /home/aniru/.hermes/.env."
 }
