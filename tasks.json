@@ -416,11 +416,11 @@
   {
    "id": "t47",
    "track": "home",
-   "title": "Arabesque Conservatory - no in-home teacher in Ariana's area yet; on priority placement",
+   "title": "Arabesque Conservatory - still no in-home piano teacher; Whitney Wilson offered another instrument (declined, reply drafted)",
    "status": "pending",
-   "priority": "low",
-   "due": "2026-09-01",
-   "notes": "Aug 13 (APARNA inbox 202730, assignment@arabesqueconservatory.com, cc Cristal Galvan): after Aparna's inquiry (missed call from (650) 534-4502), Arabesque says NO teacher currently available in this student's area; actively onboarding teachers; family placed on PRIORITY placement - will be notified and assigned teacher will reach out to schedule. No reply needed. If no word after ~2 weeks, follow up: srodriguez@arabesqueconservatory.com or (805) 328-4659 (Enrollment Mgr Joey Povinelli jpovinelli@arabesqueconservatory.com)."
+   "priority": "medium",
+   "due": "2026-11-07",
+   "notes": "Aug 13 (APARNA inbox 202730, assignment@arabesqueconservatory.com, cc Cristal Galvan): after Aparna's inquiry (missed call from (650) 534-4502), Arabesque says NO teacher currently available in this student's area; actively onboarding teachers; family placed on PRIORITY placement - will be notified and assigned teacher will reach out to schedule. No reply needed. If no word after ~2 weeks, follow up: srodriguez@arabesqueconservatory.com or (805) 328-4659 (Enrollment Mgr Joey Povinelli jpovinelli@arabesqueconservatory.com). || 5 Nov 2026 scan: APARNA INBOX UID 223798, Whitney Wilson <wwilson@arabesqueconservatory.com> (Staff Support Specialist), Thu 05 Nov 08:44 PT - still actively looking for a piano teacher; asks whether the family would explore lessons on another instrument meanwhile. Reply drafted (stay with piano, ask for timeline + whether authorization stays valid): /home/aniru/Arabesque_Music_Lessons_Reply.md (+.docx)."
   },
   {
    "id": "t40",
@@ -2121,10 +2121,10 @@
    "id": "t231",
    "track": "finance",
    "status": "pending",
-   "priority": "high",
-   "due": "2026-10-28",
+   "priority": "medium",
+   "due": "2026-11-12",
    "title": "Apple Card dispute D-26680287 (Vimeo $144.00) - send evidence to Goldman Sachs by Oct 28",
-   "notes": "Mailbox scan 1025 (Oct 25 2026): ADITED INBOX 'We request information that may help with your Apple Card transaction dispute' (Apple Card Support <applecard_support@post.applecard.apple>, Fri 23 Oct 2026 18:54 UTC, body header 'SRV48 - Evidence Needed Update'). Dispute case D-26680287, transaction Oct 16 2026, merchant vmo*vimeo.com, $144.00, temporary credit $144.00 already applied. Goldman Sachs asks for evidence BY OCTOBER 28, 2026: merchant correspondence, proof the recurring transaction was cancelled, proof you did not agree to a recurring transaction. Reply from aniruddha@aditedmotionpictures.com (the Apple Card address on file) with PDF/JPEG/PNG attachments, redacting account numbers. REPLY DRAFT: /home/aniru/AppleCard_Vimeo_Dispute_Evidence_Reply.md + .docx. Attachments to gather: Vimeo cancellation/billing confirmation, Vimeo billing history, Capital One 'virtual card ...8348 deactivated' alert (Oct 16). Related: t224. | UPDATE mailbox scan 1026 (Oct 26 09:06 PT): STILL NOT SENT - ADITED Sent Mail has no outgoing mail since Oct 25 21:16 PT and PERSONAL Sent Mail none since Oct 23, so the evidence reply is unsent with the Goldman Sachs deadline 2 days out (Oct 28). Send /home/aniru/AppleCard_Vimeo_Dispute_Evidence_Reply.md from aniruddha@aditedmotionpictures.com with the Vimeo cancellation/billing PDFs."
+   "notes": "Mailbox scan 1025 (Oct 25 2026): ADITED INBOX 'We request information that may help with your Apple Card transaction dispute' (Apple Card Support <applecard_support@post.applecard.apple>, Fri 23 Oct 2026 18:54 UTC, body header 'SRV48 - Evidence Needed Update'). Dispute case D-26680287, transaction Oct 16 2026, merchant vmo*vimeo.com, $144.00, temporary credit $144.00 already applied. Goldman Sachs asks for evidence BY OCTOBER 28, 2026: merchant correspondence, proof the recurring transaction was cancelled, proof you did not agree to a recurring transaction. Reply from aniruddha@aditedmotionpictures.com (the Apple Card address on file) with PDF/JPEG/PNG attachments, redacting account numbers. REPLY DRAFT: /home/aniru/AppleCard_Vimeo_Dispute_Evidence_Reply.md + .docx. Attachments to gather: Vimeo cancellation/billing confirmation, Vimeo billing history, Capital One 'virtual card ...8348 deactivated' alert (Oct 16). Related: t224. | UPDATE mailbox scan 1026 (Oct 26 09:06 PT): STILL NOT SENT - ADITED Sent Mail has no outgoing mail since Oct 25 21:16 PT and PERSONAL Sent Mail none since Oct 23, so the evidence reply is unsent with the Goldman Sachs deadline 2 days out (Oct 28). Send /home/aniru/AppleCard_Vimeo_Dispute_Evidence_Reply.md from aniruddha@aditedmotionpictures.com with the Vimeo cancellation/billing PDFs. || 5 Nov 2026 scan: ADITED INBOX UID 24002 (<no_reply@post-account.applecard.apple>, Thu 05 Nov 07:51 UTC) 'Outcome of your Apple Card transaction dispute' - Goldman Sachs found NO billing error ('transaction was not canceled in accordance with the merchant's terms and conditions'); dispute COMPLETED, the $144.00 charge REMAINS, and the $144.00 temporary credit is being reversed on the next statement. Decide whether to accept or appeal with new evidence; if appealing, cite the cancellation confirmation and the merchant's own terms."
   },
   {
    "id": "t232",
@@ -2502,7 +2502,7 @@
    "priority": "high",
    "due": "2026-11-02",
    "title": "Pacific Homecare - sign NEW timesheet (Notice ID 5591, 24-hour window, requested 1 Nov 16:34 UTC)",
-   "notes": "1 Nov 2026 mailbox scan (APARNA INBOX UID 223519), Pacific Homecare Services <accounting@pacifichomecare.com>, Sun 01 Nov 2026 16:34 UTC, 'Please Review and Sign Timesheet' - 'Your Provider has submitted a timesheet for payroll processing. Please open the link below to approve and sign your Provider's timesheet within 24 hours.' Notice ID: 5591 (new request, distinct from the older Doc #719689 / Notice ID 5727 in t263). Portal action only - no email reply needed. ACTION: open the 'Document to be signed' link in the email and sign before ~1 Nov 17:00 PT +24h; if the link fails call (209) 956-2532 opt 5 or email accounting@pacifichomecare.com. | 3 Nov 2026 scan 1103: Pacific Homecare reminder 2 Nov 18:48 UTC (APARNA 223581) still lists BOTH pending docs - Sign Document #719689 and #725657 (Notice ID 5727); nothing signed yet, 24-hour compliance window language repeated."
+   "notes": "1 Nov 2026 mailbox scan (APARNA INBOX UID 223519), Pacific Homecare Services <accounting@pacifichomecare.com>, Sun 01 Nov 2026 16:34 UTC, 'Please Review and Sign Timesheet' - 'Your Provider has submitted a timesheet for payroll processing. Please open the link below to approve and sign your Provider's timesheet within 24 hours.' Notice ID: 5591 (new request, distinct from the older Doc #719689 / Notice ID 5727 in t263). Portal action only - no email reply needed. ACTION: open the 'Document to be signed' link in the email and sign before ~1 Nov 17:00 PT +24h; if the link fails call (209) 956-2532 opt 5 or email accounting@pacifichomecare.com. | 3 Nov 2026 scan 1103: Pacific Homecare reminder 2 Nov 18:48 UTC (APARNA 223581) still lists BOTH pending docs - Sign Document #719689 and #725657 (Notice ID 5727); nothing signed yet, 24-hour compliance window language repeated. || 5 Nov 2026 scan: fresh 'Timesheets Signature Request' (UID 223806, Thu 05 Nov 18:05 UTC) - see t291."
   },
   {
    "id": "t271",
@@ -2571,7 +2571,7 @@
    "priority": "medium",
    "due": "2026-11-07",
    "title": "DICP (Development is Child's Play) - complete IntakeQ intake forms to secure waitlist place for Ariana",
-   "notes": "3 Nov 2026 scan: APARNA INBOX UID 223615, DICP Team <app@intakeq.com>, Tue 03 Nov 00:59 UTC - 'Complete your Intake Forms for Development is Child's Play (2)', password 8fyhpy, link https://intakeq.com/intake/mus3abdzI16wWkCj9. 'All paperwork must be submitted before we can add you to our waitlist.' Preceded by 223614 (DICP Front Office welcome email, 2 Nov 16:55 PT) after an intake call: pediatric OT (Cupertino/Burlingame) and PT (Cupertino), evaluation required before sessions, rates increase 1 Jan 2027. ACTION: submit forms; note quoted evaluation/session rates before the Jan 2027 increase. Related t29, t67.",
+   "notes": "3 Nov 2026 scan: APARNA INBOX UID 223615, DICP Team <app@intakeq.com>, Tue 03 Nov 00:59 UTC - 'Complete your Intake Forms for Development is Child's Play (2)', password 8fyhpy, link https://intakeq.com/intake/mus3abdzI16wWkCj9. 'All paperwork must be submitted before we can add you to our waitlist.' Preceded by 223614 (DICP Front Office welcome email, 2 Nov 16:55 PT) after an intake call: pediatric OT (Cupertino/Burlingame) and PT (Cupertino), evaluation required before sessions, rates increase 1 Jan 2027. ACTION: submit forms; note quoted evaluation/session rates before the Jan 2027 increase. Related t29, t67. || 5 Nov 2026: DICP confirms OT report received and asks for the IntakeQ paperwork (UID 223761); IntakeQ confirms forms received (UID 223809). Continuing in t290.",
    "created": "2026-11-03 08:25"
   },
   {
@@ -2597,21 +2597,21 @@
   {
    "id": "t280",
    "track": "home",
-   "status": "pending",
+   "status": "in-progress",
    "priority": "high",
    "due": "2026-11-06",
    "title": "RCEB/Lidia - send table tennis invoices #5356 + #8245 and gymnastics receipts (reconcile $2,500 vs $2,990)",
-   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208025, Lidia Sanchez <lsanchez@rceb.org>, Wed 04 Nov 15:52 PT, 'Re: Ariana Dasgupta (UCI 8056425) - outstanding reimbursements'. She needs: (1) invoices #5356 (April) and #8245 (July) for table tennis showing service dates + total cost, and confirmation whether the $1,890 is monthly or every 3 months and when the next payment is due (to submit as recurring); (2) gymnastics receipts - approved $2,360 (3/1-6/30/26) + $140 (7/1-7/31/26) = $2,500 vs $2,990 claimed; (3) follow up with Miji separately to process approved gymnastics + piano reimbursements. Piano is set up as recurring $245/month parent reimbursement 6/1/26-5/31/27. IPP still traditional, SDP in process but nothing funded through SDP until fully enrolled. Ariana DOB is 12/23/19 - Aricka to send corrected document. Draft: /home/aniru/RCEB_Reimbursements_Invoices_Reply.md (+.docx). Related t273.",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208025, Lidia Sanchez <lsanchez@rceb.org>, Wed 04 Nov 15:52 PT, 'Re: Ariana Dasgupta (UCI 8056425) - outstanding reimbursements'. She needs: (1) invoices #5356 (April) and #8245 (July) for table tennis showing service dates + total cost, and confirmation whether the $1,890 is monthly or every 3 months and when the next payment is due (to submit as recurring); (2) gymnastics receipts - approved $2,360 (3/1-6/30/26) + $140 (7/1-7/31/26) = $2,500 vs $2,990 claimed; (3) follow up with Miji separately to process approved gymnastics + piano reimbursements. Piano is set up as recurring $245/month parent reimbursement 6/1/26-5/31/27. IPP still traditional, SDP in process but nothing funded through SDP until fully enrolled. Ariana DOB is 12/23/19 - Aricka to send corrected document. Draft: /home/aniru/RCEB_Reimbursements_Invoices_Reply.md (+.docx). Related t273. || 5 Nov 2026: Aparna replied 4 Nov 10:03 PT (APARNA Sent UID 8142) with invoices #5356 and #8245 attached, explained 10-session packs (~every 10-12 weeks, not monthly), and offered a TTA attendance statement if session dates are required. Remaining: gymnastics receipts reconciling $2,500 vs $2,990; Miji follow-up.",
    "created": "2026-11-04 10:05 PT"
   },
   {
    "id": "t281",
    "track": "home",
-   "status": "pending",
+   "status": "in-progress",
    "priority": "high",
    "due": "2026-11-06",
    "title": "RCEB/Lidia - answer music-lesson type + pick 3 concurrent social rec activities (piano/swim/table tennis)",
-   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208033 (Wed 04 Nov 16:45 PT) - Lidia needs to know what kind of individual music lessons Ariana will receive before she can submit the POS. UID 208034 (same time) - updated social rec policy effective 9/1/26 caps funding at 3 concurrent activities; Ariana currently has piano (may be a duplication with the request), swim lessons and table tennis - Lidia asks which 3 to keep. Draft: /home/aniru/RCEB_Music_Lessons_Clarification_Reply.md (+.docx). Related t273, t28, t130.",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208033 (Wed 04 Nov 16:45 PT) - Lidia needs to know what kind of individual music lessons Ariana will receive before she can submit the POS. UID 208034 (same time) - updated social rec policy effective 9/1/26 caps funding at 3 concurrent activities; Ariana currently has piano (may be a duplication with the request), swim lessons and table tennis - Lidia asks which 3 to keep. Draft: /home/aniru/RCEB_Music_Lessons_Clarification_Reply.md (+.docx). Related t273, t28, t130. || 5 Nov 2026: answered 4 Nov 10:26 PT (APARNA Sent UID 8143) - asked to keep gymnastics, swimming, table tennis; asked whether music lessons count separately under the social-rec cap; flagged switch of gymnastics provider from November. SkyCastle confirmed to Lidia (UID 223737) that lessons are individual piano, twice weekly. Awaiting Lidia's ruling.",
    "created": "2026-11-04 10:05 PT"
   },
   {
@@ -2641,7 +2641,7 @@
    "priority": "high",
    "due": "2026-11-05",
    "title": "We Strive ABA - sign new Docusign: In-Home Session Safety and Responsible Adult Presence policy",
-   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208017, We Strive ABA via Docusign <dse_NA4@docusign.net>, Wed 04 Nov 13:04 PT. New Docusign envelope 'In-Home Session Safety and Responsible Adult Presence' to view and sign. NOTE: Aparna already sent a clarification request on this policy on 2 Nov (Sent UID 6171 to admin@wsabatherapy.com + gshahi@wsabatherapy.com asking whether continuous visual presence is required) - check whether they answered before signing. Earlier signature packet: We_Strive_ABA_Safety_Policy_Signature_Reply.md (30 Oct).",
+   "notes": "4 Nov 2026 scan: APARNA INBOX UID 208017, We Strive ABA via Docusign <dse_NA4@docusign.net>, Wed 04 Nov 13:04 PT. New Docusign envelope 'In-Home Session Safety and Responsible Adult Presence' to view and sign. NOTE: Aparna already sent a clarification request on this policy on 2 Nov (Sent UID 6171 to admin@wsabatherapy.com + gshahi@wsabatherapy.com asking whether continuous visual presence is required) - check whether they answered before signing. Earlier signature packet: We_Strive_ABA_Safety_Policy_Signature_Reply.md (30 Oct). || 5 Nov 2026 scan: reminder UID 223746 (Edna Joyce <admin@wsabatherapy.com>, Wed 04 Nov 13:03 PT, 'Gentle Reminder - In-Home Session Safety and Responsible Adult Presence Policy' - resent for review/signature) and a further Docusign envelope UID 223744 (Wed 04 Nov 12:46 PT). Still unsigned as of this scan.",
    "created": "2026-11-04 10:05 PT"
   },
   {
@@ -2673,6 +2673,46 @@
    "title": "WAVES Film Bazaar 2026 - Joyguru NOT selected for Co-Production Market Feature; delegate pass + screenings still live",
    "notes": "4 Nov 2026 scan: ADITED INBOX UID 22676, Co-Production Market <coproduction@nfdcindia.com>, Wed 04 Nov 20:08 PT, 'Co-Production Market Feature 2026 | Your Application Update' - project 'Joyguru' did not make the final selection. No reply needed (form letter). Implications: Co-Production Market meetings/stand for Joyguru are off; confirm whether the delegate registration (t226 waiver, t07 accreditation) and the Devi Chowdhurani market screening booking (t257) are unaffected and still worth attending 20-24 Nov Goa.",
    "created": "2026-11-04 10:05 PT"
+  },
+  {
+   "id": "t288",
+   "track": "finance",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-15",
+   "title": "Apple Card dispute D-26994621 (Chipotle $11.96) - submit evidence to Goldman Sachs by Nov 15",
+   "notes": "5 Nov 2026 scan: ADITED INBOX UID 24000, 'Apple Card Support' <applecard_support@post.applecard.apple>, Thu 05 Nov 02:18 UTC, 'We request information that may help with your Apple Card transaction dispute' (SRV48 Evidence Needed Update). Case D-26994621, transaction 1 Nov 2026, merchant Chipotle Mex Gr Online, $11.96, temporary credit $11.96 applied. Evidence requested BY 15 NOV 2026: contract/agreement with merchant, correspondence with merchant, documentation of quality/misrepresentation. Companion status mail UID 24001 (same day): 'Merchant Contacted', merchant has until 20 Dec 2026, resolution no later than 30 Jan 2027; no payment/interest on disputed amount meanwhile. Portal/app upload - no email reply needed. Note: separate dispute D-26680287 (Vimeo $144) was DENIED 5 Nov - see t231.",
+   "created": "2026-11-05 11:1x PT"
+  },
+  {
+   "id": "t289",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-06",
+   "title": "Stanford Children's DBP - call office about missing questionnaires (RedCap intake, BASC-4, ABAS-3, Vanderbilt)",
+   "notes": "5 Nov 2026 scan: APARNA INBOX UID 223755, Developmental and Behavioral Programs <dbpoffice@stanfordchildrens.org>, Wed 04 Nov 14:50 PT, 'RE: New patient checklist' - 'Please call our office to review the forms you're expecting.' Aparna's 4 Nov email listed the five outstanding items (Developmental intake questionnaire/RedCap for parents; BASC-4 parent + teacher; ABAS-3 parent; NICHQ Vanderbilt parent + teacher) and gave the teacher address skopenski@nhusd.k12.ca.us. ACTION: phone the DBP office, confirm which forms were sent/are missing and that the teacher packet goes to Samantha Kopenski. Related t246 (MyChart), t95 (evaluation).",
+   "created": "2026-11-05 11:1x PT"
+  },
+  {
+   "id": "t290",
+   "track": "home",
+   "status": "pending",
+   "priority": "high",
+   "due": "2026-11-07",
+   "title": "DICP - submit IntakeQ intake paperwork to join evaluation waitlist (OT report already received)",
+   "notes": "5 Nov 2026 scan: APARNA INBOX UID 223761, DICP Front Office <office@dicptherapy.com>, Wed 04 Nov 15:56 PT - confirms receipt of Ariana's prior OT report; next step is the IntakeQ paperwork already emailed; a further form follows once that is done. Earlier nudges: UID 223751 (14:07 PT, 'the next step is to complete the paperwork... must complete before we can add you to the evaluation waitlist') and UID 223809 (Thu 05 Nov 10:55 PT, 'We've received your intake forms for DICP' - partial submission). Supersedes/extends t277. ACTION: finish and submit all IntakeQ forms; then expect DICP's second packet.",
+   "created": "2026-11-05 11:1x PT"
+  },
+  {
+   "id": "t291",
+   "track": "home",
+   "status": "pending",
+   "priority": "medium",
+   "due": "2026-11-06",
+   "title": "Pacific Homecare - sign new timesheet request received 5 Nov (24-hour window)",
+   "notes": "5 Nov 2026 scan: APARNA INBOX UID 223806, Pacific Homecare Services <accounting@pacifichomecare.com>, Thu 05 Nov 18:05 UTC, 'Timesheets Signature Request' - provider submitted a timesheet for payroll; approve/sign via the emailed link within 24 hours. Portal action only; no email reply. Follows the 1 Nov (Notice 5591) and 3 Nov requests in t270. If link fails: (209) 956-2532 opt 5 / accounting@pacifichomecare.com.",
+   "created": "2026-11-05 11:1x PT"
   }
  ],
  "last_scan_1004": "2026-10-04 07:25 PT",
@@ -2803,5 +2843,9 @@
  "last_scan_1104": "2026-11-04 10:05 PT",
  "last_scan_1104_run": "scan 1104 - INBOX + [Gmail]/Sent Mail, all 3 mailboxes (APARNA via .env credential), SINCE 3 days, Message-ID dedupe",
  "last_scan_1104_result": "6_REPLY_DRAFTS_8_NEW_TASKS_0_UPDATES",
- "last_scan_1104_findings": "PERSONAL: only Lidia/RCEB (dupe of APARNA 208032) actionable; rest marketing. ADITED: Parker Lloyd engagement letter received (22669), Tanmoy asks for it (22652), Soumyajit HDD/clean output (22654), Joyguru rejected by WAVES Co-Production Market (22676). APARNA: RCEB reimbursements/music lessons/social-rec cap (208025/208033/208034), Alexa Justo piano auth (208042), We Strive ABA Docusign (208017). APARNA prompt password still stale - used GMAIL_APARNA_APP_PASSWORD from /home/aniru/.hermes/.env."
+ "last_scan_1104_findings": "PERSONAL: only Lidia/RCEB (dupe of APARNA 208032) actionable; rest marketing. ADITED: Parker Lloyd engagement letter received (22669), Tanmoy asks for it (22652), Soumyajit HDD/clean output (22654), Joyguru rejected by WAVES Co-Production Market (22676). APARNA: RCEB reimbursements/music lessons/social-rec cap (208025/208033/208034), Alexa Justo piano auth (208042), We Strive ABA Docusign (208017). APARNA prompt password still stale - used GMAIL_APARNA_APP_PASSWORD from /home/aniru/.hermes/.env.",
+ "last_scan_1105": "2026-11-05 11:1x PT",
+ "last_scan_1105_run": "scan 1105 (INBOX + Sent Mail, 3 mailboxes, SINCE 03-Nov)",
+ "last_scan_1105_result": "1 draft, 4 new tasks, 6 updated",
+ "last_scan_1105_findings": "PERSONAL: 80 new since 3 Nov, all marketing/notifications (Samsung, Capital One, 4imprint deal-of-day, Primo Porcuna realtor pitch, bank alerts) - nothing actionable. ADITED: 12 new - Apple Card dispute D-26994621 (Chipotle $11.96) evidence due 15 Nov (new t288) and D-26680287 (Vimeo $144) DENIED, credit reversed (t231 updated); rest Ludon Lee press blasts, AFM26 deadline mail, Variety/American Banker newsletters. APARNA: 171 new since 3 Nov (mailbox had not been scanned since 3 Nov because the prompt app password is stale - used GMAIL_APARNA_APP_PASSWORD); RCEB thread already answered by Aparna on 4 Nov (Sent 8142/8143); genuinely open: Whitney Wilson/Arabesque question -> draft; Stanford DBP call-back (t289), DICP paperwork (t290), Pacific Homecare timesheet (t291), We Strive Docusign still unsigned (t284)."
 }
